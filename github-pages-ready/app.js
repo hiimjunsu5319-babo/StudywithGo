@@ -44,6 +44,8 @@ const els = {
   choices: document.querySelector("#choices"),
   answerBox: document.querySelector("#answerBox"),
   showAnswerBtn: document.querySelector("#showAnswerBtn"),
+  explanationBtn: document.querySelector("#explanationBtn"),
+  explanationBox: document.querySelector("#explanationBox"),
   markWrongBtn: document.querySelector("#markWrongBtn"),
   markCorrectBtn: document.querySelector("#markCorrectBtn"),
   nextBtn: document.querySelector("#nextBtn"),
@@ -339,6 +341,7 @@ function renderChoice(label, text) {
 
 function renderQuestion(question) {
   els.answerBox.classList.add("hidden");
+  els.explanationBox.classList.add("hidden");
   els.questionText.innerHTML = formatStem(question.stem || "문제를 표시할 수 없습니다.");
   els.choices.innerHTML = "";
 
@@ -355,7 +358,8 @@ function renderQuestion(question) {
     els.choices.appendChild(note);
   }
 
-  els.answerBox.textContent = `정답: ${question.answer}\n\n${question.explanation || "해설 없음"}`;
+  els.answerBox.textContent = `정답: ${question.answer}`;
+  els.explanationBox.textContent = question.explanation || "해설 없음";
   els.progressLabel.textContent = `${state.index + 1} / ${state.order.length} · ${question.page ? `${question.page}쪽` : chapterOf(question)}`;
 }
 
@@ -514,6 +518,7 @@ function render() {
     els.questionText.textContent = "문제가 없습니다.";
     els.choices.innerHTML = "";
     els.answerBox.classList.add("hidden");
+    els.explanationBox.classList.add("hidden");
     els.progressLabel.textContent = "-";
   }
   renderList();
@@ -597,6 +602,11 @@ document.querySelectorAll(".tabs button").forEach((button) => {
 });
 
 els.showAnswerBtn.addEventListener("click", () => reveal(true));
+els.explanationBtn.addEventListener("click", () => {
+  const question = currentQuestion();
+  if (!question) return;
+  els.explanationBox.classList.toggle("hidden");
+});
 els.markWrongBtn.addEventListener("click", () => {
   const question = currentQuestion();
   if (question) mark(question, "wrong");

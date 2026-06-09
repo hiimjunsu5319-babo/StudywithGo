@@ -6763,9 +6763,9 @@ window.QUIZ_DATA = {
               "text": "전부"
             }
           ],
-          "answer": "③",
+          "answer": "④",
           "correctLabels": [
-            "③"
+            "④"
           ],
           "trueFalse": null,
           "explanation": "복습 페이지\n• ㄹ X : 골수억제 → Ganciclovir\n• ㅁ X : Valacyclovir가 Acyclovir 전구약물\n•        Ch.49 p.3"

@@ -1,4 +1,4 @@
-﻿const CACHE_NAME = "gomingi-final-quiz-v9";
+﻿const CACHE_NAME = "gomingi-final-quiz-v12";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -54,6 +54,9 @@ self.addEventListener("sync", (event) => {
     event.waitUntil(Promise.resolve());
   }
 });
+
+
+
 
 
 

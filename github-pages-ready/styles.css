@@ -260,9 +260,22 @@ p {
 
 .answer {
   border-top: 1px solid var(--line);
+  color: var(--accent);
+  font-weight: 750;
   line-height: 1.65;
   margin-top: 16px;
   padding-top: 14px;
+  white-space: pre-wrap;
+}
+
+.explanation-box {
+  background: #f7faf8;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  color: var(--ink);
+  line-height: 1.65;
+  margin-top: 12px;
+  padding: 14px;
   white-space: pre-wrap;
 }
 

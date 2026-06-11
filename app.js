@@ -23,6 +23,8 @@ const state = {
   index: 0,
   selected: new Set(),
   order: [],
+  history: [],
+  reviewQuestionId: null,
   choiceShuffle: false,
   choiceOrder: {},
   favorites: {},
@@ -52,6 +54,7 @@ const els = {
   explanationBox: document.querySelector("#explanationBox"),
   markWrongBtn: document.querySelector("#markWrongBtn"),
   markCorrectBtn: document.querySelector("#markCorrectBtn"),
+  prevBtn: document.querySelector("#prevBtn"),
   nextBtn: document.querySelector("#nextBtn"),
   favoriteBtn: document.querySelector("#favoriteBtn"),
   shuffleBtn: document.querySelector("#shuffleBtn"),
@@ -130,13 +133,18 @@ function questionsForSubject() {
 
 function categoryOf(question) {
   const subject = currentSubject();
-  const source = `${question.stem || ""} ${question.explanation || ""}`;
+  const source = `${question.source || ""} ${question.stem || ""} ${question.explanation || ""}`;
 
   if (subject.id === "law") {
     if (question.trueFalse || ["T", "F"].includes(String(question.answer || "").trim())) return "T/F";
     if (source.includes("마약류")) return "마약류";
     if (source.includes("약사법")) return "약사법";
     return "나머지";
+  }
+
+  if (subject.id === "medicinal-chemistry") {
+    if (source.includes("의약화학(상빈)")) return "의약화학(상빈)";
+    return "의약화학(준수)";
   }
 
   if (subject.id === "clinical" && source.includes("(심화)")) {
@@ -175,6 +183,8 @@ function categoriesForSubject() {
       "Ch.52(심화)",
       "Ch.53(심화)",
     ],
+    "clinical-namsangbin": ["Ch.43", "Ch.44", "Ch.45", "Ch.46", "Ch.47", "Ch.48", "Ch.49", "Ch.52", "Ch.53"],
+    "medicinal-chemistry": ["의약화학(준수)", "의약화학(상빈)"],
   };
   const found = [...new Set(questionsForSubject().map(categoryOf))];
   const ordered = preferred[subject.id] || [];
@@ -247,11 +257,27 @@ function rebuildOrder(keepCurrent = false) {
 }
 
 function currentQuestion() {
+  if (state.reviewQuestionId) {
+    return questionsForSubject().find((q) => q.id === state.reviewQuestionId);
+  }
   const id = state.order[state.index];
   return questionsForCategory().find((q) => q.id === id);
 }
 
+function rememberQuestion(question) {
+  if (!question) return;
+  if (state.history[state.history.length - 1] !== question.id) {
+    state.history.push(question.id);
+    state.history = state.history.slice(-100);
+  }
+}
+
+function leaveReviewMode() {
+  state.reviewQuestionId = null;
+}
+
 function shuffle() {
+  leaveReviewMode();
   for (let i = state.order.length - 1; i > 0; i -= 1) {
     const j = Math.floor(Math.random() * (i + 1));
     [state.order[i], state.order[j]] = [state.order[j], state.order[i]];
@@ -333,6 +359,8 @@ async function queueProgressSync(question, status) {
 
 async function mark(question, status) {
   const previousIndex = state.index;
+  rememberQuestion(question);
+  leaveReviewMode();
   state.progress[question.id] = {
     status,
     subjectId: state.subjectId,
@@ -520,6 +548,7 @@ function renderList() {
         : `<span class="badge ${status}">${statusLabel(status)}</span><span>${escapeHtml(question.stem)}</span><small>${escapeHtml(chapterOf(question))}</small>`;
     button.addEventListener("click", () => {
       const idx = state.order.indexOf(question.id);
+      leaveReviewMode();
       state.index = idx >= 0 ? idx : 0;
       state.selected = new Set();
       render();
@@ -565,6 +594,8 @@ function renderSubjectTabs() {
       state.subjectId = subject.id;
       state.categoryId = "all";
       state.index = 0;
+      state.history = [];
+      leaveReviewMode();
       state.selected = new Set();
       rebuildOrder();
       render();
@@ -584,6 +615,8 @@ function renderCategoryTabs() {
     button.addEventListener("click", () => {
       state.categoryId = category;
       state.index = 0;
+      state.history = [];
+      leaveReviewMode();
       state.selected = new Set();
       rebuildOrder();
       render();
@@ -610,6 +643,7 @@ function render() {
   }
   renderList();
   renderFavoriteButton(question);
+  els.prevBtn.disabled = !state.history.length;
   document.querySelectorAll(".tabs button").forEach((button) => {
     button.classList.toggle("active", button.dataset.mode === state.mode);
   });
@@ -697,6 +731,8 @@ function registerServiceWorker() {
 document.querySelectorAll(".tabs button").forEach((button) => {
   button.addEventListener("click", () => {
     state.mode = button.dataset.mode;
+    state.history = [];
+    leaveReviewMode();
     rebuildOrder();
     render();
   });
@@ -716,7 +752,16 @@ els.markCorrectBtn.addEventListener("click", () => {
   const question = currentQuestion();
   if (question) mark(question, "correct");
 });
+els.prevBtn.addEventListener("click", () => {
+  const previousId = state.history.pop();
+  if (!previousId) return;
+  state.reviewQuestionId = previousId;
+  state.selected = new Set();
+  render();
+});
 els.nextBtn.addEventListener("click", () => {
+  rememberQuestion(currentQuestion());
+  leaveReviewMode();
   rebuildOrder(true);
   state.index = state.order.length ? (state.index + 1) % state.order.length : 0;
   state.selected = new Set();
@@ -740,6 +785,7 @@ els.favoriteBtn.addEventListener("click", async () => {
 els.choiceShuffleBtn.addEventListener("click", () => {
   state.choiceShuffle = !state.choiceShuffle;
   state.choiceOrder = {};
+  leaveReviewMode();
   state.selected = new Set();
   render();
 });

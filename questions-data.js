@@ -22760,6 +22760,7524 @@ window.QUIZ_DATA = {
           "explanation": "출처: 약전_국시_정답문항_요약.pdf / 2026년도 제77회 / 45번\n정답: A (①)"
         }
       ]
+    },
+    {
+      "id": "medicinal-chemistry",
+      "label": "의약화학",
+      "source": "의약예상",
+      "questions": [
+        {
+          "id": "medchem_001",
+          "page": "2",
+          "stem": "Q1. Quinoline계 항말라리아제에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Chloroquine은 DHFR를 억제하며 Primaquine은 4-aminoquinoline계이다."
+            },
+            {
+              "label": "②",
+              "text": "Hydroxychloroquine은 Chloroquine과 구조적으로 관련되며 Primaquine은 8-aminoquinoline계이다."
+            },
+            {
+              "label": "③",
+              "text": "Mefloquine은 8-aminoquinoline계이며 hypnozoite 제거에 사용된다."
+            },
+            {
+              "label": "④",
+              "text": "Quinacrine은 quinoline 고리를 포함하지 않으며 Chloroquine과 구조적으로 동일하다."
+            },
+            {
+              "label": "⑤",
+              "text": "Chloroquine은 DHFR 저해를 주기전으로 한다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② / PDF p.2",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_002",
+          "page": "3",
+          "stem": "Q2. Tetrahydrofolate 합성 억제제에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "DHFR를 저해하여 thymidine 생성을 방해하고 DNA 합성을 억제할 수 있으며, proguanil은 cycloguanil로 대사되어 활성을 나타낸다."
+            },
+            {
+              "label": "②",
+              "text": "DHPS만 저해하며 thymidine 생성과는 무관하다."
+            },
+            {
+              "label": "③",
+              "text": "사람 DHFR에 대한 친화도가 원충 DHFR보다 훨씬 높아 선택성이 생긴다."
+            },
+            {
+              "label": "④",
+              "text": "Folic acid 생합성을 증가시켜 DNA 합성을 촉진한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Pyrimethamine은 세포벽 합성을 억제한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.3",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_003",
+          "page": "4",
+          "stem": "Q3. Artemisinin 및 유도체에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Artemisia annua 유래의 sesquiterpene lactone이며 endoperoxide 구조를 통해 자유라 디칼을 생성한다."
+            },
+            {
+              "label": "②",
+              "text": "Quinoline계 항말라리아제로 heme 중합을 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "DHFR를 저해하여 원충의 folate 생합성을 억제한다."
+            },
+            {
+              "label": "④",
+              "text": "Hypnozoite 제거를 위한 대표 약물이다."
+            },
+            {
+              "label": "⑤",
+              "text": "모기 체내에서만 작용하며 인체 내 원충에는 작용하지 않는다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.4",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_004",
+          "page": "5",
+          "stem": "Q4. Metronidazole에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Nitroimidazole계 약물로 활성 대사체가 생성되어 ROS를 형성하며 Trichomoniasis, amebiasis 및 혐기성균 감염에 사용된다."
+            },
+            {
+              "label": "②",
+              "text": "Benzimidazole계 구충제로 microtubule 형성을 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "DHFR 저해를 통해 원충을 사멸시킨다."
+            },
+            {
+              "label": "④",
+              "text": "Neuraminidase를 저해하여 influenza를 치료한다."
+            },
+            {
+              "label": "⑤",
+              "text": "활성화 과정 없이 직접 세포벽 합성을 억제한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.5",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_005",
+          "page": "6",
+          "stem": "Q5. Benzimidazole계 구충제에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "물에 잘 녹아 전신 흡수가 우수한 것이 장내 기생충 치료의 핵심이다."
+            },
+            {
+              "label": "②",
+              "text": "Tubulin에 결합하여 microtubule 형성을 억제하고 ATP 고갈을 유도할 수 있다."
+            },
+            {
+              "label": "③",
+              "text": "Ca²⁺ 투과성을 증가시켜 기생충 마비를 유발한다."
+            },
+            {
+              "label": "④",
+              "text": "DHFR 저해를 통해 thymidine 생성을 차단한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Viral RNA polymerase를 저해한다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② / PDF p.6",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_006",
+          "page": "9",
+          "stem": "Q6. Allylamine계 항진균제에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "14α-demethylase의 heme iron과 결합하여 ergosterol 생합성을 억제한다."
+            },
+            {
+              "label": "②",
+              "text": "Squalene epoxidase를 저해하여 ergosterol 감소와 squalene 축적을 유도하며 terbinafine이 대표 약물이다."
+            },
+            {
+              "label": "③",
+              "text": "Δ14-reductase를 저해하는 morpholine계 약물이다."
+            },
+            {
+              "label": "④",
+              "text": "DHFR를 저해하여 thymidine 생성을 억제한다."
+            },
+            {
+              "label": "⑤",
+              "text": "β-glucan 합성을 저해한다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② / PDF p.9",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_007",
+          "page": "10",
+          "stem": "Q7. Morpholine계 항진균제에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Amorolfine은 Δ14-reductase 및 Δ8→Δ7 isomerase를 저해할 수 있다."
+            },
+            {
+              "label": "②",
+              "text": "Terbinafine과 동일하게 squalene epoxidase를 저해한다."
+            },
+            {
+              "label": "③",
+              "text": "Fluconazole과 동일하게 14α-demethylase를 저해한다."
+            },
+            {
+              "label": "④",
+              "text": "DHFR 저해를 통해 항진균 효과를 나타낸다."
+            },
+            {
+              "label": "⑤",
+              "text": "Microtubule 형성을 억제한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.10",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_008",
+          "page": "13~14",
+          "stem": "Q8. Isoniazid(INH)에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Mycolic acid 생합성을 억제하며 NAD⁺와 관련된 활성체 형성이 언급되고 결핵 치료 에 사용된다."
+            },
+            {
+              "label": "②",
+              "text": "Ribosome 30S subunit에 결합하여 단백질 합성을 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "Viral DNA polymerase를 선택적으로 저해한다."
+            },
+            {
+              "label": "④",
+              "text": "Neuraminidase inhibitor이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Ergosterol 생합성을 억제한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.13~14",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_009",
+          "page": "16",
+          "stem": "Q9. Ethambutol에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Trehalose monomycolate와의 구조 유사성이 언급되며 시신경 독성과 관련된다."
+            },
+            {
+              "label": "②",
+              "text": "Aminoglycoside계 항생제로 청각독성이 대표적이다."
+            },
+            {
+              "label": "③",
+              "text": "Mycolic acid 생합성을 직접 차단하는 prodrug이다."
+            },
+            {
+              "label": "④",
+              "text": "DNA gyrase를 저해한다."
+            },
+            {
+              "label": "⑤",
+              "text": "HIV reverse transcriptase를 저해한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.16",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_010",
+          "page": "17~18",
+          "stem": "Q10. Dapsone에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Diaryl sulfone 계열의 나병 치료제로 sulfonamide와 유사한 기전을 가지며 PABA와 병용 시 효과가 감소할 수 있다."
+            },
+            {
+              "label": "②",
+              "text": "Lamivudine의 prodrug이다."
+            },
+            {
+              "label": "③",
+              "text": "Mycolic acid 생합성을 직접 억제한다."
+            },
+            {
+              "label": "④",
+              "text": "Neuraminidase inhibitor이다."
+            },
+            {
+              "label": "⑤",
+              "text": "HIV protease inhibitor이다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.17~18",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_011",
+          "page": "12",
+          "stem": "Q11. 나병 치료제에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Dapsone, Rifampin, Clofazimine이 대표적인 다제요법 구성 약물이다."
+            },
+            {
+              "label": "②",
+              "text": "Dapsone 단독요법이 현재 표준치료이다."
+            },
+            {
+              "label": "③",
+              "text": "Clofazimine은 Neuraminidase inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "Rifampin은 DHFR 저해제로 사용된다."
+            },
+            {
+              "label": "⑤",
+              "text": "Dapsone은 HIV protease inhibitor이다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.12",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_012",
+          "page": "12",
+          "stem": "Q12. 1차 선택 결핵 치료제에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "INH, Ethambutol, Rifampin, Pyrazinamide는 대표적인 1차 선택 결핵 치료제이다."
+            },
+            {
+              "label": "②",
+              "text": "Kanamycin은 반드시 1차 선택약에 포함된다."
+            },
+            {
+              "label": "③",
+              "text": "Streptomycin만 사용해도 표준치료가 가능하다."
+            },
+            {
+              "label": "④",
+              "text": "Ethambutol은 항진균제이다."
+            },
+            {
+              "label": "⑤",
+              "text": "INH는 Influenza A 치료제이다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.12",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_013",
+          "page": "13",
+          "stem": "Q13. Isoniazid(INH)에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Mycolic acid 생합성과 관련된 경로를 억제하며 NAD⁺ 관련 활성체 형성이 언급된다."
+            },
+            {
+              "label": "②",
+              "text": "Viral DNA polymerase를 저해한다."
+            },
+            {
+              "label": "③",
+              "text": "Ribosome 30S subunit에 결합한다."
+            },
+            {
+              "label": "④",
+              "text": "Ergosterol 생합성을 억제한다."
+            },
+            {
+              "label": "⑤",
+              "text": "DHFR를 저해한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.13",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_014",
+          "page": "14",
+          "stem": "Q14. INH 작용기전에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Mycolic acid는 결핵균 세포벽의 중요한 구성성분이며, INH는 그 생합성을 억제한다."
+            },
+            {
+              "label": "②",
+              "text": "INH는 neuraminidase를 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "INH는 HIV reverse transcriptase를 저해한다."
+            },
+            {
+              "label": "④",
+              "text": "INH는 β-glucan 합성을 억제한다."
+            },
+            {
+              "label": "⑤",
+              "text": "INH는 microtubule 형성을 억제한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.14",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_015",
+          "page": "15",
+          "stem": "Q15. INH의 SAR에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Isonicotinic acid hydrazide 구조가 활성을 가지며, N1 수소의 치환은 활성을 감소시킬 수 있다."
+            },
+            {
+              "label": "②",
+              "text": "N1 위치 치환은 항상 활성을 증가시킨다."
+            },
+            {
+              "label": "③",
+              "text": "어떤 유도체도 INH보다 활성이 우수하다."
+            },
+            {
+              "label": "④",
+              "text": "Mycolic acid와 구조적으로 동일하다."
+            },
+            {
+              "label": "⑤",
+              "text": "활성 발현을 위해 반드시 triphosphate 형태가 필요하다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.15",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_016",
+          "page": "16",
+          "stem": "Q16. Ethambutol에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Mycolic acid의 세포벽 도입을 방해하며 시신경 독성과 관련된다."
+            },
+            {
+              "label": "②",
+              "text": "Viral DNA chain termination을 유발한다."
+            },
+            {
+              "label": "③",
+              "text": "DHFR를 저해한다."
+            },
+            {
+              "label": "④",
+              "text": "Neuraminidase를 저해한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Ergosterol 생합성을 억제한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.16",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_017",
+          "page": "17",
+          "stem": "Q17. Dapsone에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "4,4'-Diaminodiphenyl sulfone 구조를 가지는 diaryl sulfone 계열 나병 치료제이다."
+            },
+            {
+              "label": "②",
+              "text": "Guanosine analogue이다."
+            },
+            {
+              "label": "③",
+              "text": "HIV 치료제로만 사용된다."
+            },
+            {
+              "label": "④",
+              "text": "Mycolic acid 생합성을 직접 억제한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Influenza A/B 치료에 사용된다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.17",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_018",
+          "page": "18",
+          "stem": "Q18. Dapsone의 작용기전에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Sulfonamide와 유사한 정균작용을 나타내며 PABA와 경쟁적으로 관련된다."
+            },
+            {
+              "label": "②",
+              "text": "Viral DNA polymerase를 저해한다."
+            },
+            {
+              "label": "③",
+              "text": "Reverse transcriptase를 저해한다."
+            },
+            {
+              "label": "④",
+              "text": "Neuraminidase를 저해한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Microtubule 형성을 억제한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.18",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_019",
+          "page": "18",
+          "stem": "Q19. Dapsone과 PABA의 관계에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "PABA 농도가 증가하면 Dapsone의 경쟁적 저해 효과가 감소할 수 있다."
+            },
+            {
+              "label": "②",
+              "text": "PABA는 Dapsone을 활성화시키는 효소이다."
+            },
+            {
+              "label": "③",
+              "text": "PABA는 Dapsone의 prodrug이다."
+            },
+            {
+              "label": "④",
+              "text": "PABA는 HIV protease를 억제한다."
+            },
+            {
+              "label": "⑤",
+              "text": "PABA는 Neuraminidase inhibitor이다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.18",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_020",
+          "page": "13~18",
+          "stem": "Q20. 다음 중 나병 및 결핵 치료제의 특징을 가장 올바르게 연결한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "INH–Mycolic acid 생합성 억제 / Ethambutol–세포벽 도입 억제 / Dapsone–PABA 관련 길항작용"
+            },
+            {
+              "label": "②",
+              "text": "INH–Neuraminidase 억제 / Ethambutol–DNA polymerase 억제 / Dapsone–Protease 억제"
+            },
+            {
+              "label": "③",
+              "text": "INH–β-glucan 억제 / Ethambutol–DHFR 억제 / Dapsone–Integrase 억제"
+            },
+            {
+              "label": "④",
+              "text": "INH–Reverse transcriptase 억제 / Ethambutol–Microtubule 억제 / Dapsone–RNA polymerase 억제"
+            },
+            {
+              "label": "⑤",
+              "text": "INH–Influenza 치료 / Ethambutol–항진균제 / Dapsone–항바이러스제"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.13~18",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_021",
+          "page": "21",
+          "stem": "Q21. Zidovudine(AZT)에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Guanosine 유도체이며 HSV 치료에 사용된다."
+            },
+            {
+              "label": "②",
+              "text": "Thymidine 유도체로서 세포 내 인산화 과정을 거쳐 활성화되며 DNA chain elongation을 중단시킬 수 있다."
+            },
+            {
+              "label": "③",
+              "text": "Neuraminidase inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "HIV protease inhibitor이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Integrase inhibitor이다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② / PDF p.21",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_022",
+          "page": "21",
+          "stem": "Q22. Zidovudine의 활성 기전에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "3' 위치의 OH가 증가하여 DNA 합성을 촉진한다."
+            },
+            {
+              "label": "②",
+              "text": "Triphosphate 활성체가 되어 viral DNA에 삽입된 후 chain termination을 유발한다."
+            },
+            {
+              "label": "③",
+              "text": "Neuraminidase와 공유결합한다."
+            },
+            {
+              "label": "④",
+              "text": "Viral protease를 비가역적으로 저해한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Mycolic acid 생합성을 억제한다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② / PDF p.21",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_023",
+          "page": "22",
+          "stem": "Q23. Acyclovir에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "HSV 감염에 사용되며 활성형 triphosphate가 viral DNA polymerase를 저해할 수 있 다."
+            },
+            {
+              "label": "②",
+              "text": "Influenza A/B 치료제이다."
+            },
+            {
+              "label": "③",
+              "text": "HIV reverse transcriptase inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "Protease inhibitor이다."
+            },
+            {
+              "label": "⑤",
+              "text": "DHFR inhibitor이다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.22",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_024",
+          "page": "22, 28",
+          "stem": "Q24. Acyclovir와 Famciclovir의 비교로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "둘 다 neuraminidase inhibitor이다."
+            },
+            {
+              "label": "②",
+              "text": "Acyclovir는 HSV에 사용되며, Famciclovir는 penciclovir의 경구용 prodrug이다."
+            },
+            {
+              "label": "③",
+              "text": "둘 다 HIV protease inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "둘 다 integrase inhibitor이다."
+            },
+            {
+              "label": "⑤",
+              "text": "둘 다 DHFR inhibitor이다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② / PDF p.22, 28",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_025",
+          "page": "23",
+          "stem": "Q25. Vidarabine에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Arabinose 당을 가진 nucleoside 유도체이며 세포 내 인산화 후 활성화될 수 있다."
+            },
+            {
+              "label": "②",
+              "text": "Influenza 치료용 neuraminidase inhibitor이다."
+            },
+            {
+              "label": "③",
+              "text": "HIV protease inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "Mycolic acid 생합성 억제제이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Integrase inhibitor이다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.23",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_026",
+          "page": "24",
+          "stem": "Q26. Ribavirin에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Open-chain purine nucleoside 유도체이며 RNA 및 DNA virus에 활성을 나타낼 수 있 다."
+            },
+            {
+              "label": "②",
+              "text": "HIV protease inhibitor이다."
+            },
+            {
+              "label": "③",
+              "text": "HSV에만 특이적으로 사용된다."
+            },
+            {
+              "label": "④",
+              "text": "Neuraminidase inhibitor이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Integrase inhibitor이다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.24",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_027",
+          "page": "25",
+          "stem": "Q27. HIV 역전사효소 저해제의 SAR에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "활성 발현을 위해 반드시 3'-OH가 유지되어야 한다."
+            },
+            {
+              "label": "②",
+              "text": "3' 위치에 azido, hydrogen 또는 fluoro 치환이 가능하며, 당 구조 일부의 hetero atom이 중요할 수 있다."
+            },
+            {
+              "label": "③",
+              "text": "반드시 purine 구조만 가능하다."
+            },
+            {
+              "label": "④",
+              "text": "반드시 thymidine 구조만 가능하다."
+            },
+            {
+              "label": "⑤",
+              "text": "Kinase에 의한 활성화는 필요하지 않다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② / PDF p.25",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_028",
+          "page": "26",
+          "stem": "Q28. Nevirapine에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Nucleoside analogue로 triphosphate 활성체가 된다."
+            },
+            {
+              "label": "②",
+              "text": "HIV-1 reverse transcriptase의 allosteric 부위에 작용하는 NNRTI이다."
+            },
+            {
+              "label": "③",
+              "text": "HIV protease inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "HSV 치료제이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Neuraminidase inhibitor이다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② / PDF p.26",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_029",
+          "page": "27",
+          "stem": "Q29. HIV protease inhibitor에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Aspartic protease를 표적으로 하며 lopinavir/ritonavir 복합제(Kaletra)가 대표적이다."
+            },
+            {
+              "label": "②",
+              "text": "Viral DNA polymerase를 직접 저해한다."
+            },
+            {
+              "label": "③",
+              "text": "Influenza A/B 치료에 사용된다."
+            },
+            {
+              "label": "④",
+              "text": "HSV 치료에 사용된다."
+            },
+            {
+              "label": "⑤",
+              "text": "DHFR를 저해한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.27",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_030",
+          "page": "30",
+          "stem": "Q30. Oseltamivir에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "GS4071의 ethyl ester prodrug이며 Influenza A/B 치료에 사용되는 neuraminidase inhibitor이다."
+            },
+            {
+              "label": "②",
+              "text": "HIV protease inhibitor이다."
+            },
+            {
+              "label": "③",
+              "text": "Reverse transcriptase inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "HSV 치료용 nucleoside analogue이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Integrase inhibitor이다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.30",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_031",
+          "page": "32",
+          "stem": "Q32. Cyclophosphamide에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "활성형 그대로 투여되는 alkylating agent이다."
+            },
+            {
+              "label": "②",
+              "text": "간에서 활성화되는 prodrug이며 4-hydroxycyclophosphamide와 aldophosphamide를 거쳐 활성체를 형성할 수 있다."
+            },
+            {
+              "label": "③",
+              "text": "Neuraminidase inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "DHFR를 저해한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Tyrosine kinase inhibitor이다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② / PDF p.32",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_032",
+          "page": "32",
+          "stem": "Q33. Cyclophosphamide의 독성과 관련된 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Acrolein은 방광독성과 관련되며 이를 감소시키기 위해 Mesna를 사용할 수 있다."
+            },
+            {
+              "label": "②",
+              "text": "Acrolein은 시신경 독성을 유발한다."
+            },
+            {
+              "label": "③",
+              "text": "Mesna는 골수억제를 예방한다."
+            },
+            {
+              "label": "④",
+              "text": "Acrolein은 DNA polymerase를 억제한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Mesna는 Cyclophosphamide의 항암효과를 증가시킨다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.32",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_033",
+          "page": "33",
+          "stem": "Q34. Mitomycin C에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Quinone reductase(NADPH 관련 효소)에 의해 활성화될 수 있는 생물학적 알킬화제이 다."
+            },
+            {
+              "label": "②",
+              "text": "HIV protease inhibitor이다."
+            },
+            {
+              "label": "③",
+              "text": "DHFR inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "Neuraminidase inhibitor이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Integrase inhibitor이다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.33",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_034",
+          "page": "34",
+          "stem": "Q35. Cisplatin에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "DNA의 guanine 및 adenine 염기와 상호작용하여 cross-link를 형성할 수 있으며, 기 전상 알킬화제와 유사하게 분류되기도 한다."
+            },
+            {
+              "label": "②",
+              "text": "Viral DNA polymerase를 저해한다."
+            },
+            {
+              "label": "③",
+              "text": "Reverse transcriptase의 allosteric site에 결합한다."
+            },
+            {
+              "label": "④",
+              "text": "Thymidylate synthase를 저해한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Mycolic acid 생합성을 억제한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.34",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_035",
+          "page": "35",
+          "stem": "Q36. Cisplatin의 SAR에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Leaving group은 세포 내에서 물(H₂O)로 치환되며 활성화될 수 있다."
+            },
+            {
+              "label": "②",
+              "text": "활성 발현을 위해 반드시 azido기가 필요하다."
+            },
+            {
+              "label": "③",
+              "text": "Pyridine 고리가 존재해야 한다."
+            },
+            {
+              "label": "④",
+              "text": "Triphosphate 활성체로 전환된다."
+            },
+            {
+              "label": "⑤",
+              "text": "Viral RNA polymerase를 저해한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.35",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_036",
+          "page": "36",
+          "stem": "Q37. Fluorouracil(5-FU)에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Purine 길항제이다."
+            },
+            {
+              "label": "②",
+              "text": "활성형인 5-FdUMP로 전환되어 thymidylate synthase를 저해할 수 있다."
+            },
+            {
+              "label": "③",
+              "text": "HIV protease inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "Neuraminidase inhibitor이다."
+            },
+            {
+              "label": "⑤",
+              "text": "DNA gyrase inhibitor이다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② / PDF p.36",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_037",
+          "page": "36~37",
+          "stem": "Q38. 5-FU의 작용기전에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "dTMP 생성을 억제하여 DNA 합성을 방해할 수 있다."
+            },
+            {
+              "label": "②",
+              "text": "Mycolic acid 생합성을 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "Ergosterol 생합성을 억제한다."
+            },
+            {
+              "label": "④",
+              "text": "Viral DNA polymerase를 저해한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Protease를 저해한다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.36~37",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_038",
+          "page": "39",
+          "stem": "Q39. Imatinib에 대한 설명으로 가장 적절한 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "선택적 tyrosine kinase inhibitor로 Bcr-Abl, c-Kit, PDGFR kinase를 저해하며 CML과 GIST 치료에 사용된다."
+            },
+            {
+              "label": "②",
+              "text": "Neuraminidase inhibitor이다."
+            },
+            {
+              "label": "③",
+              "text": "HIV protease inhibitor이다."
+            },
+            {
+              "label": "④",
+              "text": "Alkylating agent이다."
+            },
+            {
+              "label": "⑤",
+              "text": "DHFR inhibitor이다."
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① / PDF p.39",
+          "source": "의약화학(준수)"
+        },
+        {
+          "id": "medchem_sangbin_001",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q1. 말라리아의 발병기전에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "말라리아는 수컷 모기(anopheles)에 의해 전파된다."
+            },
+            {
+              "label": "②",
+              "text": "감염된 모기에 물리면 모기 타액 중의 분열소체(merozoite)가 혈액을 통해 간세포로 이동한 다."
+            },
+            {
+              "label": "③",
+              "text": "조직 번식체(schizont)가 파열하면 분열소체(merozoite)가 방출되어 적혈구를 침범한다."
+            },
+            {
+              "label": "④",
+              "text": "말라리아의 특징적인 오한과 발열은 분열소체가 간세포를 파괴할 때 나타난다."
+            },
+            {
+              "label": "⑤",
+              "text": "Plasmodium falciparum만이 말라리아를 유발하는 유일한 원충이다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_002",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q2. 말라리아 치료제의 분류 중 적혈구를 침범하여 증식 중인 원충에 작용하는 약물에 해당하는 것 은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Sporozoitocides"
+            },
+            {
+              "label": "②",
+              "text": "Gametocytocides"
+            },
+            {
+              "label": "③",
+              "text": "Tissue schizonticides"
+            },
+            {
+              "label": "④",
+              "text": "Blood schizonticides"
+            },
+            {
+              "label": "⑤",
+              "text": "Helminthicides"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_003",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q3. Quinoline계 항말라리아제의 작용기전으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Dihydrofolate reductase(DHFR)를 저해하여 tetrahydrofolate 합성을 차단한다."
+            },
+            {
+              "label": "②",
+              "text": "Heme이 hemozoin으로 변환되는 과정을 차단하여 원충을 사멸한다."
+            },
+            {
+              "label": "③",
+              "text": "Ca2+-ATPase를 공격하여 원충의 세포막을 손상시킨다."
+            },
+            {
+              "label": "④",
+              "text": "Nicotine 수용체를 활성화하고 cholinesterase를 억제하여 기생충을 마비시킨다."
+            },
+            {
+              "label": "⑤",
+              "text": "Fumarate reductase를 억제하여 ATP를 고갈시킨다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②"
+        },
+        {
+          "id": "medchem_sangbin_004",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q4. Proguanil에 관한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Tetrahydrofolate 합성 억제제 계열에 속한다."
+            },
+            {
+              "label": "②",
+              "text": "체내 대사를 통해 cycloguanil로 전환된 후 활성을 나타낸다."
+            },
+            {
+              "label": "③",
+              "text": "Dihydrofolate reductase(DHFR)를 저해한다."
+            },
+            {
+              "label": "④",
+              "text": "전구약물(prodrug)의 형태로 투여된다."
+            },
+            {
+              "label": "⑤",
+              "text": "DNA 생합성에 필요한 uridine이 thymidine으로 전환되는 과정을 직접 차단한다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_005",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q5. Artemisinin 및 그 유도체에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Artemisia annua에서 분리된 천연물 및 그 유도체이다."
+            },
+            {
+              "label": "②",
+              "text": "Sesquiterpene lactone endoperoxide 구조를 갖는다."
+            },
+            {
+              "label": "③",
+              "text": "자유라디칼을 생성하여 말라리아 원충을 사멸한다."
+            },
+            {
+              "label": "④",
+              "text": "Endoperoxide 구조가 탄소 라디칼을 생성하여 원충의 Ca2+-ATPase를 공격한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Sesterterpene 구조가 약리활성의 핵심이다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_006",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q6. Metronidazole에 대한 설명으로 옳은 것을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "항원충성 nitroimidazole계 약물이다."
+            },
+            {
+              "label": "②",
+              "text": "전구약물로서 혐기성 미생물에 의해 hydroxylamine 구조의 대사체로 활성화된다."
+            },
+            {
+              "label": "③",
+              "text": "활성화된 대사체가 ROS를 생성하여 DNA 등 세포 구성 요소를 공격한다."
+            },
+            {
+              "label": "④",
+              "text": "트리코모나스 질염, 장과 간의 아메바 감염 치료에 사용된다."
+            },
+            {
+              "label": "⑤",
+              "text": "호기성 조건에서 활성화되어 살균 효과를 나타낸다."
+            }
+          ],
+          "answer": "①,②,③,④",
+          "correctLabels": [
+            "①",
+            "②",
+            "③",
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ①,②,③,④"
+        },
+        {
+          "id": "medchem_sangbin_007",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q7. Benzimidazole계 구충제에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "대표 약물로는 mebendazole, albendazole, thiabendazole 등이 있다."
+            },
+            {
+              "label": "②",
+              "text": "장내 기생충 감염에 효과적인 광범위 구충제로 복합감염에 사용된다."
+            },
+            {
+              "label": "③",
+              "text": "Fumarate reductase를 억제하여 ATP를 고갈시키는 기전을 가진다."
+            },
+            {
+              "label": "④",
+              "text": "Tubulin과 결합하여 microtubule 형성을 억제한다."
+            },
+            {
+              "label": "⑤",
+              "text": "물에 대한 용해도가 높아 흡수가 잘 되므로 장내 기생충 감염 치료에 효과적이다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_008",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q8. Pyrantel에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "요충에 특효약이다."
+            },
+            {
+              "label": "②",
+              "text": "난용성 pamoic acid염으로 사용하여 체내 흡수를 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "Nicotine 수용체를 활성화하고 cholinesterase를 억제하여 기생충 근육에 강직성 마비를 일 으킨다."
+            },
+            {
+              "label": "④",
+              "text": "선형류와 편형류 모두에 광범위하게 효과적이다."
+            },
+            {
+              "label": "⑤",
+              "text": "장내 기생충 감염 치료에 적합하다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_009",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q9. 체외기생충 감염 치료제에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Permethrin은 옴 구제에 1% lotion, 이 구제에 5% lotion을 사용한다."
+            },
+            {
+              "label": "②",
+              "text": "Crotamiton은 permethrin보다 작용이 강하여 더 낮은 농도의 제형을 사용한다."
+            },
+            {
+              "label": "③",
+              "text": "Lindane은 GABA 차단을 통해 중추신경계를 자극하여 살충 효과를 나타낸다."
+            },
+            {
+              "label": "④",
+              "text": "Permethrin은 온혈동물에게도 신경독성을 초래하는 단점이 있다."
+            },
+            {
+              "label": "⑤",
+              "text": "체외기생충 감염 치료제는 성충에만 작용하면 충분하다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_010",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q10. 기생충감염 치료제 전반에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "장관내 기생충 치료제는 흡수가 어려운 약물을 사용한다."
+            },
+            {
+              "label": "②",
+              "text": "Praziquantel은 선형류에는 활성이 없으나 여러 편형류에 유효한 광범위 구충제이다."
+            },
+            {
+              "label": "③",
+              "text": "Quinoline계 약물은 내성이 생길 경우 약물을 세포 밖으로 수송하거나 대사과정을 조절하 는 방식으로 내성이 발생한다."
+            },
+            {
+              "label": "④",
+              "text": "Trimethoprim은 Tetrahydrofolate 합성 억제제로 DHFR을 저해하며, 사람의 DHFR에 대한 친화도가 말라리아 원충보다 훨씬 높아 선택성을 가진다."
+            },
+            {
+              "label": "⑤",
+              "text": "Artemisinin의 endoperoxide 구조가 탄소 라디칼을 생성하는 데 핵심적인 역할을 한다. [기출문제]"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_011",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q11. Proguanil에 관한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "DHFR(Dihydrofolate reductase) 저해제이다."
+            },
+            {
+              "label": "②",
+              "text": "FAH4 cofactor 생합성 과정을 차단해 thymidine이 uridine으로 전환하는 것을 막는다."
+            },
+            {
+              "label": "③",
+              "text": "말라리아 원충 DHFR에 대한 친화도가 높아 선택적 활성을 갖는다."
+            },
+            {
+              "label": "④",
+              "text": "체내 대사를 받아 cycloguanil로 바뀌어 활성을 나타낸다."
+            },
+            {
+              "label": "⑤",
+              "text": "Tetrahydrofolate 합성 억제제 계열에 속한다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②"
+        },
+        {
+          "id": "medchem_sangbin_012",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q1. 진균(fungi)과 항진균제에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "진균은 원형의 효모(yeast), 섬유형태인 사상균(mold), 두 가지 형태를 지닌 이상진균 (dimorphic fungi)으로 구분된다."
+            },
+            {
+              "label": "②",
+              "text": "진균감염으로 인한 질환을 진균증(mycoses)이라 하며, 칸디다증과 피부사상균증이 대표적 이다."
+            },
+            {
+              "label": "③",
+              "text": "진균은 포유동물과 달리 ergosterol을 이용하여 세포막을 구성하므로 ergosterol이 중요한 약물 표적이 된다."
+            },
+            {
+              "label": "④",
+              "text": "진균은 포유동물과 마찬가지로 세포벽이 없어 세포벽 합성 저해제는 항진균 치료에 활용되 지 않는다."
+            },
+            {
+              "label": "⑤",
+              "text": "1970년대 이후 면역저하 환자에서 심층·전신 감염이 증가하면서 항진균제 개발이 활발해졌 다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_013",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q2. Ergosterol과 Cholesterol의 합성과정 비교에 대한 설명으로 옳은 것을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "콜레스테롤 합성과정에서 Lanosterol의 14α-methyl기와 4번 위치의 geminal dimethyl이 제 거되어 zygmosterol이 된다."
+            },
+            {
+              "label": "②",
+              "text": "에르고스테롤 합성에서 14α-sterol demethylase는 라노스테롤의 14번 methyl기만을 산화 시켜 제거한다."
+            },
+            {
+              "label": "③",
+              "text": "에르고스테롤 합성 중간과정에서 Δ14-reductase는 C와 D링을 cis 형태로 변환하면서 환원 한다."
+            },
+            {
+              "label": "④",
+              "text": "콜레스테롤 합성 최종 단계에서 24번 위치의 이중결합이 환원되어 콜레스테롤이 생성된다."
+            },
+            {
+              "label": "⑤",
+              "text": "에르고스테롤 합성과정에서 24번 위치에 탄소 원자가 첨가되고 이중결합이 이동하여 exomethylene기를 가진 fecosterol이 형성된다."
+            }
+          ],
+          "answer": "①,②,④,⑤",
+          "correctLabels": [
+            "①",
+            "②",
+            "④",
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ①,②,④,⑤"
+        },
+        {
+          "id": "medchem_sangbin_014",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q3. Polyene계 항진균제에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Cholesterol보다 Ergosterol에 더 높은 친화도를 보인다."
+            },
+            {
+              "label": "②",
+              "text": "친수성과 소수성을 동시에 지닌 양성(amphibious) 부분을 포함하는 거대 환 구조이다."
+            },
+            {
+              "label": "③",
+              "text": "Imidazole 링의 염기성 질소원자가 14α-demethylase의 heme 철이온과 배위결합을 형성하 여 항진균 작용을 나타낸다."
+            },
+            {
+              "label": "④",
+              "text": "신장 장애 등의 심각한 독성이 있어 사용상 주의가 필요하다."
+            },
+            {
+              "label": "⑤",
+              "text": "Polyene계 항진균제의 독성 문제를 극복하기 위해 개발된 것이 Azole계 진균제이다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_015",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q4. Azole계 항진균제의 작용기전에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Imidazole(triazole) 링의 산성 질소원자가 14α-demethylase의 heme 철이온과 배위결합을 형성한다."
+            },
+            {
+              "label": "②",
+              "text": "14α-methyl기는 14α-demethylase heme에 있는 활성화 산소에 의해 두 번의 히드록시화 반응을 거쳐 카르복실산으로 산화된다."
+            },
+            {
+              "label": "③",
+              "text": "생성된 카르복실산은 D링의 C14와 C15 사이에 이중결합을 형성하면서 포름산으로 떨어져 나간다."
+            },
+            {
+              "label": "④",
+              "text": "진균의 14α-demethylase는 사람의 것과 동일한 구조를 가지므로 선택적 독성이 어렵다."
+            },
+            {
+              "label": "⑤",
+              "text": "Fluconazole은 imidazole 구조, Ketoconazole은 triazole 구조를 갖는다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_016",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q5. Allylamine계 항진균제에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "대표 약물로 Terbinafine, Naftifine, Butenafine 등이 있다."
+            },
+            {
+              "label": "②",
+              "text": "Squalene epoxidase를 저해하여 ergosterol 합성을 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "스쿠알렌의 소비가 억제되면서 이물질이 세포질 내에 축적되어 세포내 작용이 방해받는다."
+            },
+            {
+              "label": "④",
+              "text": "Squalene epoxidase는 인체에 존재하지 않는 진균 특이적 효소이므로 높은 선택성을 갖는 다."
+            },
+            {
+              "label": "⑤",
+              "text": "Ergosterol의 양을 줄여 세포막의 기능 이상을 초래한다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_017",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q6. Δ14-Reductase와 Δ8-Δ7 isomerase 저해제에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "대표 약물로 Terbinafine, Naftifine, Butenafine이 있다."
+            },
+            {
+              "label": "②",
+              "text": "Morpholine 링을 가지고 있어 morpholine 항진균제로 불린다."
+            },
+            {
+              "label": "③",
+              "text": "두 효소를 저해하여 ergosterol과 lanosterol을 축적시킨다."
+            },
+            {
+              "label": "④",
+              "text": "축적된 sterol은 ergosterol과 구조가 동일하여 세포막 기능을 정상적으로 유지한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Squalene epoxidase를 저해하는 것이 주요 작용기전이다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②"
+        },
+        {
+          "id": "medchem_sangbin_018",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q7. Nuclear division 저해제인 Griseofulvin에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "1939년 Penicillium griseofulvum에서 분리된 항생물질이다."
+            },
+            {
+              "label": "②",
+              "text": "진균의 발육과 번식을 억제하는 정진균(fungistatic) 작용을 한다."
+            },
+            {
+              "label": "③",
+              "text": "Tubulin 단백질과 결합하여 방추체(mitotic spindle)의 기능을 억제하는 기전으로 항진균 작 용을 나타낸다."
+            },
+            {
+              "label": "④",
+              "text": "Ergosterol 합성 경로의 14α-demethylase를 억제하여 항진균 효과를 발휘한다."
+            },
+            {
+              "label": "⑤",
+              "text": "새로운 항진균제들이 개발됨에 따라 점차 사용이 감소하는 추세이다. [기출문제]"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_019",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q8. Terbinafine은 위의 생합성 과정에서 어느 과정을 저해하는가?",
+          "choices": [],
+          "answer": "①,⑥,⑨",
+          "correctLabels": [
+            "①",
+            "⑥",
+            "⑨"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ①,⑥,⑨"
+        },
+        {
+          "id": "medchem_sangbin_020",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q9. Amorolfine은 위의 생합성 과정에서 어느 과정을 저해하는가?",
+          "choices": [],
+          "answer": "정답 미기재",
+          "correctLabels": [],
+          "trueFalse": null,
+          "explanation": "PDF 정답표에서 정답을 찾지 못했습니다."
+        },
+        {
+          "id": "medchem_sangbin_021",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q10. Itraconazole은 위의 생합성 과정에서 어느 과정을 저해하는가?",
+          "choices": [],
+          "answer": "③,⑦",
+          "correctLabels": [
+            "③",
+            "⑦"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③,⑦"
+        },
+        {
+          "id": "medchem_sangbin_022",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q1. 내산성균 질환(Mycobacterial Diseases)에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "내산성균(Mycobacteria)은 방선균목, 마이코박테리움과에 속하는 구균(coccus)이다."
+            },
+            {
+              "label": "②",
+              "text": "나병은 Mycobacterium tuberculosis의 감염에 의한 만성 육아종성 질환이다."
+            },
+            {
+              "label": "③",
+              "text": "나병은 병적 변화의 종류에 따라 나종나병(lepromatous leprosy)과 결핵나병(tuberculoid leprosy)으로 나뉜다."
+            },
+            {
+              "label": "④",
+              "text": "결핵(TB)의 원인균은 Mycobacterium leprae이다."
+            },
+            {
+              "label": "⑤",
+              "text": "내산성균은 산성(acid-fast) 특성이 없어 특수 염색법이 필요하지 않다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_023",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q2. Isoniazid(INH)에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "피리딘(pyridine)과 hydrazide 구조로 이루어져 있다."
+            },
+            {
+              "label": "②",
+              "text": "INH는 isonicotinic acid로 전환되어 nicotinic acid 대신 NAD+와 결합하는 기전을 가진다."
+            },
+            {
+              "label": "③",
+              "text": "INH가 C24, C26 불포화지방산에서 C24, C26 포화지방산으로 전환되는 과정에서 억제제로 작용한다."
+            },
+            {
+              "label": "④",
+              "text": "INH의 N1 위치 수소를 alkyl group으로 치환하면 항결핵 활성이 증가한다."
+            },
+            {
+              "label": "⑤",
+              "text": "INH는 mycolic acid의 생물합성을 억제하는 것으로 해석할 수 있다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_024",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q3. 1차 결핵 치료제인 Rifampin에 대한 설명으로 옳은 것을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "천연물 ansamycin 종류의 하나로, 방향족 분자 고리의 인접하지 않은 두 부분을 연결해주는 aliphatic chain을 가진 분자이다."
+            },
+            {
+              "label": "②",
+              "text": "세균성 DNA 의존성 RNA polymerase(DDRP)를 억제하여 RNA 사슬의 개시를 차단한다."
+            },
+            {
+              "label": "③",
+              "text": "DDRP는 2개의 Zn 원자를 함유하며, Rifampin C-1, C-8 위치의 산소원자가 Zn과 킬레이트 하면 결합이 증가한다."
+            },
+            {
+              "label": "④",
+              "text": "Rifampin C-21, C-23 위치의 산소원자와 DDRP가 강한 수소결합을 형성하면 결합이 증가한 다."
+            },
+            {
+              "label": "⑤",
+              "text": "Rifampin은 세포 외 결핵간균에만 작용하며, 세포 내 결핵간균에는 효과가 없다."
+            }
+          ],
+          "answer": "①,②,③,④",
+          "correctLabels": [
+            "①",
+            "②",
+            "③",
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ①,②,③,④"
+        },
+        {
+          "id": "medchem_sangbin_025",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q4. Pyrazinamide(PZA)의 작용기전에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "약물 자체가 활성을 가지거나 전구약물(prodrug)로서 항결핵 활성을 가진다."
+            },
+            {
+              "label": "②",
+              "text": "산성에 민감한 amidase에 의하여 pyrazinoic acid로 전환된다."
+            },
+            {
+              "label": "③",
+              "text": "M. tuberculosis에 저항하는 생물체는 amidase를 생성하지 않는다."
+            },
+            {
+              "label": "④",
+              "text": "Pyrazinoic acid는 pH 7.4 이상의 알칼리성 조건에서 가장 좋은 항결핵 활성을 나타낸다."
+            },
+            {
+              "label": "⑤",
+              "text": "PZA는 M. tuberculosis에서 암모니아와 pyrazinoic acid로 분해되어 주위의 pH를 낮춰 결핵 간균이 자라지 못하게 한다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_026",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q5. 1차 결핵 치료제인 Ethambutol에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "D-이성질체의 형태로 사용되며, L-이성질체보다 200~500배 더 활성이 강하다."
+            },
+            {
+              "label": "②",
+              "text": "Mycolic acid가 mycobacterial 세포벽으로 도입되는 것을 억제하여 정균작용을 나타낸다."
+            },
+            {
+              "label": "③",
+              "text": "Trehalose monomycolate와 ethambutol 사이에 구조적 유사성이 있다."
+            },
+            {
+              "label": "④",
+              "text": "Ethylene diamine 사슬을 늘이거나 알코올 그룹 위치를 이동하면 생물학적 활성이 증가한 다."
+            },
+            {
+              "label": "⑤",
+              "text": "시신경 독성이 있다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_027",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q6. Streptomycin(STM)에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "STM은 50S ribosomal subunit에 결합하는 것이 첫 번째 기능이다."
+            },
+            {
+              "label": "②",
+              "text": "STM은 결핵 간균의 내막을 직접 통과하여 바로 ribosome에 결합한다."
+            },
+            {
+              "label": "③",
+              "text": "α-Streptose의 methyl 그룹이 산화되어 hydroxymethyl이 생성되면 STM보다 활성이 월등 히 높은 유사체가 얻어진다."
+            },
+            {
+              "label": "④",
+              "text": "STM이 mRNA 템플릿의 정보를 잘못 읽게 하고 템플릿을 손상시키는 것도 살균작용에 관련 이 있다."
+            },
+            {
+              "label": "⑤",
+              "text": "Streptidine 핵의 구아니딘을 변경하면 활성이 증가한다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_028",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q7. 2차 선택 결핵 치료제인 para-Aminosalicylic acid(PAS)에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "현재 사용 가능한 TB second-line agent 중 가장 우수한 약물로 평가된다."
+            },
+            {
+              "label": "②",
+              "text": "PABA가 folic acid와 혼합되는 것을 방해하여 항균 작용을 나타낸다."
+            },
+            {
+              "label": "③",
+              "text": "PAS는 amino 그룹의 acetylation에 의해 대사되며 glucuronic acid나 glycine과 결합한다."
+            },
+            {
+              "label": "④",
+              "text": "저항, 재활치료 및 다른 약물에 대해 과민반응을 나타내는 경우에 사용한다."
+            },
+            {
+              "label": "⑤",
+              "text": "PAS와 PABA를 병용 투여하면 PAS의 활성이 증가한다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_029",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q8. 세포벽 합성 억제제인 D-Cycloserine에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Streptomyces orchidaceus로부터 분리된 천연생성물이며 D(+) 이성질체이다."
+            },
+            {
+              "label": "②",
+              "text": "L(-) 이성질체와 같은 활성을 가지며, D,L 혼합물은 순수한 enantiomer보다 높은 활성을 나 타낸다."
+            },
+            {
+              "label": "③",
+              "text": "세포벽 합성에서 alanine racemase와 D-ala-D-ala synthetase를 억제하여 D-alanine의 작용 을 차단한다."
+            },
+            {
+              "label": "④",
+              "text": "재활치료가 필요하거나 다른 약물에 내성을 나타낼 때 주로 사용하는 1차 결핵 치료제이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Cycloserine의 작용은 alanine의 대사 길항성물질(antimetabolite)로서의 작용과 같다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_030",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q9. 2차 선택 결핵 치료제인 Capreomycin에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "단일 polypeptide로 이루어진 단순한 구조의 약물이다."
+            },
+            {
+              "label": "②",
+              "text": "Streptomyces capreolus에 의해 생성되며 항생제물질인 viomycine과 유사하다."
+            },
+            {
+              "label": "③",
+              "text": "단백질 합성을 억제하며 특히 70S 리보솜 내 50S에 결합하여 mRNA에 의거하여 억제한다."
+            },
+            {
+              "label": "④",
+              "text": "신장과 간장에 독성이 없어 장기간 안전하게 사용할 수 있다."
+            },
+            {
+              "label": "⑤",
+              "text": "aminoglycoside 계열에 속하는 약물이다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②"
+        },
+        {
+          "id": "medchem_sangbin_031",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q10. 나병 치료제인 Dapsone(DDS)에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "나병 치료에 사용되는 대부분의 약품들은 주요 diaryl sulfone 계열이다."
+            },
+            {
+              "label": "②",
+              "text": "최초의 4,4'-diaminodiphenyl sulfone보다 더 활성이 뛰어난 유도체는 아직 없다."
+            },
+            {
+              "label": "③",
+              "text": "낮은 용해도를 나타내지만 GI계통에서 효율적으로 흡수된다."
+            },
+            {
+              "label": "④",
+              "text": "Dapsone은 혈장단백질과 결합하여 신체 전체에 분포된다."
+            },
+            {
+              "label": "⑤",
+              "text": "벤젠 고리를 다른 환으로 바꾸면 활성이 향상된다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_032",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q11. Dapsone의 작용기전에 대한 설명으로 옳은 것을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Dapsone은 정균작용(bacteriostatic)이 있는 약품으로서 sulfonamide와 유사한 작용을 나타 낸다."
+            },
+            {
+              "label": "②",
+              "text": "Para-aminobenzoic acid(PABA)가 folic acid와 결합하는 것을 억제하여 항균 작용을 한다."
+            },
+            {
+              "label": "③",
+              "text": "Dapsone과 PABA를 병용 투여하면 Dapsone이 비활성화된다."
+            },
+            {
+              "label": "④",
+              "text": "Dapsone은 dihydrofolate reductase(DHFR)를 직접 억제하는 기전으로 작용한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Dapsone은 살균작용(bactericidal)을 주로 나타낸다."
+            }
+          ],
+          "answer": "①,②,③",
+          "correctLabels": [
+            "①",
+            "②",
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ①,②,③"
+        },
+        {
+          "id": "medchem_sangbin_033",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q12. 나병 치료제인 Clofazimine(Phenazine계)에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "나병 치료를 위한 제2약물로 분류되지만 multiple-drug 치료의 구성성분으로 사용이 증가 하고 있다."
+            },
+            {
+              "label": "②",
+              "text": "Phenazine의 유도체로 물에 용해되지 않는 짙은 빨간색 크리스탈 염료로 피부에 염색된다."
+            },
+            {
+              "label": "③",
+              "text": "배설물의 색깔 변화가 눈곱, 가래, 땀, 눈물, 소변 등에서 나타날 수 있다."
+            },
+            {
+              "label": "④",
+              "text": "세균의 DNA에 결합하여 증식을 억제하고 세균 세포막을 손상시킨다."
+            },
+            {
+              "label": "⑤",
+              "text": "Clofazimine은 PABA와 경쟁적으로 작용하여 folic acid 합성을 억제한다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_034",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q13. 1차 및 2차 결핵 치료제에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Ethionamide는 시스테인과 메티오닌이 단백질로 들어가는 것을 차단하여 단백질 합성을 억 제하며 INH와 비슷한 작용기전으로도 알려져 있다."
+            },
+            {
+              "label": "②",
+              "text": "Kanamycin은 aminoglycoside 계열로 M. 결핵에만 제한적으로 사용되는 second-line agent 이다."
+            },
+            {
+              "label": "③",
+              "text": "Pyrazinamide의 거의 모든 유도체는 inactive하거나 원래 구조보다 훨씬 덜 active하다."
+            },
+            {
+              "label": "④",
+              "text": "Rifampin은 적색의 소변, 타액, 땀, 눈물을 유발하는 부작용이 있다."
+            },
+            {
+              "label": "⑤",
+              "text": "Streptomycin은 2차 선택 결핵 치료제로, 주로 다른 약물에 내성이 생겼을 때 사용하는 보 조약물이다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_035",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q14. INH(Isoniazid)의 구조활성관계(SAR)에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "N1 위치가 alkyl로 치환된 유도체가 N2 위치가 치환된 유도체보다 항결핵 활성이 더 높다."
+            },
+            {
+              "label": "②",
+              "text": "피리미딘(pyrimidine)과 hydrazide 구조로 이루어져 있다."
+            },
+            {
+              "label": "③",
+              "text": "N2 위치가 치환(R1, R2 = alkyl; R3 = H)된 유도체는 항결핵 활성이 있다."
+            },
+            {
+              "label": "④",
+              "text": "현재까지 INH보다 항결핵 활성이 더 우수한 유도체가 다수 개발되어 있다."
+            },
+            {
+              "label": "⑤",
+              "text": "이소니아지드 유도체들은 위장(GI)구역에서 매우 안정적이다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_036",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q15. 다음 결핵 및 나병 치료제에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Ethambutol은 trehalose monomycolate와 구조적 유사성이 있어 mycobacterial 세포벽 합 성을 억제한다."
+            },
+            {
+              "label": "②",
+              "text": "Cycloserine은 alanine racemase와 D-ala-D-ala synthetase를 억제하여 세포벽 D-alanine 합 성을 차단한다."
+            },
+            {
+              "label": "③",
+              "text": "Rifampin을 복용하면 소변, 타액, 땀, 눈물이 적색으로 변할 수 있다."
+            },
+            {
+              "label": "④",
+              "text": "Dapsone과 PABA를 병용 투여하면 Dapsone의 항균 효과가 증강된다."
+            },
+            {
+              "label": "⑤",
+              "text": "Capreomycin은 70S 리보솜 내 30S에 결합하여 단백질 합성을 억제하는 강력한 억제제이 다. [기출문제]"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_037",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q16. 1차 결핵 치료제인 Ethambutol에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "D-이성질체의 형태로 사용되며, L-이성질체보다 200~500배 더 활성이 강하다."
+            },
+            {
+              "label": "②",
+              "text": "Mycolic acid가 mycobacterial 세포벽으로 도입되는 것을 억제하여 정균작용을 나타낸다."
+            },
+            {
+              "label": "③",
+              "text": "Trehalose monomycolate와 ethambutol 사이에 구조적 유사성이 있다."
+            },
+            {
+              "label": "④",
+              "text": "Ethylene diamine 사슬을 늘이거나 알코올 그룹 위치를 이동해도 활성이 동일하다."
+            },
+            {
+              "label": "⑤",
+              "text": "유사체는 많으나 ethambutol보다 뛰어난 것은 없다."
+            }
+          ],
+          "answer": "④,①,⑦",
+          "correctLabels": [
+            "④",
+            "①",
+            "⑦"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④,①,⑦"
+        },
+        {
+          "id": "medchem_sangbin_038",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q17. Isoniazid에 관한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "구조 변환을 통해 INH보다 활성이 더 좋은 약물들은 개발되지 않았다."
+            },
+            {
+              "label": "②",
+              "text": "Mycolic acid의 생물합성을 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "Ethionamide와 유사한 기전을 가진다."
+            },
+            {
+              "label": "④",
+              "text": "대사되어 isonicotic acid가 되고, nicotinic acid 대신 NAD+와 결합한다."
+            },
+            {
+              "label": "⑤",
+              "text": "포화지방산에서 불포화지방산으로 대사되는 과정에서 억제제로 작용한다."
+            }
+          ],
+          "answer": "정답 미기재",
+          "correctLabels": [],
+          "trueFalse": null,
+          "explanation": "PDF 정답표에서 정답을 찾지 못했습니다."
+        },
+        {
+          "id": "medchem_sangbin_039",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q18. 세포벽 합성저해제인 D-cycloserine에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Alanine racematase 작용을 억제한다."
+            },
+            {
+              "label": "②",
+              "text": "D-ala-D-ala synthase를 경쟁적으로 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "확산에 의해 이동한다."
+            },
+            {
+              "label": "④",
+              "text": "사람에게는 cycloserine이 작용하는 효소가 없어 독성이 거의 없다."
+            },
+            {
+              "label": "⑤",
+              "text": "D-ala에 작용하는 효소에 100배 이상의 선택성이 존재한다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_040",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q1. 항바이러스제의 분류 및 바이러스에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "바이러스는 근본적으로 DNA 바이러스와 RNA 바이러스로 나눌 수 있다."
+            },
+            {
+              "label": "②",
+              "text": "바이러스는 숙주의 세포대사를 이용하여 증식하는 절대의존(obligate) 미생물이다."
+            },
+            {
+              "label": "③",
+              "text": "이상적인 항바이러스제는 숙주세포의 대사과정에도 동시에 작용하여 바이러스 증식을 억제 한다."
+            },
+            {
+              "label": "④",
+              "text": "항바이러스제는 작용기전에 따라 바이러스 부착 및 침투 억제제와 바이러스 증식 저해제로 분류된다."
+            },
+            {
+              "label": "⑤",
+              "text": "HIV 부착을 억제하는 약물로 수용성 CD4 유도체, 음이온 분자 등이 있다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_041",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q2. Zidovudine(AZT)에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Thymidine의 유도체로, 3번 위치의 OH기가 azido기로 치환된 뉴클레오사이드이다."
+            },
+            {
+              "label": "②",
+              "text": "RNA tumor 바이러스(레트로바이러스)에 유효하며 AIDS 치료제로 사용된다."
+            },
+            {
+              "label": "③",
+              "text": "인산화효소(kinase)에 의하여 mono, di, triphosphate로 순차적으로 활성화된다."
+            },
+            {
+              "label": "④",
+              "text": "활성화된 triphosphate가 바이러스 DNA 사슬에 통합되면, 3번 위치의 azido기로 인해 DNA 사슬이 더 이상 연장되지 않는다."
+            },
+            {
+              "label": "⑤",
+              "text": "HIV-1에만 유효하며 HIV-2 및 EBV에는 효과가 없다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_042",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q3. Acyclovir에 대한 설명으로 옳은 것을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "구아노신(guanosine) 염기와 개환(acyclic)된 당부분으로 구성되어 있다."
+            },
+            {
+              "label": "②",
+              "text": "Triphosphate체로 전환되어야 활성을 나타내며, 정상세포보다 낮은 농도에서 바이러스 DNA polymerase를 저해한다."
+            },
+            {
+              "label": "③",
+              "text": "대상포진 바이러스와 Epstein-Barr virus에도 유효하다."
+            },
+            {
+              "label": "④",
+              "text": "수용성 제제인 6-deoxyacyclovir는 간에서 xanthine oxidase에 의해 acyclovir로 전환된다."
+            },
+            {
+              "label": "⑤",
+              "text": "Vaccinia virus, adenovirus, parainfluenza에 높은 항바이러스 효과를 나타낸다."
+            }
+          ],
+          "answer": "①,②,③,④",
+          "correctLabels": [
+            "①",
+            "②",
+            "③",
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ①,②,③,④"
+        },
+        {
+          "id": "medchem_sangbin_043",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q4. Ribavirin에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Open된 purine 뉴클레오사이드 유도체이다."
+            },
+            {
+              "label": "②",
+              "text": "RNA 및 DNA 바이러스에 모두 유효한 항바이러스제이다."
+            },
+            {
+              "label": "③",
+              "text": "Adenosine kinase에 의하여 triphosphate체로 활성화된 후 항바이러스 효과를 나타낸다."
+            },
+            {
+              "label": "④",
+              "text": "당 부분이 2-deoxyribose 구조로 이루어져 있다."
+            },
+            {
+              "label": "⑤",
+              "text": "바이러스의 RNA polymerase 및 mRNA를 저해하여 약효를 나타낸다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_044",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q5. Vidarabine(Ara-A)에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Streptomyces antibioticus에서 얻어지는 아데노신 뉴클레오사이드 유도체이다."
+            },
+            {
+              "label": "②",
+              "text": "Arabinose 당으로 이루어진 뉴클레오사이드 유도체이다."
+            },
+            {
+              "label": "③",
+              "text": "세포 내 kinase에 의해 triphosphate체로 활성화되어 바이러스 증식을 억제한다."
+            },
+            {
+              "label": "④",
+              "text": "항바이러스 치료에서 cytarabine(Ara-C)보다 더 좋은 효과를 나타내며, 원래는 항바이러스 제로 개발되었다."
+            },
+            {
+              "label": "⑤",
+              "text": "주로 HSV-1 및 HIV-2에 의한 뇌염 치료제로 사용된다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_045",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q6. HIV-1의 생명주기(life-cycle) 단계에서 에이즈 치료제의 유효한 타겟을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "결합(binding) 및 융합(fusion)"
+            },
+            {
+              "label": "②",
+              "text": "삽입(integration)"
+            },
+            {
+              "label": "③",
+              "text": "역전사(reverse transcription)"
+            },
+            {
+              "label": "④",
+              "text": "전사(transcription)"
+            },
+            {
+              "label": "⑤",
+              "text": "조합(assembly)"
+            }
+          ],
+          "answer": "②,③,⑤",
+          "correctLabels": [
+            "②",
+            "③",
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②,③,⑤"
+        },
+        {
+          "id": "medchem_sangbin_046",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q7. HIV 역전사효소 저해제 중 뉴클레오사이드계 화합물이 HIV에 효력을 보이기 위한 조건으로 옳 지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "5번 위치에 OH기를 가질 것"
+            },
+            {
+              "label": "②",
+              "text": "3번 위치에 azido, hydrogen, 또는 fluoro기를 가질 것"
+            },
+            {
+              "label": "③",
+              "text": "당의 일부분에 oxygen이나 탄소 대신 sulfur와 같은 hetero 원자를 가질 것"
+            },
+            {
+              "label": "④",
+              "text": "3번 위치에 반드시 OH기가 유지되어야 DNA 사슬 연장이 가능할 것"
+            },
+            {
+              "label": "⑤",
+              "text": "적절한 당과 염기의 조화를 이룰 것"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_047",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q8. Nevirapine에 대한 설명으로 옳은 것은? [기출 유사]",
+          "choices": [
+            {
+              "label": "①",
+              "text": "뉴클레오사이드계 HIV-1 역전사효소 저해제이다."
+            },
+            {
+              "label": "②",
+              "text": "Diazepine 유도체로서 non-nucleoside HIV-1 allosteric 역전사효소 저해제이다."
+            },
+            {
+              "label": "③",
+              "text": "AZT 내성 균주에는 효력이 없다."
+            },
+            {
+              "label": "④",
+              "text": "최고의 약효를 위해서는 3개의 고리 중 바깥 2개의 고리가 모두 pyrimidine 핵이어야 한다."
+            },
+            {
+              "label": "⑤",
+              "text": "유도체 중 4번 위치에 methyl기가 위치하고 lactam의 nitrogen에 alkyl기가 있는 것이 가장 활성이 높다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②"
+        },
+        {
+          "id": "medchem_sangbin_048",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q9. HIV protease 저해제에 대한 설명으로 옳은 것을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "HIV-1 protease는 integration 단계와 바이러스 방출 단계 사이에서 작용하는 효소이다."
+            },
+            {
+              "label": "②",
+              "text": "HIV protease는 활성부위에 촉매역할을 하는 잔기로 aspartic acid를 가진 aspartic protease 이다."
+            },
+            {
+              "label": "③",
+              "text": "HIV protease 저해제는 숙주세포의 aspartic protease에는 작용하지 않고 바이러스의 protease에만 선택적으로 작용해야 효과적이다."
+            },
+            {
+              "label": "④",
+              "text": "대표적인 HIV protease 저해제로는 indinavir, saquinavir, ritonavir 등이 있다."
+            },
+            {
+              "label": "⑤",
+              "text": "HIV protease는 전구체 polyprotein gp160을 잘라 바이러스 성장에 필요한 단백질을 생성 한다."
+            }
+          ],
+          "answer": "①,②,③,④,⑤",
+          "correctLabels": [
+            "①",
+            "②",
+            "③",
+            "④",
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ①,②,③,④,⑤"
+        },
+        {
+          "id": "medchem_sangbin_049",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q10. Glucosidase 저해제에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "바이러스 외피 단백질 gp120에 N-glycosylation이 다수 일어나 gp160이 되고, 이후 glucosidase에 의해 당부분이 변형되어 최종 envelope-gp120을 생성한다."
+            },
+            {
+              "label": "②",
+              "text": "이 과정은 바이러스가 감염을 위해 T-세포를 인식하는데 매우 중요하다."
+            },
+            {
+              "label": "③",
+              "text": "Glucosidase 저해제의 대표 약물로는 castanospermine, 6-O-butanoylcastanospermine, N-butyldeoxynojirimycin 등이 있다."
+            },
+            {
+              "label": "④",
+              "text": "HIV protease에 의해 gp160이 gp120으로 변형되는 과정을 저해하는 것이 glucosidase 저 해제의 기전이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Glucosidase에 의한 외피 단백질 변형은 항바이러스 약물 개발의 중요한 분자 표적이다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_050",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q11. B형 간염 바이러스(HBV)에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Hepadnaviridae에 속하는 동물성 바이러스로 circular partially double strand DNA로 되어 있다."
+            },
+            {
+              "label": "②",
+              "text": "HBV는 숙주세포의 chromosome에 통합되지 않으며 integrase나 protease가 없다."
+            },
+            {
+              "label": "③",
+              "text": "HBV의 core particle이 숙주세포의 핵 속으로 이동하여 covalently closed circular DNA(cccDNA)를 형성한다."
+            },
+            {
+              "label": "④",
+              "text": "HBV 감염 시 HBV가 직접적으로 간세포에 손상을 주어 질환이 발생한다."
+            },
+            {
+              "label": "⑤",
+              "text": "cccDNA는 숙주세포의 RNA polymerase II의 작용을 받아 여러 개의 viral RNA를 전사한다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_051",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q12. Famciclovir와 Penciclovir에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "염기 부분은 아데닌이 아닌 구아닌(퓨린) 구조를 가지고 있다."
+            },
+            {
+              "label": "②",
+              "text": "경구용 전구체인 famciclovir는 투여 후 장관벽이나 간에서 흡수 및 deacetylation 되어 6-deoxypenciclovir로 변형된다."
+            },
+            {
+              "label": "③",
+              "text": "6-deoxypenciclovir는 간에서 xanthine oxidase의 작용을 받아 penciclovir를 생성한다."
+            },
+            {
+              "label": "④",
+              "text": "Penciclovir는 현재 대상포진 치료제로 사용되고 있으며 HBV에도 효력이 있다."
+            },
+            {
+              "label": "⑤",
+              "text": "Famciclovir는 acyclovir와 마찬가지로 아데노신 염기 구조를 가진 개환형 뉴클레오사이드이 다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_052",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q13. Lamivudine에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "D-configuration을 취하는 자연형 뉴클레오사이드로서 HIV와 HBV 모두에 효과가 있다."
+            },
+            {
+              "label": "②",
+              "text": "당 골격에 1,3-oxathiolane 구조를 가지고 있으며, L-configuration이 효력과 부작용 면에서 우수하다."
+            },
+            {
+              "label": "③",
+              "text": "HBV 치료제로만 FDA 승인을 받은 약물이다."
+            },
+            {
+              "label": "④",
+              "text": "L-configuration과 D-configuration의 효력이 동일하다."
+            },
+            {
+              "label": "⑤",
+              "text": "당 부분에 sulfur 대신 oxygen이 포함된 구조적 특징을 가진다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②"
+        },
+        {
+          "id": "medchem_sangbin_053",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q14. 인플루엔자 바이러스와 neuraminidase에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "인플루엔자는 핵단백질의 항원특징에 따라 A, B, C형으로 구분된다."
+            },
+            {
+              "label": "②",
+              "text": "인플루엔자 바이러스 외피에는 막대기 모양의 hemagglutinin(HA)와 버섯 모양의 neuraminidase(NA)가 존재한다."
+            },
+            {
+              "label": "③",
+              "text": "바이러스 neuraminidase는 감염된 세포 표면에 있는 말단 neuraminic acid의 글리칸 구조 residue를 절단한다."
+            },
+            {
+              "label": "④",
+              "text": "Neuraminidase는 새로이 증식된 바이러스 후손들의 분리를 도와주어 바이러스가 주변 비 감염 세포로 퍼져나가는 것을 억제한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Hemagglutinin은 바이러스 감염 시에 필요하지만, 그 존재가 바이러스 입자가 버딩될 때 분 리되는 것을 저해한다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_054",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q15. Oseltamivir에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "상품명은 Tamiflu이며, GS4071의 ethyl ester prodrug이다."
+            },
+            {
+              "label": "②",
+              "text": "A형과 B형 인플루엔자 치료에 모두 사용된다."
+            },
+            {
+              "label": "③",
+              "text": "경구제로 투여하며, 증상이 나타난 뒤 48시간 안에 복용해야 최대 효과를 얻을 수 있다."
+            },
+            {
+              "label": "④",
+              "text": "시알산이 neuraminidase에 의해 나오는 transition state의 oxonium을 mimic하여 바이러스 의 숙주세포 인식 단계를 차단한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Oseltamivir는 neuraminidase 저해제로서 흡입형이 아닌 경구 투여 제형이다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_055",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q16. 항바이러스제 전반에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Idoxuridine은 아이오딘을 가진 티미딘 유도체로 DNA 바이러스에 유효하며 thymidine kinase에 의해 활성화된다."
+            },
+            {
+              "label": "②",
+              "text": "에이즈 치료제의 3가지 주요 타겟은 역전사효소(RT), Integrase, Protease이다."
+            },
+            {
+              "label": "③",
+              "text": "Trifluorothymidine은 티미딘 5번 위치에 trifluoromethyl(CF3)기를 가지며 구조적으로 idoxuridine과 유사하다."
+            },
+            {
+              "label": "④",
+              "text": "L-FMAU는 자연형인 D-FMAU보다 비자연형인 L-FMAU가 약효가 뛰어나고 독성이 적어 HBV 치료에 유망한 약물이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Zanamivir는 경구용 제형으로 인플루엔자 증상 발현 후 48시간 이내에 복용해야 한다. [기출문제]"
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_056",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q17. Oseltamivir(타미플루)에 관한 내용 중 틀린 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "prodrug이다."
+            },
+            {
+              "label": "②",
+              "text": "neuraminidase를 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "숙주의 인식 단계를 차단한다."
+            },
+            {
+              "label": "④",
+              "text": "NA 말단에 있는 글리칸의 절단을 억제한다."
+            },
+            {
+              "label": "⑤",
+              "text": "타미플루는 증상이 나타난 뒤 48시간 안에 복용해야 최대 효과를 얻을 수 있다.."
+            }
+          ],
+          "answer": "③,①,⑧",
+          "correctLabels": [
+            "③",
+            "①",
+            "⑧"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③,①,⑧"
+        },
+        {
+          "id": "medchem_sangbin_057",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q18. Zidovudine에 대한 설명으로 틀린 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "DNA의 당은 L형이다."
+            },
+            {
+              "label": "②",
+              "text": "3번의 OH기가 azido기로 치환되어있다."
+            },
+            {
+              "label": "③",
+              "text": "triphosphate가 되어야 활성화된다."
+            },
+            {
+              "label": "④",
+              "text": ""
+            },
+            {
+              "label": "⑤",
+              "text": ""
+            }
+          ],
+          "answer": "정답 미기재",
+          "correctLabels": [],
+          "trueFalse": null,
+          "explanation": "PDF 정답표에서 정답을 찾지 못했습니다."
+        },
+        {
+          "id": "medchem_sangbin_058",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q1. Nitrogen mustard계 화합물의 구조-활성 관계(SAR)에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "질소 원자의 비공유전자쌍은 β 탄소를 공격하는 친핵체로 작용한다."
+            },
+            {
+              "label": "②",
+              "text": "질소에 methyl기가 붙으면 친핵성이 증가하여 선택성이 떨어지고 독성이 증가한다."
+            },
+            {
+              "label": "③",
+              "text": "질소에 aryl기가 붙으면 resonance 효과로 친핵성이 감소하여 비선택성에 따른 독성 이 감소한다."
+            },
+            {
+              "label": "④",
+              "text": "β 탄소는 좋은 leaving group이 결합하여 친전자체 성격을 지닌다."
+            },
+            {
+              "label": "⑤",
+              "text": "질소에 aryl기가 도입되면 경구 이용률이 감소한다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_059",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q2. Cyclophosphamide에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "처음 설계 의도대로 암세포의 phosphamidase에 의해 활성화된다."
+            },
+            {
+              "label": "②",
+              "text": "간의 CYP450 효소에 의해 전구약물이 활성화된다."
+            },
+            {
+              "label": "③",
+              "text": "암세포에서 정상세포와 동일하게 OH-에 의한 불활성화가 빠르게 일어난다."
+            },
+            {
+              "label": "④",
+              "text": "신독성을 줄이기 위해 amifostine을 함께 투여한다."
+            },
+            {
+              "label": "⑤",
+              "text": "정상세포에서 beta-elimination을 통해 acrolein이 생성된다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②"
+        },
+        {
+          "id": "medchem_sangbin_060",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q3. 백금착체의 구조-활성 관계(SAR)에 대한 설명으로 옳지 않은 것을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "이탈기의 이탈 능력은 Br- > Cl- > H2O 순이다."
+            },
+            {
+              "label": "②",
+              "text": "Amine ligand는 anionic DNA phosphate와의 결합을 통해 DNA complex를 안정화시 킨다."
+            },
+            {
+              "label": "③",
+              "text": "DACH ring system을 사용하면 내성이 감소한다."
+            },
+            {
+              "label": "④",
+              "text": "이탈기 R은 세포 내 H2O에 의해 직접 DNA와 반응하여 활성화된다."
+            },
+            {
+              "label": "⑤",
+              "text": "비이탈기 효과의 크기는 CN > PR3 > CH3 > Cl > NH3 > OH 순이다."
+            },
+            {
+              "label": "⑥",
+              "text": "전자가 부족한 금속원자에 상대적으로 전자가 풍부한 DNA의 티민과 사이토신이 염 기와 착화합물을 형성한다."
+            }
+          ],
+          "answer": "①,④,⑥",
+          "correctLabels": [
+            "①",
+            "④",
+            "⑥"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ①,④,⑥"
+        },
+        {
+          "id": "medchem_sangbin_061",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q4. Cisplatin에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "알루미늄이 포함된 주사바늘 사용이 금지된다."
+            },
+            {
+              "label": "②",
+              "text": "전이성 고환암, 난소암 및 방광암에 사용된다."
+            },
+            {
+              "label": "③",
+              "text": "골수억제와 내이신경독성이 주요 부작용이다."
+            },
+            {
+              "label": "④",
+              "text": "신장 손상 예방을 위해 소금물 또는 만니톨을 함께 투여한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Carboplatin보다 비혈액학적 부작용(구토, 신독성)이 완화된 약물이다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_062",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q5. Methotrexate의 작용기전에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Thymidylate synthetase를 비가역적으로 저해한다."
+            },
+            {
+              "label": "②",
+              "text": "N5 위치의 염기성이 N1 위치보다 강하여 DHFR의 27번 Asp와 결합한다."
+            },
+            {
+              "label": "③",
+              "text": "FH2에 비해 염기성이 10-1000배 강한 N1 위치에서 DHFR의 27번 Asp와 결합하여 환 원을 억제한다."
+            },
+            {
+              "label": "④",
+              "text": "Xanthylic acid가 guanylic acid로 전환되는 단계를 저해한다."
+            },
+            {
+              "label": "⑤",
+              "text": "말단의 glutamate 그룹은 세포 안으로의 수동 확산에 도움을 준다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_063",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q6. 5-Fluorouracil(5-FU)의 작용기전에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "5-FU는 대사를 거쳐 5-FdUMP로 전환된다."
+            },
+            {
+              "label": "②",
+              "text": "THF, dUMP, thymidylate synthetase와 3중 착체를 형성한다."
+            },
+            {
+              "label": "③",
+              "text": "C5 위치의 플루오르가 thymidylate synthetase의 염기에 의해 제거되지 않아 삼중착 체가 분해되지 않는다."
+            },
+            {
+              "label": "④",
+              "text": "C5 위치의 플루오르의 전자 공여 효과 때문에 C6 위치의 친전자성이 우라실보다 강 해진다."
+            },
+            {
+              "label": "⑤",
+              "text": "효소의 기능이 비가역적으로 저해되어 dTMP의 합성이 방해된다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_064",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q7. Capecitabine에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "5-FdUMP의 활성형 약물로 직접 투여된다."
+            },
+            {
+              "label": "②",
+              "text": "Thymidine phosphorylase는 정상세포보다 암세포에서 활성화되어 암세포 선택적인 5-FU 생성이 가능하다."
+            },
+            {
+              "label": "③",
+              "text": "활성형 약물은 암세포보다 정상세포에서 더 고농도로 존재한다."
+            },
+            {
+              "label": "④",
+              "text": "경구 투여 시 체내에서 바로 5-FdUMP로 전환된다."
+            },
+            {
+              "label": "⑤",
+              "text": "부작용이 5-FU 직접 투여보다 더 심하게 나타난다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②"
+        },
+        {
+          "id": "medchem_sangbin_065",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q8. Actinomycin D(Dactinomycin)에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Streptomyces parvullus에서 유래한다."
+            },
+            {
+              "label": "②",
+              "text": "주로 구아닌과 시토신 잔기 사이에 intercalating으로 DNA에 결합한다."
+            },
+            {
+              "label": "③",
+              "text": "두 개의 pentapeptide lactone 고리가 DNA의 major groove에서 약물-DNA 착체 형 성에 기여한다."
+            },
+            {
+              "label": "④",
+              "text": "RNA 합성을 억제하여 세포독성을 나타낸다."
+            },
+            {
+              "label": "⑤",
+              "text": "윌름스 종양, 소아 문근육종 치료에 사용된다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_066",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q9. Anthracycline계 화합물에 대한 설명으로 옳은 것을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Doxorubicin과 daunorubicin이 대표적 약물이다."
+            },
+            {
+              "label": "②",
+              "text": "항암활성 기전은 intercalative 결합 및 topoisomerase II 저해 모두 관여한다."
+            },
+            {
+              "label": "③",
+              "text": "Doxorubicin은 C13 위치의 메틸히드록시 그룹이 만성 심독성을 가지는 doxorubicinol로의 전환을 감소시킨다."
+            },
+            {
+              "label": "④",
+              "text": "Daunorubicin은 C14 히드록시 그룹이 없어 만성 심독성을 가지는 daunorubicinol로 빠르게 대사된다."
+            },
+            {
+              "label": "⑤",
+              "text": "Anthracyclin 고리는 DNA 염기쌍들의 단축에 직각이 되게 끼어들어간다."
+            }
+          ],
+          "answer": "①,②,③,④",
+          "correctLabels": [
+            "①",
+            "②",
+            "③",
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ①,②,③,④"
+        },
+        {
+          "id": "medchem_sangbin_067",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q10. Topoisomerase 저해제에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Topoisomerase I은 DNA의 한쪽 골격을 일시적으로 절단한다."
+            },
+            {
+              "label": "②",
+              "text": "Topoisomerase II는 DNA의 양쪽 골격을 동시에 절단한다."
+            },
+            {
+              "label": "③",
+              "text": "천연 항암제 camptothecin은 topoisomerase I을 저해한다."
+            },
+            {
+              "label": "④",
+              "text": "Etoposide는 DNA와 결합 능력이 없어도 topoisomerase II와 cleavable complex 형성 을 촉진한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Intercalating 약물은 DNA-topoisomerase I 착체를 안정화하고 DNA 골격 절단을 야 기한다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_068",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q11. Camptothecin 유도체의 구조-활성 관계(SAR)에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Pentacyclic camptothecin ring system이 최적의 효과를 위해 필요하다."
+            },
+            {
+              "label": "②",
+              "text": "E-ring lactone의 가수분해는 topoisomerase I 억제 활성을 줄인다."
+            },
+            {
+              "label": "③",
+              "text": "C10-phenol성 OH기는 활성에 필수적이며, ester 또는 amide 형태의 전구약물로 만 들 수 있다."
+            },
+            {
+              "label": "④",
+              "text": "Irinotecan은 간에서 C10 위치의 대사를 통해 활성형(SN-38)으로 존재한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Topotecan은 quinoline ring의 R1 위치를 변화시킨 반합성 유도체이다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_069",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q12. Paclitaxel(Taxol)에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "튜불린의 중합을 억제하여 미소관 성장을 방해한다."
+            },
+            {
+              "label": "②",
+              "text": "에스테르화 되지 않은 2번 OH는 활성을 증가시킨다."
+            },
+            {
+              "label": "③",
+              "text": "Tubular lumen에 위치한 특정한 수용체에 중합된 베타-튜블린에 결합해 미소관 성장 을 방해한다."
+            },
+            {
+              "label": "④",
+              "text": "Taxol과 Taxotere 모두 2번과 7번 위치가 에스테르화된다."
+            },
+            {
+              "label": "⑤",
+              "text": "Pacific yew 껍질에서 분리되며 현재도 천연물 직접 추출로만 생산된다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_070",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q13. Tamoxifen에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Triphenylethylene 구조를 가진 항에스트로겐 약물이다."
+            },
+            {
+              "label": "②",
+              "text": "에스트로겐 수용체(ER)에 결합하여 에스트로겐 의존성 유전자의 발현을 억제 또는 조 절한다."
+            },
+            {
+              "label": "③",
+              "text": "대사 시 endoxifen이 생성된다."
+            },
+            {
+              "label": "④",
+              "text": "뼈 조직과 콜레스테롤 대사에서는 estrogen antagonist로 작용한다."
+            },
+            {
+              "label": "⑤",
+              "text": "에스트로겐 수용체 양성반응을 보이는 폐경기 후 여성의 진전된 유방암에 사용된다."
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_071",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q14. Imatinib(Gleevec)에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Proteasome을 억제하여 세포사(apoptosis)를 유발한다."
+            },
+            {
+              "label": "②",
+              "text": "선택적 tyrosine kinase 억제제로, 특히 필라델피아 유전자에 의한 bcr-abl 의존적 암 세포를 선택적으로 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "간에서 주로 CYP2D6에 의해 N-탈메틸화 대사된다."
+            },
+            {
+              "label": "④",
+              "text": "재발성 다발성 골수종과 외투세포림프종의 치료에 주로 사용된다."
+            },
+            {
+              "label": "⑤",
+              "text": "생체이용률은 약 50%이며 단백결합률은 낮다."
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②"
+        },
+        {
+          "id": "medchem_sangbin_072",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q15. Mitomycin C의 활성화에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Mitomycin C가 활성화되며 가장 먼저 발생하는 반응은 quinone의 환원이다."
+            },
+            {
+              "label": "②",
+              "text": "Mitomycin C adduct는 2-deoxyguanosine의 5번 위치와 연결된다."
+            },
+            {
+              "label": "③",
+              "text": "구아닌과 시토신 염기와 관련된 DNA 크로스-링킹으로 DNA의 합성을 억제한다."
+            },
+            {
+              "label": "④",
+              "text": "NAD(P)H quinone reductase와 NADPH/CYP450 reductase에 의해 대사된다."
+            },
+            {
+              "label": "⑤",
+              "text": "투여량의 10%가 신장을 통해 제거되며, 다른 항암제와 달리 골수억제 부작용이 없다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_073",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q16. 대사길항제(Antimetabolites)에 대한 설명으로 옳은 것을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "대사길항제는 천연 대사물과 구조가 유사하여 효소에 결합하거나 핵산에 통합되어 miscoding을 일으킨다."
+            },
+            {
+              "label": "②",
+              "text": "Mercaptopurine의 활성형 대사물은 inosinic acid가 adenylic acid로 전환되는 단계와 xanthylic acid로 전환되는 단계를 저해한다."
+            },
+            {
+              "label": "③",
+              "text": "Methotrexate의 말단 glutamate 그룹은 세포 안으로의 수동 확산에 도움을 준다."
+            },
+            {
+              "label": "④",
+              "text": "Gemcitabine의 이인산형은 ribonucleotide reductase를, 삼인산형은 DNA 합성 시 포 합되어 세포사를 유발한다."
+            },
+            {
+              "label": "⑤",
+              "text": "Cytarabine은 세포주기의 G2기에서 억제된다."
+            }
+          ],
+          "answer": "①,②,④,③",
+          "correctLabels": [
+            "①",
+            "②",
+            "④",
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ①,②,④,③"
+        },
+        {
+          "id": "medchem_sangbin_074",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q17. Bleomycin에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Streptomyces verticillus에서 생성되는 당단백의 항생물질이다."
+            },
+            {
+              "label": "②",
+              "text": "Bleomycin과 세포 내 Fe(II) 및 O2가 1:1:1 삼중착체로 존재한다."
+            },
+            {
+              "label": "③",
+              "text": "생성된 hydroperoxide는 deoxyribose C4'-C3' 결합을 절단하면서 전위반응을 거쳐 DNA 골격을 절단한다."
+            },
+            {
+              "label": "④",
+              "text": "다른 항암제와 달리 골수억제 부작용이 없다."
+            },
+            {
+              "label": "⑤",
+              "text": "Bleomycin hydrase에 의해 대사되어 치료 활성이 증가한다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤"
+        },
+        {
+          "id": "medchem_sangbin_075",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q18. 호르몬성 항암제에 대한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Anastrozole과 Letrozole은 비스테로이드성 aromatase 억제제이다."
+            },
+            {
+              "label": "②",
+              "text": "Exemestane은 스테로이드성 aromatase 억제제로 폐경기 여성의 후기 유방암에 사용 된다."
+            },
+            {
+              "label": "③",
+              "text": "Tamoxifen의 주된 대사체는 N-탈메틸화 타목시펜으로 유사한 활성을 지닌다."
+            },
+            {
+              "label": "④",
+              "text": "Estramustine phosphate sodium의 카바메이트 그룹은 생체 내에서 가수분해되어 에 스트라디올을 생성하므로 에스트로겐 의존성 암 치료에 사용할 수 없다."
+            },
+            {
+              "label": "⑤",
+              "text": "Letrozole은 국소 또는 전이성 유방암에 1차적 약물로 사용된다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③"
+        },
+        {
+          "id": "medchem_sangbin_076",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q19. 다음 항암제와 작용기전의 연결이 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Imatinib - tyrosine kinase 억제"
+            },
+            {
+              "label": "②",
+              "text": "Bortezomib - proteasome 억제"
+            },
+            {
+              "label": "③",
+              "text": "Paclitaxel - 튜불린 중합 촉진"
+            },
+            {
+              "label": "④",
+              "text": "Etoposide - topoisomerase I 억제"
+            },
+            {
+              "label": "⑤",
+              "text": "Methotrexate - dihydrofolate reductase(DHFR) 억제"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        },
+        {
+          "id": "medchem_sangbin_077",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q20. 항암제의 분류 및 특성에 대한 설명으로 옳은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "대사길항제는 DNA와 직접 공유결합을 형성하여 DNA 합성을 저해한다."
+            },
+            {
+              "label": "②",
+              "text": "Nitrogen mustard계 알킬화제는 DNA 구아닌의 N-7 위치를 알킬화한다."
+            },
+            {
+              "label": "③",
+              "text": "항암 항생물질은 모두 topoisomerase I만을 표적으로 한다."
+            },
+            {
+              "label": "④",
+              "text": "유사분열 저해제인 vinblastine은 튜불린의 중합을 촉진하여 미소관 안정화를 유도한 다."
+            },
+            {
+              "label": "⑤",
+              "text": "암 억제 유전자(tumor suppressor gene)의 대표적 예는 ras이다. [기출문제]"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ②"
+        },
+        {
+          "id": "medchem_sangbin_078",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q21. Mitomycin의 첫번째 대사과정은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Quinone 환원"
+            }
+          ],
+          "answer": "정답 미기재",
+          "correctLabels": [],
+          "trueFalse": null,
+          "explanation": "PDF 정답표에서 정답을 찾지 못했습니다."
+        },
+        {
+          "id": "medchem_sangbin_079",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q22. 5-FU에 대한 설명 중 옳은 것을 모두 고르시오.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "퓨린 길항체이다."
+            },
+            {
+              "label": "②",
+              "text": "Thymidlyate synthetase를 가역적으로 저해한다."
+            },
+            {
+              "label": "③",
+              "text": "삼중착체 형성 시 dihydrofolate가 들어간다."
+            },
+            {
+              "label": "④",
+              "text": "5-FU 활성화 시 monophosphate가 되어야 한다."
+            },
+            {
+              "label": "⑤",
+              "text": "C5 위치의 플루오르의 전자를 끌어당기는 효과 때문에 C6 위치의 친전자성이 우라실 보다 더 강력하여 삼중착체를 더 빠르게 형성한다."
+            }
+          ],
+          "answer": "④,⑤,②,③",
+          "correctLabels": [
+            "④",
+            "⑤",
+            "②",
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④,⑤,②,③"
+        },
+        {
+          "id": "medchem_sangbin_080",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q23. 다음 중 Cytrabine, Gemcitabine, Clofarabine이 무엇인지 각각 고르시오. [24-26. 다음 물음에 답하시오.]",
+          "choices": [],
+          "answer": "정답 미기재",
+          "correctLabels": [],
+          "trueFalse": null,
+          "explanation": "PDF 정답표에서 정답을 찾지 못했습니다."
+        },
+        {
+          "id": "medchem_sangbin_081",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q24. hinge region에 반응하는 부위를 고르시오.",
+          "choices": [],
+          "answer": "⑤,②",
+          "correctLabels": [
+            "⑤",
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤,②"
+        },
+        {
+          "id": "medchem_sangbin_082",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q25. gate keeper에 반응하는 부위를 고르시오.",
+          "choices": [],
+          "answer": "정답 미기재",
+          "correctLabels": [],
+          "trueFalse": null,
+          "explanation": "PDF 정답표에서 정답을 찾지 못했습니다."
+        },
+        {
+          "id": "medchem_sangbin_083",
+          "page": null,
+          "source": "의약화학(상빈)",
+          "stem": "Q26. free rotation을 하지 않아 약물이 결합하기 좋은 형태로 고정시키는 부위를 고르시오.",
+          "choices": [],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④"
+        }
+      ]
+    },
+    {
+      "id": "clinical-namsangbin",
+      "label": "임상약물학(남상빈)",
+      "source": "임상약물학 남상빈 연습문제",
+      "questions": [
+        {
+          "id": "nsclinical43_001",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q1. β-lactam 핵심 구조에 대한 설명이다. 〈보기〉 ㄱ. Penicillin은 substituted 6-aminopenicillanic acid 구조이다. ㄴ. Cephalosporin은 substituted 7-aminocephalosporanic acid 구조이다. ㄷ. Penicillin계는 beta·lactamase에 의해 활성화된다. ㄹ. Carbapenem계는 락탐고리 내 입체화학 구조가 달라 대부분 β-lactamase에 내성을 보 인다. ㅁ. Aztreonam은 carbapenem계 약물이다. 옳은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③ ㄷ: beta·lactamase는 penicillin을 불활성화시킨다. ㅁ: aztreonam은 monobactam계."
+        },
+        {
+          "id": "nsclinical43_002",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q2. Penicillin 분류별 항균 스펙트럼에 대한 설명이다. 〈보기〉 ㄱ. Penicillin류는 그람양성균, 그람음성 구균, 혐기성균에 항균작용이 있다. ㄴ. Penicillin류는 그람음성 막대균에는 활성이 없다. ㄷ. 항포도구균성(antistaphylococcal) penicillin류는 장구균·혐기성균에 효과적이다. ㄹ. 항포도구균성 penicillin류는 포도상구균성 β-lactamase에 내성이 있다. ㅁ. 광범위(extended-spectrum) penicillin류는 그람음성 막대균까지 항균범위가 확장된다. ㅂ. 광범위 penicillin류는 β-lactamase에 안정하다. Chapter 43 연습문제 | 2 옳은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② ㄷ: 항포도구균성 penicillin은 장구균·혐기성균·그람음성균에 활성이 없다. ㅂ: 광범위"
+        },
+        {
+          "id": "nsclinical43_003",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q3. β-lactam계의 작용기전 및 내성기전에 대한 설명이다. 〈보기〉 ㄱ. β-lactam계는 peptidoglycan 합성 중 transpeptidation을 억제한다. ㄴ. β-lactam계는 정균(bacteriostatic)작용을 나타낸다. ㄷ. PBP(penicillin-binding protein)는 transpeptidase에 해당한다. ㄹ. 약물의 표적 PBP 침투 장애에 의한 내성은 그람음성균에서만 나타난다. ㅁ. 그람양성균은 세포 외막(outer membrane)을 가지고 있다. ㅂ. β-lactam 구조는 D-Ala-D-Ala 말단과 구조적으로 유사하다. 옳은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② ㄴ: β-lactam은 살균작용. ㅁ: 그람음성균이 outer membrane을 가지며 그람양성균에는"
+        },
+        {
+          "id": "nsclinical43_004",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q4. Narrow-spectrum penicillin(Penicillin G/V)에 대한 설명이다. 〈보기〉 ㄱ. Penicillin G는 위산에 분해되어 IV로 투여한다. ㄴ. Probenecid 병용 시 신장 transporter가 저해되어 penicillin 반감기가 증가한다. ㄷ. Benzathine penicillin G는 높은 혈중 농도를 유지하는 속효성 정맥주사 제형이다. ㄹ. Benzathine penicillin G는 매독 치료에 근육주사로 사용된다. ㅁ. Penicillin G는 신장 배설되나 신부전 환자에서도 용량 조절이 필요 없다. Chapter 43 연습문제 | 3 ㅂ. Narrow-spectrum penicillin은 β-lactamase를 생성하지 않는 그람음성 혐기성균에 효과 가 있다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅂ"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④ ㄷ: Benzathine/procaine pen G는 장기지속형 IM 제형으로 혈중 농도가 낮다. ㅁ: pen G"
+        },
+        {
+          "id": "nsclinical43_005",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q5. 항포도구균성 penicillin 및 간대사 penicillin에 대한 설명이다. 〈보기〉 ㄱ. Methicillin은 내성 빈도가 높아 임상에서 거의 사용되지 않는다. ㄴ. Oxacillin·nafcillin은 포도상구균에 의한 심장내막염 치료에 사용된다. ㄷ. Dicloxacillin은 food effect가 없어 식사와 무관하게 복용한다. ㄹ. Nafcillin·dicloxacillin·oxacillin은 신부전 환자에서 용량 감소 없이 사용 가능하다. ㅁ. Nafcillin·dicloxacillin·oxacillin은 주로 신장으로 배설된다. ㅂ. 항포도구균성 penicillin은 연쇄상구균에도 항균작용이 있다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③ ㄷ: Dicloxacillin은 food effect가 있어 공복 복용(식전 또는 식후 1시간). ㅁ:"
+        },
+        {
+          "id": "nsclinical43_006",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q6. Extended-spectrum penicillin에 대한 설명이다. 〈보기〉 ㄱ. Ampicillin, amoxicillin, piperacillin, ticarcillin이 포함된다. ㄴ. Piperacillin·ticarcillin은 항녹농균(antipseudomonal) 효과가 있다. Chapter 43 연습문제 | 4 ㄷ. Amoxicillin은 ampicillin보다 경구 흡수율이 더 좋다. ㄹ. Extended-spectrum penicillin은 β-lactamase에 안정하여 단독으로 광범위하게 사용된 다. ㅁ. Amoxicillin은 요로감염·부비동염·이염·상기도 감염에 경구투여된다. ㅂ. Piperacillin·ticarcillin은 경구로만 투여한다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅂ"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④ ㄹ: extended-spectrum penicillin은 β-lactamase에 의해 불활성화된다. ㅂ:"
+        },
+        {
+          "id": "nsclinical43_007",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q7. β-lactamase 억제제 병용요법에 대한 설명이다. 〈보기〉 ㄱ. Clavulanic acid, sulbactam, tazobactam, avibactam은 β-lactamase 억제제이다. ㄴ. Amoxicillin + clavulanic acid는 경구 복합제로 사용된다. ㄷ. Piperacillin + tazobactam은 IV 복합제이다. ㄹ. β-lactamase 억제제 병용 시 β-lactamase 생성 그람음성균 및 황색포도상구균에 효과가 있다. ㅁ. β-lactamase 억제제는 단독으로도 강력한 항균작용을 나타낸다. ㅂ. β-lactamase 억제제는 특정 페니실린계·세파계와 고정용량 병용요법으로만 사용된다. 옳은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄴ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ Chapter 43 연습문제 | 5"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① ㅁ만 오답: β-lactamase 억제제는 단독 항균력이 미미하며 페니실린계·세파계와 고정용량"
+        },
+        {
+          "id": "nsclinical43_008",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q8. Penicillin의 유해반응 및 신부전 환자 사용에 대한 설명이다. 〈보기〉 ㄱ. 주요 알러지 항원은 penicilloic acid이며 아나필락시스 쇼크를 유발할 수 있다. ㄴ. 알러지 위험 때문에 투여 전 penicillin skin test가 필요하다. ㄷ. 페니실린 알러지 환자에게 부득이 사용하는 경우 용량을 점차 증강하여 탈감작한다. ㄹ. 알러지 반응은 발진·발열 등으로 나타날 수 있다. ㅁ. 모든 penicillin류는 신부전 환자에서 반드시 용량을 감소해야 한다. ㅂ. 탈감작은 한 번에 고용량을 투여하여 신속하게 시행한다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄹ, ㅂ"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④ ㅁ: nafcillin·dicloxacillin·oxacillin 등은 신부전 시 용량 감소가 필요 없다. ㅂ: 탈감작은 용"
+        },
+        {
+          "id": "nsclinical43_009",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q9. 1세대 cephalosporin에 대한 설명이다. 〈보기〉 ㄱ. Cefazolin은 IV/IM 제형이고 cephalexin·cefadroxil·cephradine은 경구 제형이다. ㄴ. 1세대 세파계는 그람양성균(MSSA)에 강한 항균 효과를 보인다. ㄷ. Cefazolin은 CNS를 잘 통과하여 뇌수막염 치료에 효과적이다. ㄹ. 1세대 세파계는 심각한 전신감염 치료에 효과적이다. ㅁ. 1세대 세파계는 주로 신장 배설되어 신기능저하 환자에서 용량조절이 필요하다. ㅂ. 경구용 1세대 세파계는 요로감염증·세포염·연조직농양 등에 효과적이다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅂ Chapter 43 연습문제 | 6"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③ ㄷ: cefazolin은 CNS를 통과하지 못해 뇌수막염에 무효. ㄹ: 1세대는 심각한 전신감염에 효"
+        },
+        {
+          "id": "nsclinical43_010",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q10. 2세대 cephalosporin에 대한 설명이다. 〈보기〉 ㄱ. 2세대 세파계는 그람음성균에 효과가 있으나 그람양성균은 1세대보다 떨어진다. ㄴ. Cefuroxime은 폐렴구균·인플루엔자균에 효과가 있어 지역감염성 폐렴 치료에 쓰인다. ㄷ. Cefaclor는 β-lactamase에 안정하여 사용이 증가하는 추세이다. ㄹ. Cefoxitin은 혐기성균(B. fragilis)에 효과가 있어 복막염·게실염·골반 내 감염 치료에 쓰인 다. ㅁ. Cefuroxime은 경구 및 IV 제형이 모두 있다. ㅂ. 2세대 세파계는 그람양성균에 대해 1세대보다 우수하다. 옳은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄷ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄷ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ① ㄷ: cefaclor는 β-lactamase에 잘 분해되어 사용 감소. ㅂ: 2세대는 그람양성균에 1세대보"
+        },
+        {
+          "id": "nsclinical43_011",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q11. 3세대 cephalosporin에 대한 설명이다. 〈보기〉 ㄱ. 3세대 세파계는 그람음성균에 대한 항균력이 강화되고 BBB를 통과한다. ㄴ. Ceftriaxone·cefotaxime은 페니실린 내성 폐렴구균 감염 치료에 가장 효과적이다. ㄷ. Ceftazidime은 그람양성균 효과는 떨어지나 항녹농균(Pseudomonas) 효과가 있다. ㄹ. Cefoperazone과 경구용 3세대를 포함한 모든 3세대 세파계가 뇌척수액에 높은 농도로 이행한다. ㅁ. Ceftriaxone은 반감기가 길어(7~8시간) 1일 1회 투여가 가능하고 주로 담즙 배설되어 신 부전 시 용량조절이 불필요하다. ㅅ. Cefixime·cefdinir·ceftibuten·cefpodoxime은 모두 IV 전용 제제이다. Chapter 43 연습문제 | 7 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅅ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅅ"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ④ ㄹ: cefoperazone과 경구용 3세대는 제외(이들은 CSF 이행 부족). ㅅ:"
+        },
+        {
+          "id": "nsclinical43_012",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q12. 4세대·5세대 cephalosporin에 대한 설명이다. 〈보기〉 ㄱ. Cefepime은 cefotaxime과 ceftazidime의 효과를 겸비한 4세대 세파계이다. ㄴ. Cefepime은 β-lactamase 가수분해에 내성이 있고 녹농균·엔테로박터균·MSSA에 효과가 있다. ㄷ. Cefepime은 뇌척수액으로 이행하며 신장으로 배설된다. ㄹ. Ceftaroline fosamil은 MRSA에 활성이 있는 세파계 항균약이다. ㅁ. Ceftaroline fosamil은 신장 배설 약물이지만 신장질환 환자에서 용량조절이 필요 없다. ㅅ. Cefepime은 그람양성균 전용으로 그람음성균에는 효과가 없다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅅ"
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤ ㅁ: ceftaroline은 신장 배설 약물로 신장질환 시 용량조절이 필요. ㅅ: cefepime은 그람음"
+        },
+        {
+          "id": "nsclinical43_013",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q13. Cephalosporin의 유해반응에 대한 설명이다. 〈보기〉 ㄱ. 페니실린계-세파계 교차 알러지 발생률은 1% 이하이다. ㄴ. 페니실린 아나필락시스 병력 환자에게 1세대·2세대 세파계는 금기이다. ㄷ. 근육주사 시 심한 통증, 정맥주사 시 혈전정맥염이 나타날 수 있다. ㄹ. Methylthiotetrazole 구조의 cefamandole·cefmetazole·cefotetan·cefoperazone은 저프로 Chapter 43 연습문제 | 8 트롬빈혈증·출혈성 질환을 유발할 수 있다. ㅁ. 위 출혈 위험은 Vitamin C 투여로 예방한다. ㅂ. Methylthiotetrazole 구조 약물은 알코올과 병용해도 안전하다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅂ"
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤ ㅁ: 출혈 위험은 Vitamin K로 예방. ㅂ: methylthiotetrazole 약물은 알코올과 병용 시"
+        },
+        {
+          "id": "nsclinical43_014",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q14. Monobactam(aztreonam)에 대한 설명이다. 〈보기〉 ㄱ. Aztreonam은 그람음성균에 대한 항균력이 좋아 3세대 세파계와 유사하다. ㄴ. Aztreonam은 그람양성균·혐기성균에 효과가 강하다. ㄷ. Aztreonam은 뇌척수액 이행이 잘 된다. ㄹ. Aztreonam은 페니실린류와 교차 과민반응이 없다. ㅁ. Aztreonam은 ceftazidime과 교차 과민반응이 있다. ㅂ. Aztreonam은 carbapenem계 약물이다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② ㄴ: aztreonam은 그람양성균·혐기성균에 효과 약함. ㅂ: aztreonam은 monobactam계."
+        },
+        {
+          "id": "nsclinical43_015",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q15. Carbapenem에 대한 설명이다. 〈보기〉 ㄱ. Imipenem, meropenem, ertapenem, doripenem은 항균 스펙트럼이 가장 넓다. Chapter 43 연습문제 | 9 ㄴ. 대부분의 그람양성균·그람음성균·혐기성균에 효과가 있어 중증 감염에 사용된다. ㄷ. Imipenem은 신장의 renal dehydropeptidase에 의해 분해되어 cilastatin과 1:1로 병용한 다. ㄹ. 신부전 환자에서 고용량 투여 시 발작이 나타날 수 있다. ㅁ. Ertapenem은 IM 투여가 불가능하다. ㅅ. Cilastatin은 그 자체로 강력한 항균작용을 나타낸다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅅ"
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤ ㅁ: ertapenem은 IM 가능(단 국소자극으로 1% lidocaine과 혼합). ㅅ: cilastatin은 항균력"
+        },
+        {
+          "id": "nsclinical43_016",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q16. Vancomycin에 대한 설명이다. 〈보기〉 ㄱ. IM 투여 시 조직괴사가 생기므로 주사 시 반드시 IV로 투여한다. ㄴ. Vancomycin은 그람양성균과 그람음성균 모두에 살균효과가 있다. ㄷ. MRSA·패혈증 치료 및 C. difficile 결장염(경구) 치료에 사용된다. ㄹ. 주요 ADR은 신독성·이독성이다. ㅁ. Red-man 증후군은 IV 주입속도가 빠를 때 히스타민 매개로 나타나는 홍조현상이다. ㅅ. Vancomycin은 주로 간으로 대사·배설된다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㅅ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅅ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ② ㄴ: vancomycin은 그람양성균에만 살균효과(그람음성균 세포막 통과 어려움). ㅅ:"
+        },
+        {
+          "id": "nsclinical43_017",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q17. 당펩티드계 작용기전 및 기타 약물(Teicoplanin, Telavancin 등)에 대한 설명 Chapter 43 연습문제 | 10 이다. 〈보기〉 ㄱ. 당펩티드계는 새로 합성되는 peptidoglycan의 D-Ala-D-Ala 말단에 결합하여 세포벽 합 성을 억제한다. ㄴ. 그람음성균 세포막 통과가 어려워 그람양성균에만 살균효과가 있다. ㄷ. Teicoplanin은 반감기가 길어(45~75시간) 1일 1회 투여가 가능하다. ㄹ. Telavancin은 D-Ala-D-Ala 결합 외에도 세포막전위 교란으로 막 투과성을 증진시킨다. ㅁ. Telavancin은 임산부에게 안전하게 사용할 수 있다. ㅅ. Telavancin은 TDM(치료약물모니터링) 대상 약물이다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅅ"
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤ ㅁ: telavancin은 임산부 사용금지. ㅅ: telavancin은 TDM 대상이 아니다(반면"
+        },
+        {
+          "id": "nsclinical43_018",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q18. Daptomycin에 대한 설명이다. 〈보기〉 ㄱ. 세균 세포막에 삽입되어 구멍을 만들어 세포 내 이온을 유출시킨다. ㄴ. MRSA·패혈증·심내막염 치료에 사용된다. ㄷ. 폐렴 치료에 1차 약제로 사용된다. ㄹ. 근육통·근육염증 부작용이 있어 creatinine phosphokinase를 모니터링한다. ㅁ. 세포벽의 transpeptidation을 억제하여 작용한다. ㅂ. 그람양성균 감염 치료에 사용된다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㅁ Chapter 43 연습문제 | 11"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ③ ㄷ: daptomycin은 폐렴 치료 금기(폐 surfactant에 의해 불활성화). ㅁ: daptomycin은 세"
+        },
+        {
+          "id": "nsclinical43_019",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q19. Bacitracin 및 Fosfomycin에 대한 설명이다. 〈보기〉 ㄱ. Bacitracin은 세포벽 합성을 억제하는 폴리펩티드 혼합물이다. ㄴ. Bacitracin은 신독성 가능성 때문에 국소용(연고)으로만 사용한다. ㄷ. Fosfomycin은 세포벽 합성 1단계 효소인 enolpyruvate transferase를 억제한다. ㄹ. Fosfomycin은 요로감염증에 특이적으로 적용되며 내성발현율이 거의 없다. ㅁ. Bacitracin은 그람음성균에만 활성이 있다. ㅂ. Fosfomycin은 그람양성균에만 항균력을 보인다. 옳지 않은 것만을 모두 고른 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ, ㅂ"
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤ ㅁ: bacitracin은 다양한 그람양성균에 활성. ㅂ: fosfomycin은 그람양성·음성균 모두에 항"
+        },
+        {
+          "id": "nsclinical43_020",
+          "page": null,
+          "source": "Ch.43",
+          "stem": "Ch.43 Q20. Cycloserine 및 세포벽 합성 억제 작용부위에 대한 설명이다. 〈보기〉 ㄱ. Cycloserine은 D-Ala의 구조적 유사체이다. ㄴ. Cycloserine은 L-Ala → D-Ala 전환효소와 D-Ala-D-Ala ligase를 저해한다. ㄷ. Cycloserine은 결핵의 2차 약제로 사용된다. ㄹ. Cycloserine은 용량의존성 중추신경계 이상(두통·떨림·정신병·경련 등)을 유발한다. ㅁ. Fosfomycin과 cycloserine은 모두 세포질(cytoplasm) 단계에서 작용한다. ㅂ. β-lactam은 세포질 내 초기 단계에서 작용한다. ㅅ. Cycloserine은 세포벽 합성과 무관한 단백질 합성 억제제이다. 옳지 않은 것만을 모두 고른 것은? Chapter 43 연습문제 | 12",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㅂ, ㅅ Chapter 43 연습문제 | 13 Ⅱ. 서술형 / 주관식 서술형 1. β-lactam계 항균약의 작용기전을 peptidoglycan 합성·PBP·살균작용 개념을 포함하여 설명하 고, 4가지 주요 내성기전을 모두 쓰시오. 이 중 그람음성균에서만 나타나는 기전은 무엇이며 그 이유(세포 구조)를 함께 서술하시오. 서술형 2. Cephalosporin을 1~4세대로 구분하여 (1) 세대가 올라갈수록 그람양성균↔그람음성균 항균 스펙트럼이 어떻게 변하는지 경향을, (2) 각 세대 대표 약물 1~2개와 특징을 서술하시오. 또한"
+            },
+            {
+              "label": "①",
+              "text": "항녹농균(Pseudomonas) 효과를 갖는 3세대 약물,"
+            },
+            {
+              "label": "②",
+              "text": "MRSA에 활성을 갖는 세파계 약물,"
+            },
+            {
+              "label": "③",
+              "text": "methylthiotetrazole 구조로 인해 알코올과 병용 금기인 약물을 각각 쓰시오. 서술형 3. (1) Vancomycin의 작용기전, 주요 임상용도(C. difficile 결장염 시 투여경로 포함), 대표적 유해 반응(Red-man 증후군 포함)을 서술하시오. (2) Imipenem이 cilastatin과 1:1로 병용 투여되는 이유를 효소명을 포함하여 설명하시오. (3) 세포벽 peptidoglycan 생합성 경로에서 Fosfomycin, Cycloserine, Bacitracin, Vancomycin, β-lactam 5가지 약물이 각각 작용하는 단계 (부위)를 간략히 쓰시오. Chapter 43 연습문제 | 14 정답 및 해설 객관식 정답 1."
+            },
+            {
+              "label": "③",
+              "text": "2."
+            },
+            {
+              "label": "②",
+              "text": "3."
+            },
+            {
+              "label": "②",
+              "text": "4."
+            },
+            {
+              "label": "④",
+              "text": "5."
+            },
+            {
+              "label": "③",
+              "text": "6."
+            },
+            {
+              "label": "④",
+              "text": "7."
+            },
+            {
+              "label": "①",
+              "text": "8."
+            },
+            {
+              "label": "④",
+              "text": "9."
+            },
+            {
+              "label": "③",
+              "text": "10."
+            },
+            {
+              "label": "①",
+              "text": "11."
+            },
+            {
+              "label": "④",
+              "text": "12."
+            },
+            {
+              "label": "⑤",
+              "text": "13."
+            },
+            {
+              "label": "⑤",
+              "text": "14."
+            },
+            {
+              "label": "②",
+              "text": "15."
+            },
+            {
+              "label": "⑤",
+              "text": "16."
+            },
+            {
+              "label": "②",
+              "text": "17."
+            },
+            {
+              "label": "⑤",
+              "text": "18."
+            },
+            {
+              "label": "③",
+              "text": "19."
+            },
+            {
+              "label": "⑤",
+              "text": "20."
+            },
+            {
+              "label": "⑤",
+              "text": "해설 1."
+            },
+            {
+              "label": "③",
+              "text": "ㄷ: beta·lactamase는 penicillin을 불활성화시킨다. ㅁ: aztreonam은 monobactam계. 2."
+            },
+            {
+              "label": "②",
+              "text": "ㄷ: 항포도구균성 penicillin은 장구균·혐기성균·그람음성균에 활성이 없다. ㅂ: 광범위 penicillin은 β-lactamase에 의해 분해된다. 3."
+            },
+            {
+              "label": "②",
+              "text": "ㄴ: β-lactam은 살균작용. ㅁ: 그람음성균이 outer membrane을 가지며 그람양성균에는 없다. 4."
+            },
+            {
+              "label": "④",
+              "text": "ㄷ: Benzathine/procaine pen G는 장기지속형 IM 제형으로 혈중 농도가 낮다. ㅁ: pen G 는 신장 배설되므로 신부전 시 용량 조절이 필요하다(반감기 30분→10시간). 5."
+            },
+            {
+              "label": "③",
+              "text": "ㄷ: Dicloxacillin은 food effect가 있어 공복 복용(식전 또는 식후 1시간). ㅁ: nafcillin·dicloxacillin·oxacillin은 간 대사되어 신부전 시 용량 감소가 필요 없다. 6."
+            },
+            {
+              "label": "④",
+              "text": "ㄹ: extended-spectrum penicillin은 β-lactamase에 의해 불활성화된다. ㅂ: piperacillin·ticarcillin은 IV 제형. 7."
+            },
+            {
+              "label": "①",
+              "text": "ㅁ만 오답: β-lactamase 억제제는 단독 항균력이 미미하며 페니실린계·세파계와 고정용량 병용으로만 사용된다(ㅂ은 옳음). 8."
+            },
+            {
+              "label": "④",
+              "text": "ㅁ: nafcillin·dicloxacillin·oxacillin 등은 신부전 시 용량 감소가 필요 없다. ㅂ: 탈감작은 용 량을 점차 증강하여 시행한다. 9."
+            },
+            {
+              "label": "③",
+              "text": "ㄷ: cefazolin은 CNS를 통과하지 못해 뇌수막염에 무효. ㄹ: 1세대는 심각한 전신감염에 효 과 없음. 10."
+            },
+            {
+              "label": "①",
+              "text": "ㄷ: cefaclor는 β-lactamase에 잘 분해되어 사용 감소. ㅂ: 2세대는 그람양성균에 1세대보 다 떨어진다. 11."
+            },
+            {
+              "label": "④",
+              "text": "ㄹ: cefoperazone과 경구용 3세대는 제외(이들은 CSF 이행 부족). ㅅ: cefixime·cefdinir·ceftibuten·cefpodoxime은 경구 제제. 12."
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ: ceftaroline은 신장 배설 약물로 신장질환 시 용량조절이 필요. ㅅ: cefepime은 그람음 Chapter 43 연습문제 | 15 성균(녹농균·엔테로박터)에 효과 있음. 13."
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ: 출혈 위험은 Vitamin K로 예방. ㅂ: methylthiotetrazole 약물은 알코올과 병용 시 disulfiram 유사반응 → 병용 금기. 14."
+            },
+            {
+              "label": "②",
+              "text": "ㄴ: aztreonam은 그람양성균·혐기성균에 효과 약함. ㅂ: aztreonam은 monobactam계. 15."
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ: ertapenem은 IM 가능(단 국소자극으로 1% lidocaine과 혼합). ㅅ: cilastatin은 항균력 이 아닌 renal dehydropeptidase 억제제(imipenem 분해 방지). 16."
+            },
+            {
+              "label": "②",
+              "text": "ㄴ: vancomycin은 그람양성균에만 살균효과(그람음성균 세포막 통과 어려움). ㅅ: vancomycin은 신배설 90%. 17."
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ: telavancin은 임산부 사용금지. ㅅ: telavancin은 TDM 대상이 아니다(반면 vancomycin은 TDM 대상). 18."
+            },
+            {
+              "label": "③",
+              "text": "ㄷ: daptomycin은 폐렴 치료 금기(폐 surfactant에 의해 불활성화). ㅁ: daptomycin은 세 포막에 삽입되어 작용. 19."
+            },
+            {
+              "label": "⑤",
+              "text": "ㅁ: bacitracin은 다양한 그람양성균에 활성. ㅂ: fosfomycin은 그람양성·음성균 모두에 항 균력. 20."
+            },
+            {
+              "label": "⑤",
+              "text": "ㅂ: β-lactam은 세포 외막·세포벽 단계의 transpeptidation을 억제. ㅅ: cycloserine은 세포 벽 합성(D-Ala 경로) 억제제. 서술형 모범답안 서술형 1. • 작용기전: β-lactam계는 세균 세포벽 peptidoglycan 합성 중 transpeptidation 반응을 억제한 다. 표적은 PBP(penicillin-binding protein = transpeptidase)이며, β-lactam 구조가 기질인 D-Ala-D-Ala 말단과 구조적으로 유사하여 PBP에 결합한다. 그 결과 세포벽 가교 형성이 차 단되어 세포벽 합성이 저해되고 살균작용(bactericidal)을 나타낸다. • 4가지 내성기전:"
+            },
+            {
+              "label": "①",
+              "text": "β-lactamase 활성화(약물 분해)"
+            },
+            {
+              "label": "②",
+              "text": "표적 PBP 변형"
+            },
+            {
+              "label": "③",
+              "text": "약물의 표적 PBP로 의 침투 장애"
+            },
+            {
+              "label": "④",
+              "text": "항균약의 유출(efflux). • 그람음성균에서만 나타나는 기전:"
+            },
+            {
+              "label": "③",
+              "text": "침투 장애. 그람음성균은 세포 외막(outer membrane) 을 가지고 있어 약물이 porin 등을 통해 PBP까지 도달하기 어렵기 때문이다(그람양성균에는 외막이 없음). 서술형 2. • 스펙트럼 경향: 세대가 올라갈수록 그람음성균 활성↑, 그람양성균 활성↓(단 4세대는 양성· 음성 균형, 5세대 ceftaroline은 MRSA까지 확장). Chapter 43 연습문제 | 16 • 1세대: cefazolin(IV/IM), cephalexin·cefadroxil·cephradine(경구). 그람양성균(MSSA) 강함, cefazolin은 CNS 미통과(뇌수막염 무효). • 2세대: cefuroxime(지역감염성 폐렴), cefoxitin·cefotetan·cefmetazole(혐기성 B. fragilis → 복 막염·게실염·골반 감염), cefaclor. • 3세대: ceftriaxone·cefotaxime(페니실린 내성 폐렴구균·뇌수막염), ceftazidime(항녹농균), 경 구용 cefixime·cefdinir·cefpodoxime 등. BBB 통과. • 4세대: cefepime(녹농균·엔테로박터·MSSA, β-lactamase 가수분해 내성). •"
+            },
+            {
+              "label": "①",
+              "text": "항녹농균 3세대: ceftazidime"
+            },
+            {
+              "label": "②",
+              "text": "MRSA 활성 세파계: ceftaroline(fosamil)"
+            },
+            {
+              "label": "③",
+              "text": "알코올 병용 금기(methylthiotetrazole): cefamandole, cefmetazole, cefotetan, cefoperazone. 서술형 3. • (1) Vancomycin: 새로 합성되는 peptidoglycan의 D-Ala-D-Ala 말단에 결합하여 세포벽 합성 을 억제(그람양성균에만 작용). 임상용도 — MRSA(IV), 패혈증, 페니실린 과민환자의 세균성 심내막염 예방(IV), C. difficile 결장염(경구). 유해반응 — 신독성·이독성, Red-man 증후군(빠 른 IV 주입 시 히스타민 매개 홍조), 주입 후 동통·혈전성 정맥염. (IM 시 조직괴사 → 반드시 IV) • (2) Imipenem + cilastatin: imipenem은 신장의 renal dehydropeptidase에 의해 분해되는데, cilastatin이 이 효소를 억제하여 imipenem의 분해를 막고 신장 내 농도를 유지시키므로 1:1 로 병용한다. • (3) 작용부위(생합성 순서):"
+            },
+            {
+              "label": "①",
+              "text": "Fosfomycin — enolpyruvate transferase 억제(UDP-N-acetylmuramic acid 생성, 세포질 초기) →"
+            },
+            {
+              "label": "②",
+              "text": "Cycloserine — alanine racemase·D-Ala-D-Ala ligase 억제(D-Ala 합성, 세포질) →"
+            },
+            {
+              "label": "③",
+              "text": "Bacitracin — 지질 운반체 재생 억제(막 단계) →"
+            },
+            {
+              "label": "④",
+              "text": "Vancomycin — D-Ala-D-Ala 말단 결합(막 외측, 사슬 연장 차단) →"
+            },
+            {
+              "label": "⑤",
+              "text": "β-lactam — transpeptidation(가교 형성) 억제."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "정답: ⑤ ㅂ: β-lactam은 세포 외막·세포벽 단계의 transpeptidation을 억제. ㅅ: cycloserine은 세포"
+        },
+        {
+          "id": "nsclinical4445_001",
+          "page": null,
+          "source": "Ch.44",
+          "stem": "Ch.44 Q1. Tetracycline계 항생제의 작용기전 및 내성에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Tetracycline계 약물은 박테리아 리보소체 30S 소단위에 가역적으로 결합하여 aminoacyl-tRNA의 mRNA ribosome 복합체 수용부위로의 결합을 차단한다. ㄴ. Tetracycline계 약물의 항균 작용은 살균성(bactericidal)이다. ㄷ. 내성기전 중 하나는 능동수송펌프에 의한 약물 유입 손상 또는 유출 증가이다. ㄹ. Tetracycline의 리보소체 결합을 방해하는 단백질 생성을 통한 리보소체 보호도 내성기전에 해당한다. ㅁ. Tetracycline계 내성의 세 번째 기전은 효소에 의한 약물의 불활성화이다. ㅂ. Tetracycline계 약물은 무산소균(anaerobe)에는 작용하지 않는다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄱ, ㄷ, ㄹ, ㅁ Tetracycline – 약동력학"
+        },
+        {
+          "id": "nsclinical4445_002",
+          "page": null,
+          "source": "Ch.44",
+          "stem": "Ch.44 Q2. Tetracycline계 약물의 약동력학에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Tigecycline과 eravacycline은 경구 흡수가 거의 되지 않아 정맥 투여한다. ㄴ. Doxycycline과 minocycline은 흡수 시 음식의 영향을 받는다. ㄷ. 다가 양이온, 유제품, 알칼리성 pH는 Tetracycline 흡수를 저해한다. ㄹ. Tetracycline, demeclocycline, omadacycline은 반드시 음식과 함께 복용해야 한다. ㅁ. 할로겐 치환 시 신장 배설이 낮아져 반감기가 길어진다. ㅂ. Tetracycline계 약물은 태반을 통과하지 않으므로 임산부에게 비교적 안전하다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄷ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄴ, ㄹ, ㅂ Tetracycline – 임상용도 및 유해작용"
+        },
+        {
+          "id": "nsclinical4445_003",
+          "page": null,
+          "source": "Ch.44",
+          "stem": "Ch.44 Q3. Tetracycline계 항생제의 임상용도 및 유해작용에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. 리케차, 보렐리아에 의한 Rocky Mountain spotted fever, 라임병 감염 치료 시 1차 선택약이다. ㄴ. Helicobacter pylori에 의한 위 및 십이지장 궤양 치료 시 단독요법으로 사용한다. ㄷ. 위장관 정상 장내 균주를 변화시켜 구강 칸디다증 및 C. difficile 관련 대장염을 유발할 수 있다. ㄹ. 임산부 및 12세 미만 소아에게 투여를 금기하는 이유는 칼슘과 킬레이션하여 성장 중인 뼈와 이에 침착되기 때문이다. ㅁ. Tetracycline계 약물의 유해작용으로 신세관산증과 판코니증이 보고되어 있다. ㅂ. Tetracycline계 약물은 광민감반응을 유발하지 않는다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄷ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄷ, ㄹ, ㅁ Macrolide – Erythromycin"
+        },
+        {
+          "id": "nsclinical4445_004",
+          "page": null,
+          "source": "Ch.44",
+          "stem": "Ch.44 Q4. Erythromycin에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Erythromycin은 50S ribosomal RNA에 결합하여 peptidyltransferase 중심 부근을 차단, 펩타이드 사슬 연장(transpeptidation)을 저해한다. ㄴ. Erythromycin은 그람양성균에만 효과적이며, 마이코플라즈마나 클라미디아에는 효과가 없다. ㄷ. Erythromycin의 내성기전으로는 세포막 투과성 감소, macrolide 분해효소(esterase) 생산, 염색체 돌연변이를 통한 리보소체 결합부위 변형이 있다. ㄹ. Erythromycin은 CYP450을 억제하여 병용약물의 혈중 농도를 증가시킬 수 있다. ㅁ. Erythromycin은 지역감염성 폐렴 치료 시 거의 1차 선택약으로 사용된다. ㅂ. Erythromycin은 Penicillin 알레르기 환자의 포도알균, 사슬알균 감염 대체약으로 쓰인다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄷ, ㅁ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ만"
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ⑤ ㄴ만 (ㄴ이 옳지 않음: Erythromycin은 폐렴 마이코플라즈마, 클라미디아 등에도 감수성) Macrolide – Clarithromycin / Azithromycin / Fidaxomicin / Ketolides"
+        },
+        {
+          "id": "nsclinical4445_005",
+          "page": null,
+          "source": "Ch.44",
+          "stem": "Ch.44 Q5. Macrolide 계열 약물에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Clarithromycin은 erythromycin에 methyl기를 첨가하여 산 안정성을 높이고 경구 흡수를 향상시켰다. ㄴ. Clarithromycin은 Mycobacterium avium 복합체에 대한 효과가 erythromycin보다 뛰어나다. ㄷ. Azithromycin은 혈중 농도는 높지만 조직 침투가 낮아 반감기가 짧다. ㄹ. Azithromycin은 CYP450을 억제하지 않으나 QT 간격을 연장할 수 있다. ㅁ. Fidaxomicin은 C. difficile 감염 치료에 사용되는 macrolide 계열 약물이다. ㅂ. Ketolide계(Telithromycin)는 대부분의 macrolide 내성 균주에도 감수성을 보인다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄹ, ㅁ, ㅂ Clindamycin"
+        },
+        {
+          "id": "nsclinical4445_006",
+          "page": null,
+          "source": "Ch.44",
+          "stem": "Ch.44 Q6. Clindamycin에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Clindamycin은 초기 복합체 형성 및 aminoacyl translocation 반응을 방해하여 단백질 합성을 억제한다. ㄴ. Clindamycin의 리보소체 결합 부위는 erythromycin의 50S 소단위 결합 부위와 일치한다. ㄷ. Clindamycin은 Macrolide계 약물과 교차 내성을 보인다. ㄹ. Clindamycin은 창자알균(Enterococcus)과 그람음성 산소성 균에도 항균 효과가 우수하다. ㅁ. Group A Streptococcus에 의한 괴사근막염 또는 독성 쇼크 증후군 치료 시 Penicillin G와 함께 사용한다. ㅂ. Clindamycin은 C. difficile에 의한 설사 및 대장염의 위험인자가 아니다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄹ, ㅂ Streptogramins & Chloramphenicol"
+        },
+        {
+          "id": "nsclinical4445_007",
+          "page": null,
+          "source": "Ch.44",
+          "stem": "Ch.44 Q7. Streptogramins 및 Chloramphenicol에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Quinupristin-dalfopristin은 streptogramin B인 quinupristin 150 mg과 streptogramin A인 dalfopristin 350 mg을 30:70 비율로 혼합한 복합약이다. ㄴ. Streptogramins는 macrolide계, clindamycin과 리보소체 결합부위를 공유하므로 교차 내성이 나타날 수 있다. ㄷ. Quinupristin-dalfopristin은 신부전 환자에서 용량 조절이 필요하다. ㄹ. Quinupristin-dalfopristin은 CYP3A4를 억제하며, 대변으로 배설된다. ㅁ. Chloramphenicol은 리보소체 50S 소단위와 비가역적으로 결합하여 펩티드 결합 형성을 억제한다. ㅂ. Chloramphenicol의 중대한 유해작용으로 재생불량 빈혈과 회색유아증후군(grey baby syndrome)이 있다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄷ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄹ, ㅂ Oxazolidinones – Linezolid & Tedizolid"
+        },
+        {
+          "id": "nsclinical4445_008",
+          "page": null,
+          "source": "Ch.44",
+          "stem": "Ch.44 Q8. Oxazolidinone계 약물(Linezolid, Tedizolid)에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Linezolid는 50S 소단위의 23S 리보소체 RNA에 결합하여 리보소체 복합체 형성을 방해한다. ㄴ. Linezolid는 다른 약물과 교차 내성이 없다. ㄷ. Linezolid는 대체로 살균성이며, 사슬알균에 대해서는 정균성이다. ㄹ. Linezolid는 Methicillin-내성 포도알균(MRSA) 및 vancomycin-내성 창자알균(VRE) 감염 치료에 사용된다. ㅁ. Linezolid와 Serotonin 재흡수 억제약을 병용하면 serotonin 증후군이 발생할 수 있다. ㅂ. Tedizolid는 반감기가 짧아(약 6시간) 1일 2회 복용이 권장된다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄷ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄷ, ㅂ Pleuromutilins(Lefamulin) & 단백질 합성 억제제 종합"
+        },
+        {
+          "id": "nsclinical4445_009",
+          "page": null,
+          "source": "Ch.44",
+          "stem": "Ch.44 Q9. 단백질 합성 억제 항생제 전반에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Lefamulin(Pleuromutilins)은 50S 리보소체에 결합하여 세균 단백질 합성을 억제하고, 폐렴 치료에 사용된다. ㄴ. Aminoglycosides는 30S 소단위에 비가역적으로 결합하여 번역 개시를 차단하고 mRNA 오독을 유발한다. ㄷ. Chloramphenicol은 리보소체 50S 소단위에 결합하여 펩티드 결합 형성을 억제하는 살균성 약물이다. ㄹ. Oxazolidinones(Linezolid)는 50S 소단위의 23S 리보소체 RNA에 결합하여 단백질 합성 초기 개시를 방해한다. ㅁ. Macrolides는 50S 소단위에 결합하여 폴리펩타이드 사슬 연장(transpeptidation)을 저해한다. ㅂ. Streptogramins는 각기 다른 단백질 합성 단계에 개입하며, 병용 시 살균성을 나타낸다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄴ, ㄷ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄷ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄹ, ㅁ, ㅂ 임상용도 종합 (Ch 44)"
+        },
+        {
+          "id": "nsclinical4445_010",
+          "page": null,
+          "source": "Ch.44",
+          "stem": "Ch.44 Q10. 다음 중 <보기>의 임상 적응증–약물 연결이 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Rocky Mountain spotted fever(리케차 감염) – Tetracycline (1차 선택약) ㄴ. 지역감염성 폐렴 – Erythromycin (우선 선택) ㄷ. 클라미디아성 자궁경부염 및 요도염 – Azithromycin 1 g 1회 투여 ㄹ. vancomycin 내성 E. faecium 감염 – Chloramphenicol ㅁ. 페니실린 알레르기 환자의 세균성 수막염 – Chloramphenicol (대체약) ㅂ. 피부·연조직 감염(Group A Streptococcus) – Clindamycin + Penicillin G",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄷ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄹ만"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄷ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄹ만 (vancomycin 내성 E. faecium 감염에는 Quinupristin-dalfopristin 또는 Linezolid가 적절) ▌ Chapter 45 Aminoglycosides – 작용기전 및 구조"
+        },
+        {
+          "id": "nsclinical4445_011",
+          "page": null,
+          "source": "Ch.45",
+          "stem": "Ch.45 Q11. Aminoglycoside계 약물의 작용기전에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Aminoglycoside계 약물은 mRNA 30S 소단위에 비가역적으로 결합하는 살균성 단백질 합성 억제약이다. ㄴ. Aminoglycoside계 약물은 호기성 그람음성균 감염증에 효과가 있으며 결핵균에도 항균력이 우수하다. ㄷ. Aminoglycoside는 mRNA의 오독(misreading)을 유도하여 잘못된 아미노산이 삽입된 비기능성 단백질을 생성시킨다. ㄹ. Aminoglycoside는 무산소(혐기성) 환경에서도 정상적으로 세포 내로 유입된다. ㅁ. Aminoglycoside계 약물은 아미노기를 가진 당이 glycoside 결합으로 연결된 구조이다. ㅂ. Aminoglycoside계 약물은 알칼리성 pH보다 산성 pH에서 활성이 더 높다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄴ, ㄷ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄱ, ㄴ, ㄷ, ㅁ Aminoglycosides – 내성 기전"
+        },
+        {
+          "id": "nsclinical4445_012",
+          "page": null,
+          "source": "Ch.45",
+          "stem": "Ch.45 Q12. Aminoglycoside계 약물의 내성 기전에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. 아데닐화(adenylation), 아세틸화(acetylation), 또는 인산화(phosphorylation)를 통해 aminoglycoside를 불활성화하는 전이효소 생성이 가장 흔한 임상 내성 기전이다. ㄴ. Aminoglycoside의 세포 내 유입을 방해하는 기전에는 porin 단백질의 돌연변이나 결손이 관여한다. ㄷ. 30S 리보솜 소단위의 수용체 단백질의 돌연변이도 내성 기전에 해당한다. ㄹ. Amikacin은 gentamicin과 tobramycin을 불활성화하는 효소에도 불활성화된다. ㅁ. Plazomicin은 aminoglycoside에 대한 대부분의 대사 효소에 감수성이 낮아 내성균에도 활성을 보인다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄹ만"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄹ만 (Amikacin은 gentamicin과 tobramycin을 불활성화하는 효소에 저항성을 지님) Aminoglycosides – 약동학 및 투여법"
+        },
+        {
+          "id": "nsclinical4445_013",
+          "page": null,
+          "source": "Ch.45",
+          "stem": "Ch.45 Q13. Aminoglycoside계 약물의 약동학 및 투여에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Aminoglycoside계 약물은 위장관에서 흡수되지 않으므로 IV(30~60분) 또는 IM으로 투여한다. ㄴ. Aminoglycoside는 농도의존적 살균 효과(concentration-dependent killing)와 항생약투여 후 효과(postantibiotic effect)를 가지므로 단회 다량 투여가 수회 소량 투여보다 효과적이다. ㄷ. Aminoglycoside는 100% 신장에서 배설되므로 신부전 환자에서 용량을 감소시키거나 투여 간격을 늘려야 한다. ㄹ. β-lactam계 또는 vancomycin과 병용 시 그람양성균(포도알균, 창자알균)에 상승 살균 효과(synergistic killing)를 나타낸다. ㅁ. Aminoglycoside 혈장 내 최고 농도는 주사 후 1~2시간, 최저 농도는 다음 투여 바로 직전에 측정한다. ㅂ. Aminoglycoside계 약물은 대사되어 일부 간에서 배설된다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄷ, ㄹ Aminoglycosides – 유해반응"
+        },
+        {
+          "id": "nsclinical4445_014",
+          "page": null,
+          "source": "Ch.45",
+          "stem": "Ch.45 Q14. Aminoglycoside계 약물의 유해반응에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. 이독성(ototoxicity)은 비가역적이고, 신독성(nephrotoxicity)은 가역적이다. ㄴ. 신경근 마비는 정맥주사를 빠르게 주입할 때 발생할 수 있으며 비가역적이다. ㄷ. Streptomycin과 gentamicin은 전정기능 독성이 가장 강하며, neomycin과 tobramycin은 신독성이 가장 크다. ㄹ. Plazomicin은 이독성과 신독성 발현이 낮은 것으로 알려져 있다. ㅁ. Aminoglycoside 독성은 시간과 농도 모두에 의존적이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ만"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ만"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄴ, ㄷ (신경근 마비는 가역적; 신독성 가장 큰 약은 neomycin, gentamicin임) Aminoglycosides 각론 – Gentamicin / Tobramycin / Amikacin"
+        },
+        {
+          "id": "nsclinical4445_015",
+          "page": null,
+          "source": "Ch.45",
+          "stem": "Ch.45 Q15. 각 Aminoglycoside 약물에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Gentamicin은 패혈증, 요로감염증, 심내막염 등에 사용되며, 0.1~0.3% 크림/연고로 감염 화상, 상처 등에도 적용된다. ㄴ. Tobramycin은 gentamicin과 거의 동일한 항균범위를 가지며, 녹농균(Pseudomonas)에 대한 활성은 gentamicin보다 약하다. ㄷ. Amikacin은 gentamicin과 tobramycin을 불활성화하는 효소에 대한 저항성을 지니므로 이들 내성균 및 결핵 치료에 사용된다. ㄹ. Neomycin은 신독성이 매우 심하여 국소용 또는 경구용으로만 사용한다. ㅁ. Paromomycin은 내장리슈만편모충 감염증, 장관 이질 아메바 감염증 치료에 사용된다. ㅂ. Streptomycin은 결핵 치료 제2차 선택약으로 사용되며 현재는 단독 사용이 제한적이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄱ, ㄷ, ㄹ, ㅁ, ㅂ Aminoglycosides 각론 – Kanamycin / Neomycin / Plazomicin / Spectinomycin"
+        },
+        {
+          "id": "nsclinical4445_016",
+          "page": null,
+          "source": "Ch.45",
+          "stem": "Ch.45 Q16. 다음 약물에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Kanamycin은 항결핵약으로만 사용한다. ㄴ. Neomycin은 장 수술 전 호기성 장내세균총을 줄일 목적으로 경구 사용하며, 1 g의 erythromycin과 병용하기도 한다. ㄷ. Plazomicin은 합병증성 요로감염 치료(CRE: carbapenem resistant Enterobacteriaceae)에 적응증을 가진다. ㄹ. Spectinomycin은 IV로 투여하며, 페니실린 알레르기 환자의 임균 치료에 사용한다. ㅁ. Netilmicin은 많은 gentamicin 및 tobramycin 내성균에 활성을 보일 수 있다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄹ만"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄹ만 (Spectinomycin은 IM 투여) 병용요법 및 임상 종합"
+        },
+        {
+          "id": "nsclinical4445_017",
+          "page": null,
+          "source": "Ch.45",
+          "stem": "Ch.45 Q17. Aminoglycoside계 약물의 임상 적용 및 병용요법에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. 그람음성균에 의한 심각한 감염 시 β-lactam + aminoglycoside 병용요법을 권장한다. ㄴ. 그람양성균에 의한 심내막염 치료 시 β-lactam(또는 vancomycin) + aminoglycoside 병용요법을 권장한다. ㄷ. Tobramycin은 흡입 및 안과용 제제도 존재하며, 낭성 섬유증(cystic fibrosis)에 동반되는 녹농균 감염 치료에 흡입형으로 사용된다. ㄹ. Aminoglycoside계 약물은 약물저항성 병원균 감염 중증 환자에게 거의 단독으로 사용한다. ㅁ. Gentamicin은 패혈증 외에도 요로감염증, 심내막염 치료에 사용된다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㅁ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄷ, ㅁ ▌ 통합 (Ch 44-45) 작용기전 비교 종합"
+        },
+        {
+          "id": "nsclinical46_001",
+          "page": null,
+          "source": "Ch.46",
+          "stem": "Ch.46 Q1. Sulfonamide계 약물의 작용기전, 분류 및 내성에 관한 설명으로 <옳은 것만>을 모은 것 은? <보기> ㄱ. Sulfonamide계 약물은 dihydropteroate synthase를 억제하여 PABA로부터 dihydrofolic acid 합성을 차단하며, 이는 정균작용(bacteriostatic)에 해당한다. ㄴ. Sulfonamide에 감수성이 있는 병원균은 외부로부터 folate를 이용할 수 없어 PABA로부 터 직접 folate를 합성해야 하므로 이 약물의 작용을 받는다. ㄷ. Sulfamethoxazole은 경구 흡수성 약물이고, sulfasalazine은 경구 비흡수성 약물이다. ㄹ. Sulfonamide 내성 기전으로는 PABA를 과잉 생성하는 돌연변이, 친화성이 낮은 dihydropteroate synthase 생산, 약물 투과도를 줄이는 돌연변이가 있다. ㅁ. Sulfonamide계 약물은 Pseudomonas aeruginosa에 천연적으로 강한 항균력을 나타낸다. ㅂ. Sulfonamide계 약물은 산성보다 알칼리성 pH에서 용해성이 더 높으며, 대부분 sodium 염으로 제조되어 정맥 투여도 가능하다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄷ, ㄹ, ㅂ (ㅁ: Pseudomonas aeruginosa는 선천적으로 sulfonamide 내성 / ㄴ 은 옳으나 ③에 포함 위해 ㄴ 제외함 — 실제로 ③에 ㄴ 없음) Sulfonamide – 약동학 및 임상용도"
+        },
+        {
+          "id": "nsclinical46_002",
+          "page": null,
+          "source": "Ch.46",
+          "stem": "Ch.46 Q2. Sulfonamide계 약물의 약동학 및 임상용도에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Sulfonamide계 약물은 주로 신장으로 배설되므로 심각한 신부전 환자에서 투여량을 감 소시켜야 한다. ㄴ. 급성 톡소플라스마증 치료의 1차 선택약은 sulfadiazine + pyrimethamine 병용요법이며, 골수 억제 부작용을 예방하기 위해 leucovorin을 함께 투여한다. ㄷ. Sulfasalazine은 화상 상처의 감염 예방을 위해 국소 사용하는 외용약이다. ㄹ. Silver sulfadiazine은 mafenide acetate보다 독성이 적어 화상 상처 감염 예방에서 더 선 호된다. ㅁ. Sodium sulfacetamide는 박테리아성 결막염 치료 및 트라코마의 보조요법에 점안액 또 는 연고로 사용한다. ㅂ. Sulfadoxine은 단기 작용형 sulfonamide 약물로 요로감염증의 1차 선택약이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄷ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄷ, ㅂ (ㄷ: sulfasalazine은 염증성 장질환 치료약 / ㅂ: sulfadoxine은 장기 작용형이 며 2차 말라리아 치료제) Sulfonamide – 유해반응"
+        },
+        {
+          "id": "nsclinical46_003",
+          "page": null,
+          "source": "Ch.46",
+          "stem": "Ch.46 Q3. Sulfonamide계 약물의 유해반응에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. 가장 흔한 유해반응으로는 알레르기 반응, 발열, 피부 및 점막 발진이 있다. ㄴ. Sulfonamide계 약물은 소변 내에서 침전되어 결정뇨 및 혈뇨를 유발할 수 있으며, 이를 예방하려면 복용 후 다량의 물을 섭취해야 한다. ㄷ. 결정뇨 치료를 위해 소변을 산성화(ammonium chloride 투여)해야 한다. ㄹ. Sulfonamide계 약물은 용혈성 또는 재생불량성 빈혈, 혈소판 감소증 등 골수 억제 유해 반응을 일으킬 수 있다. ㅁ. 스티븐스-존슨증후군은 비교적 흔하게 발생하며(치료과정 중 10% 이상) sulfonamide 사 용과 관련된 중대한 피부 반응이다. ㅂ. Glucose-6-phosphate dehydrogenase 결핍 환자에서 sulfonamide 투여 시 용혈 반응이 유발될 수 있다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄷ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄹ, ㅂ (ㄷ: 결정뇨 치료는 소변을 알칼리화(sodium bicarbonate) / ㅁ: 스티 븐스-존슨증후군은 비교적 드물게 발생, 치료 중 1% 미만) ▌ Trimethoprim 및 TMP-SMX Trimethoprim – 작용기전 및 병용요법"
+        },
+        {
+          "id": "nsclinical46_004",
+          "page": null,
+          "source": "Ch.46",
+          "stem": "Ch.46 Q4. Trimethoprim 및 Trimethoprim-Sulfamethoxazole(TMP-SMX)에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Trimethoprim은 dihydrofolate reductase를 억제하여 dihydrofolic acid의 tetrahydrofolic acid로의 전환을 차단하며, 이를 통해 purine 합성 및 DNA 합성을 억제한다. ㄴ. Trimethoprim + sulfamethoxazole 병용 시 folate 합성 경로를 순차적으로 이중 억제하 여 단독 정균 활성에 비해 살균성을 나타낸다. ㄷ. TMP-SMX 복합제는 trimethoprim과 sulfamethoxazole을 1:5 비율로 혼합하며, 체내에서 두 약물의 최적 살균 비율은 1:10이 된다. ㄹ. Trimethoprim은 단독으로 급성 요로감염 치료에 사용될 수 있다(1일 2회 100 mg). ㅁ. TMP-SMX는 Pneumocystis jiroveci 폐렴(PCP) 치료 및 예방의 1차 선택약이다. ㅂ. Trimethoprim은 포유류의 dihydrofolate reductase에도 강력하게 작용하여 인체 세포에 서의 부작용이 심하다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄷ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄷ, ㅂ (ㄷ: 체내 최적 비율은 1:20이 아닌 1:20이 아니라 1:20 — 실제로는 배합비 1:5가 체내에서 1:20이 됨. ㅂ: Trimethoprim은 포유류 DHFR을 매우 비효율적으로 억제함) TMP-SMX – 임상용도 및 유해반응"
+        },
+        {
+          "id": "nsclinical46_005",
+          "page": null,
+          "source": "Ch.46",
+          "stem": "Ch.46 Q5. TMP-SMX의 임상용도 및 유해반응에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. TMP-SMX는 MRSA, MSSA, 호흡기 병원균에 항균력이 있다. ㄴ. TMP-SMX는 세균성 이질(shigellosis), 요로감염, 전립선염, 장티푸스 치료에 사용된다. ㄷ. TMP-SMX는 Pseudomonas aeruginosa에 의한 패혈증에 1차 선택약으로 사용된다. ㄹ. Trimethoprim의 유해반응으로 거대적혈모구빈혈(megaloblastic anemia), 백혈구 감소증, 과립구 감소증이 발생할 수 있다. ㅁ. TMP-SMX 투여 시 AIDS 환자에서는 특히 발진, 백혈구 감소, 설사, 간 기능 이상 발생 빈 도가 높다. ㅂ. Trimethoprim은 신장 원위세뇨관에서 creatinine 배출을 촉진시켜 혈청 creatinine 수치 를 감소시킨다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄹ, ㅁ (ㄷ: TMP-SMX는 P. aeruginosa에 효과 없음 / ㅂ: creatinine 배출을 억제하여 혈청 creatinine 수치를 증가시킴 — 진성 신독성과 구별 필요) ▌ Fluoroquinolone계 항생약 Fluoroquinolone – 작용기전, 분류 및 항균범위"
+        },
+        {
+          "id": "nsclinical46_006",
+          "page": null,
+          "source": "Ch.46",
+          "stem": "Ch.46 Q6. Fluoroquinolone계 약물의 작용기전, 분류 및 항균범위에 관한 설명으로 <옳지 않은 것 만>을 모은 것은? <보기> ㄱ. Fluoroquinolone계 약물은 Topoisomerase II (DNA gyrase) 및 Topoisomerase IV를 억제 하여 박테리아 DNA 합성을 차단하는 살균성 약물이다. ㄴ. Norfloxacin은 그람음성균에만 제한적 효과를 보이며, ciprofloxacin과 비교하여 최소억제 농도(MIC)가 4~8배 높아 그람음성·양성 모두에서 활성이 가장 낮은 fluoroquinolone이다. ㄷ. Ciprofloxacin은 그람음성균, 특히 Pseudomonas aeruginosa에 가장 효과적인 fluoroquinolone이다. ㄹ. Gatifloxacin, gemifloxacin, moxifloxacin은 그람양성균에 대한 항균력이 증가된 3세대 fluoroquinolone으로, 혐기성균에도 항균력을 지닌다. ㅁ. Levofloxacin은 ofloxacin의 D-이성질체로 Streptococcus pneumoniae를 포함한 그람양 성균에 우수한 활성을 지닌다. ㅂ. Delafloxacin은 차세대 fluoroquinolone으로 광범위한 항균활성 및 내성 발생 감소 특성 을 지닌다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄷ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㅁ만"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㅁ"
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ⑤ ㄴ, ㅁ (ㄴ: norfloxacin은 그람음성균에만 효과 — 맞으나 '미국에서 더 이상 사용 안 함'이 추가 특징 / ㅁ: levofloxacin은 ofloxacin의 L-이성질체임) Fluoroquinolone – 내성 기전"
+        },
+        {
+          "id": "nsclinical46_007",
+          "page": null,
+          "source": "Ch.46",
+          "stem": "Ch.46 Q7. Fluoroquinolone계 약물의 내성 기전에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Fluoroquinolone 내성 발현은 표적 효소(DNA gyrase, Topoisomerase IV)의 quinolone 결합 영역 내 점돌연변이에 의해 나타날 수 있다. ㄴ. 플라스미드 매개 내성(plasmid-mediated resistance)으로는 Qnr 단백질을 이용한 DNA gyrase 보호 기전과 ciprofloxacin을 변형시키는 aminoglycoside acetyltransferase의 변종이 있다. ㄷ. 한 종류의 fluoroquinolone에 중등도 내성이 생기더라도 같은 그룹의 다른 종류의 약물 에는 교차내성이 발생하지 않는다. ㄹ. 유기체의 투과도 변화(porin 돌연변이나 유출 펌프 활성화)도 fluoroquinolone 내성 기전 에 해당한다. ㅁ. Fluoroquinolone 내성균은 치료 대상 균체마다 대략 10²~10³ 개 수준의 확률로 발생한 다. ㅂ. Streptococci 감염 치료 시 fluoroquinolone계 약물은 내성 발현을 방지하기 위해 rifampin과 같은 2차 약물을 병용 사용한다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄹ, ㅂ (ㄷ: 중등도 내성 경우 같은 그룹의 모든 fluoroquinolone에 교차내성 나타남 / ㅁ: 내성균 발생 확률은 10⁷~10⁹ 개 균체마다 하나씩) Fluoroquinolone – 약동학 및 임상용도"
+        },
+        {
+          "id": "nsclinical46_008",
+          "page": null,
+          "source": "Ch.46",
+          "stem": "Ch.46 Q8. Fluoroquinolone계 약물의 약동학 및 임상용도에 관한 설명으로 <옳지 않은 것만>을 모 은 것은? <보기> ㄱ. Fluoroquinolone계 약물은 경구투여 시 80~95% 생체이용률로 잘 흡수되며 체액 및 조직 에 널리 분포한다. ㄴ. 제산제 성분을 포함한 2가 및 3가 양이온은 경구 fluoroquinolone의 흡수를 방해하므로, 복용 2시간 전 또는 4시간 후에 투여해야 한다. ㄷ. Moxifloxacin은 간에서 대사되어 담즙으로 배설되므로 신기능을 고려한 용량 조절이 불 필요하나, 간부전 환자에서는 특별한 주의가 필요하다. ㄹ. Ciprofloxacin은 탄저병 예방 및 치료의 1차 선택약이다. ㅁ. Levofloxacin과 ofloxacin은 클라미디아 요도염 및 자궁경부염 치료의 2차 치료법으로 질 병관리센터(CDC)에서 추천된다. ㅂ. Fluoroquinolone계 약물은 비정형(atypical) 폐렴 요인(chlamydiae, Mycoplasma, Legionella)에 효과적이어서 '호흡기' fluoroquinolone이라 불리는 약물군이 있다. ㅅ. Ciprofloxacin과 levofloxacin은 내성이 일반적으로 나타나므로 미국에서 더 이상 임균 감 염증 치료로 권장되지 않는다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㅅ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄹ, ㅅ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄹ, ㅅ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㅅ만 — 모두 옳은 내용이며 ㅅ도 사실임. 실제 틀린 선지 없음을 고려 시 ①을 '없음 (모두 옳음)'으로 처리. [교수 의도: ④ ㄷ, ㅁ, ㅂ 확인 권장] Fluoroquinolone – 유해반응"
+        },
+        {
+          "id": "nsclinical46_009",
+          "page": null,
+          "source": "Ch.46",
+          "stem": "Ch.46 Q9. Fluoroquinolone계 약물의 유해반응에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. 가장 일반적인 유해반응은 메스꺼움, 구토, 설사 등 소화기계 부작용이다. ㄴ. Lomefloxacin과 pefloxacin의 사용에 의한 광과민성(photosensitivity)이 보고되어 있다. ㄷ. Gatifloxacin, levofloxacin, gemifloxacin, moxifloxacin 사용 시 QTc 간격 연장이 발생할 수 있으므로 QTc 연장 위험 환자에서 사용을 피하거나 주의해야 한다. ㄹ. Fluoroquinolone계 약물은 성장 중인 연골을 손상시키므로 임산부 및 18세 미만 환자에 게 1차 선택약으로 투여하는 것이 권장된다. ㅁ. 건염(tendonitis) 발생은 성인에서도 매우 드물게 보고되며, 위험 요인으로 고령, 신부전, 스테로이드 병용이 포함된다. ㅂ. 경구 또는 정맥투여된 fluoroquinolone계 약물은 말초신경병증과 관련이 있으며, 약물 복 용 중단 후에도 수개월 혹은 수년간 지속될 수 있다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄷ, ㅁ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄷ, ㅁ, ㅂ (ㄹ: 연골 손상 우려로 임산부 및 18세 미만에 1차 선택약으로 투여 하는 것은 권장되지 않음) ▌ 기타 항균약 (Metronidazole, Mupirocin, Polymyxin) 기타 항균약 – 작용기전 및 임상용도"
+        },
+        {
+          "id": "nsclinical46_010",
+          "page": null,
+          "source": "Ch.46",
+          "stem": "Ch.46 Q10. 기타 항균약(Metronidazole, Mupirocin, Polymyxin)에 관한 설명으로 <옳지 않은 것만 >을 모은 것은? <보기> ㄱ. Metronidazole은 nitroimidazole계 항원충약으로, 환원 대사체가 박테리아 DNA에 결합 하여 불안정한 물질을 형성함으로써 살균 효과를 나타낸다. ㄴ. Metronidazole은 무산소균(anaerobe) 감염, 질염, C. difficile 감염 치료에 사용되며 C. difficile 감염 시 vancomycin과 병용 투여된다. ㄷ. Metronidazole은 음주와 함께 복용 시 Disulfiram 유사효과(구역, 구토, 홍조)가 발생할 수 있다. ㄹ. Mupirocin은 전신 효과가 없는 국소 도포용 연고이며, isoleucyl tRNA 합성 효소를 저해 하여 그람양성 알균(MSSA, MRSA 포함)에 효과적이다. ㅁ. Polymyxin은 그람양성균에 선택적으로 유효한 염기성 펩티드로, 세포막에 결합하여 내독 소를 불활성화한다. ㅂ. Polymyxin은 독성이 심해 외용액으로만 사용이 제한된다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄷ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㅁ만"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㅁ"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ④ ㅁ만 (ㅁ: Polymyxin은 그람음성균에 유효한 약물임. 그람양성균 아님) ▌ 통합 (Ch 46) 약물-작용기전/임상용도 연결 종합"
+        },
+        {
+          "id": "nsclinical47_001",
+          "page": null,
+          "source": "Ch.47",
+          "stem": "Ch.47 Q1. Isoniazid(INH)의 작용기전 및 약동학에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Isoniazid는 항산균 세포벽의 필수 구성성분인 mycolic acid의 합성을 억제한다. ㄴ. Isoniazid는 항산균의 catalase-peroxidase(KatG)에 의해 활성화되는 prodrug이다. ㄷ. Isoniazid는 경구 흡수율이 낮아 반드시 정맥 투여해야 하며, 공복 시 흡수가 감소한다. ㄹ. Isoniazid의 대사는 주로 간의 N-acetyltransferase에 의한 acetylation이며, 이는 유전형에 따라 속도가 달라진다. ㅁ. Slow acetylator 환자군은 rapid acetylator에 비해 말초신경염 등 유해반응 발생 가능성 이 더 높다. ㅂ. Isoniazid는 중추신경계 및 뇌척수액에 침투하지 못한다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄷ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄹ, ㅁ (ㄷ: 경구 흡수 우수, 공복 시 흡수율 증가 / ㅂ: 모든 체액과 조직으로 분 포, 뇌척수액 농도는 혈청농도의 20~100%) ▌ Isoniazid – 유해반응 및 약물상호작용"
+        },
+        {
+          "id": "nsclinical47_002",
+          "page": null,
+          "source": "Ch.47",
+          "stem": "Ch.47 Q2. Isoniazid(INH)의 유해반응 및 약물상호작용에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Isoniazid 유도성 간염은 가장 일반적인 독성으로, 연령이 증가할수록 발생 위험이 높아진 다. ㄴ. 말초신경병증(peripheral neuropathy)은 pyridoxine(비타민 B6)을 병용 투여함으로써 예 방할 수 있다. ㄷ. Isoniazid는 일부 cytochrome P450 효소계를 억제하여 phenytoin, carbamazepine 등의 혈중 농도를 낮출 수 있다. ㄹ. 알코올중독, 당뇨, 영양실조 환자군에서는 말초신경이상 발생 가능성이 더 낮다. ㅁ. Isoniazid에 의한 간염의 위험성은 임신 중과 출산 후에도 그 위험이 있을 수 있다. ㅂ. Isoniazid는 rifampin과 병용 시 rifampin의 강력한 CYP 유도 작용으로 인해 phenytoin 등 의 혈중 농도가 보통 감소한다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄷ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄷ, ㄹ (ㄷ: INH는 CYP를 억제하여 phenytoin 등의 혈중 농도를 '증가'시킴 / ㄹ: 이들 환자군에서 발생 가능성이 '더 높음') ▌ Rifampin – 작용기전, 약동학 및 유해반응"
+        },
+        {
+          "id": "nsclinical47_003",
+          "page": null,
+          "source": "Ch.47",
+          "stem": "Ch.47 Q3. Rifampin에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Rifampin은 세균의 DNA-dependent RNA polymerase β subunit에 결합하여 RNA 합성 을 억제하는 살균성 약물이다. ㄴ. Rifampin 단독 투여 시 내성이 빠르게 출현하므로 반드시 다른 약물과 병용해야 한다. ㄷ. Rifampin은 대부분의 cytochrome P450 동종효소(CYP1A2, 2C9, 2C19, 2D6, 3A4)를 강력 히 유도한다. ㄹ. Rifampin은 소변, 눈물, 땀 등의 체액을 오렌지색으로 착색시키며, 이는 임상적으로 위험 한 유해반응이다. ㅁ. Rifampin은 결핵 외에도 Neisseria meningitidis의 보균 상태를 박멸하는 데 사용될 수 있 다. ㅂ. Rifampin은 세포 내 병원균에는 효과가 없어 잠복결핵균 치료에 사용되지 않는다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄷ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄷ, ㅁ (ㄹ: 오렌지색 착색은 무해함 / ㅂ: Rifampin은 조직 투과성이 높아 세포 내 균에도 효과적이며 잠복결핵에도 사용됨) ▌ Rifamycin계 유도체 – Rifabutin / Rifapentine"
+        },
+        {
+          "id": "nsclinical47_004",
+          "page": null,
+          "source": "Ch.47",
+          "stem": "Ch.47 Q4. Rifabutin 및 Rifapentine에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Rifabutin은 Rifampin에 비해 cytochrome P450 유도 작용이 약하여 약물상호작용이 더 적다. ㄴ. Rifabutin은 HIV 감염 환자의 결핵 치료 시 rifampin 대신 사용하기 적합하다. ㄷ. Rifapentine은 Rifampin의 장기작용 유사체로, 결핵 지속기(continuation phase)에 1주일 에 1회 사용할 수 있다. ㄹ. Rifapentine은 Rifampin에 비해 CYP 유도작용이 훨씬 약하므로 약물상호작용이 문제되지 않는다. ㅁ. Rifapentine은 HIV 감염 환자의 활동성 결핵 치료에도 안전하게 사용할 수 있다. ㅂ. Rifabutin과 Rifampin 사이에는 완전한 교차내성이 있다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄷ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄹ, ㅁ (ㄹ: Rifapentine도 Rifampin과 비슷한 CYP 유도작용 있음 / ㅁ: Rifapentine은 HIV 감염 환자의 활동성 결핵 치료에 사용되지 않음 - rifampin 내성균 재발율 때문) ▌ Ethambutol 및 Pyrazinamide"
+        },
+        {
+          "id": "nsclinical47_005",
+          "page": null,
+          "source": "Ch.47",
+          "stem": "Ch.47 Q5. Ethambutol 및 Pyrazinamide에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Ethambutol은 arabinosyl transferase를 억제하여 항산균 세포벽의 arabinoglycan 합성을 차단하는 정균성 약물이다. ㄴ. Ethambutol의 가장 심각한 유해작용은 눈뒤시각신경염(retrobulbar neuritis)으로, 시력 손상과 적록색맹을 유발할 수 있다. ㄷ. Ethambutol은 신부전 환자에서 체내 축적되므로 크레아티닌 청소율에 따라 용량을 조절 해야 한다. ㄹ. Pyrazinamide는 mycobacteria 내의 pyrazinamidase에 의해 활성형 pyrazinoic acid로 전 환되는 prodrug이다. ㅁ. Pyrazinamide는 결핵균 뿐 아니라 다양한 비결핵 항산균에도 강력한 항균 효과를 나타낸 다. ㅂ. Pyrazinamide의 주요 유해작용으로는 간독성, 고요산혈증, 관절통이 있다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄷ, ㄹ, ㅂ (ㅁ: Pyrazinamide는 오직 결핵균에만 사용되며, 비결핵 항산균에는 효과 없음) ▌ 결핵 1차 치료 요법 및 병합요법의 원칙"
+        },
+        {
+          "id": "nsclinical47_006",
+          "page": null,
+          "source": "Ch.47",
+          "stem": "Ch.47 Q6. 결핵 치료 원칙 및 표준 치료 요법에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. 약물 감수성 결핵의 표준 치료법은 집중치료기(최소 8주) 동안 INH, RIF, PZA, EMB 4제를 병용한다. ㄴ. 집중치료기 이후 지속기(최소 18주)에는 Isoniazid와 Rifampin 2제 병용을 권장한다. ㄷ. Pyrazinamide를 치료 초기 2개월 추가하면 치료기간을 9개월에서 6개월로 단축할 수 있 다. ㄹ. 결핵 치료 실패의 가장 중요한 원인은 항결핵제의 과다 사용으로 인한 신독성 축적이다. ㅁ. 결핵균은 증식 속도가 매우 느리고 일부는 간헐적으로 증식하기 때문에 6개월 이상 장기 치료가 필요하다. ㅂ. 다제내성결핵(MDR-TB)이란 Isoniazid와 Rifampin 모두에 내성을 보이는 경우를 의미한 다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄹ만"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄹ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄹ만 (결핵 치료 실패의 가장 중요한 원인은 항결핵제에 대한 '내성 획득'이며, 각 약제 의 작용기전에 관여하는 유전자 돌연변이로 발생함) ▌ 결핵 2차 치료제 – 작용기전 및 유해반응"
+        },
+        {
+          "id": "nsclinical47_007",
+          "page": null,
+          "source": "Ch.47",
+          "stem": "Ch.47 Q7. 결핵 2차 치료제에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Cycloserine은 세포벽합성 억제제이며, 신장으로 배설되고, 말초신경이상 및 중추신경계 독성이 주요 유해반응이다. ㄴ. Capreomycin은 streptomycin 또는 amikacin에 내성을 보이는 경우 사용하며, 근육주사 로 투여한다. ㄷ. Ethionamide는 Isoniazid의 유사체로 mycolic acid 합성을 저해하며, isoniazid와 낮은 수 준의 교차내성이 있을 수 있다. ㄹ. Aminosalicylic acid(PAS)는 결핵균에만 효과 있는 엽산합성 길항제이며, 주요 유해작용은 위장장애이다. ㅁ. Cycloserine의 신경 독성은 1,500 mg/d 이상의 pyridoxine 병용으로 감소시킬 수 있다. ㅂ. Bedaquiline은 결핵균의 세포벽 mycolic acid 합성을 억제하는 기전으로 다제내성결핵 치 료에 사용된다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄷ, ㄹ, ㅁ (ㅂ: Bedaquiline의 작용기전은 결핵균의 'ATP synthase 억제'이며, mycolic acid 합성 억제는 아님 / Delamanid가 mycolic acid 합성 억제) ▌ Bedaquiline, Fluoroquinolone계 및 Linezolid (결핵 2차)"
+        },
+        {
+          "id": "nsclinical47_008",
+          "page": null,
+          "source": "Ch.47",
+          "stem": "Ch.47 Q8. 다음 결핵 2차 치료약물에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Bedaquiline은 CYP3A4에 의해 대사되며, 반감기가 약 5.5개월로 매우 길다. ㄴ. Bedaquiline은 고지방식이 시 최고혈장농도와 혈장 노출량이 약 2배 증가하므로 음식과 함께 복용한다. ㄷ. Bedaquiline의 QTc 간격 연장 부작용으로 인해 심전도 이상이 있는 환자에게는 특별한 주의가 필요하다. ㄹ. Fluoroquinolone계 중 결핵에 대한 항결핵 효과가 가장 높은 약물은 ciprofloxacin이다. ㅁ. Moxifloxacin은 시험관내에서 결핵균에 대해 가장 높은 활성을 보이는 fluoroquinolone이 다. ㅂ. Linezolid는 일반적인 결핵 치료에 1차적으로 사용되는 약물이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄹ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄷ, ㄹ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄷ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄹ, ㅂ (ㄹ: Fluoroquinolone 중 ciprofloxacin이 결핵에 대한 항결핵 효과가 '가장 낮음' / ㅂ: Linezolid는 다제내성 또는 광범위 내성 결핵에만 사용) ▌ 비결핵 항산균(NTM) 치료 및 MAC"
+        },
+        {
+          "id": "nsclinical47_009",
+          "page": null,
+          "source": "Ch.47",
+          "stem": "Ch.47 Q9. 비결핵 항산균(NTM) 및 MAC 감염 치료에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Mycobacterium avium complex(MAC)는 말기 AIDS 환자(CD4 < 50/μL)에서 파생되는 질 환의 중요한 원인균이다. ㄴ. MAC 폐질환 치료의 1차 선택 약물은 azithromycin 또는 clarithromycin이며, ethambutol 과 병용한다. ㄷ. 비결핵 항산균은 일반적으로 결핵균에 비해 항결핵 약물에 대한 감수성이 더 높다. ㄹ. M. kansasii 감염 치료에는 isoniazid, rifampin, ethambutol 세 가지 약물의 병합이 표준 치료법이다. ㅁ. 비결핵 항산균 감염에 대해 macrolide, sulfonamide, tetracycline 계열 항생약들이 결핵균 에도 동일하게 활성을 나타낸다. ㅂ. MAC 감염 억제를 위해 azithromycin 1일 1회 500~600 mg 또는 clarithromycin 1일 2회 500 mg에 ethambutol 15 mg/kg/d를 추가한다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄷ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄹ, ㅂ (ㄷ: NTM은 결핵균에 비해 항결핵 약물에 대한 감수성이 '더 낮음' / ㅁ: macrolide, sulfonamide, tetracycline은 결핵에는 활성이 없으나 NTM에는 활성이 있을 수 있음) ▌ 나병(한센병) 치료제 – Dapsone, Clofazimine, Rifampin"
+        },
+        {
+          "id": "nsclinical47_010",
+          "page": null,
+          "source": "Ch.47",
+          "stem": "Ch.47 Q10. 나병(한센병) 치료에 사용되는 약물에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Dapsone은 sulfonamide와 구조적으로 유사하며, folic acid 합성을 억제하는 정균성 약물 이다. ㄴ. Dapsone 투약 시 glucose-6-phosphate dehydrogenase 결핍 환자에서 용혈성 빈혈이 발 생할 수 있다. ㄷ. Dapsone 단독 요법으로도 충분한 나병 치료가 가능하므로 병합요법은 필요하지 않다. ㄹ. Clofazimine은 phenazine계 염료로, 체액을 오렌지색으로 착색시키며 주로 근육주사로 투여한다. ㅁ. 초기 나병 치료에는 dapsone + rifampin + clofazimine 복합 투여 요법이 바람직하다. ㅂ. Dapsone은 AIDS 환자의 Pneumocystis jiroveci 폐렴 예방 및 치료에도 사용된다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄷ, ㄹ (ㄷ: dapsone 단독 요법은 내성 발생 우려로 병합요법 필요 / ㄹ: Clofazimine은 경구 투여하며 피부·조직에 적갈색 착색을 유발함) ▌ 약물-작용기전 종합 비교 (Chapter 47 통합)"
+        },
+        {
+          "id": "nsclinical48_001",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q1. 항진균약의 작용기전 및 표적에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Fungi는 진핵 미생물로, 세포막 주요 스테롤이 cholesterol이 아니라 ergosterol이기 때문에 이 를 선택적 표적으로 항진균 약물을 설계할 수 있다. ㄴ. Amphotericin B와 nystatin은 진균 세포막의 ergosterol과 결합하여 구멍(pore)을 형성함으로써 세포 투과성을 변화시킨다. ㄷ. Azole계 약물의 항진균 작용기전은 진균 세포막의 β-glucan 합성효소를 억제하여 세포벽 합성 을 저해하는 것이다. ㄹ. Echinocandin계 약물(caspofungin, micafungin, anidulafungin)은 β(1→3)-glucan 합성효소를 억 제하여 진균 세포벽 합성을 방해한다. ㅁ. Flucytosine은 세포 내에서 5-FU로 전환된 뒤 FdUMP 및 FUTP로 변환되어 진균의 DNA 및 RNA 합성을 억제한다. ㅂ. Terbinafine은 Azole계 약물과 동일하게 CYP450을 억제하여 ergosterol 합성을 감소시킨다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄹ, ㅁ (ㄷ: Azole계는 CYP450 억제로 ergosterol 합성 저해. ㅂ: Terbinafine은 CYP450이 아닌 Squalene epoxidase를 억제함) Amphotericin B – 약동학 및 임상용도"
+        },
+        {
+          "id": "nsclinical48_002",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q2. Amphotericin B에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Amphotericin B는 물에 거의 녹지 않으므로 정맥주사 시 sodium deoxycholate와의 콜로이드 현탁액으로 제조한다. ㄴ. Amphotericin B는 위장관 흡수가 거의 되지 않아 경구 투여로는 전신감염 치료에 사용할 수 없 다. ㄷ. Amphotericin B의 혈청반감기는 약 15일이며, 간 또는 신장 손상 시 용량 조절이 필요하다. ㄹ. Amphotericin B는 혈청 단백질과 90% 이상 결합하며, 뇌척수액으로는 혈중 수치의 2~3%만 도 달하므로 진균성 뇌수막염 시 척수강 내 투약이 필요할 수 있다. ㅁ. Amphotericin B의 지질 제형(AmBisome 등)은 진균의 에르고스테롤보다 사람의 콜레스테롤에 더 높은 친화도를 보여 독성이 감소한다. ㅂ. 정맥 주입 관련 유해작용으로 발열, 오한, 구토, 두통, 저혈압이 나타날 수 있으며, 이는 비가역 적이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄷ, ㅁ, ㅂ (ㄷ: 간·신장 손상 시 용량 조절 불필요. ㅁ: 지질 제형은 진균 에르고스테롤과의 친화도 ↑·콜레스테롤 친화도↓. ㅂ: 정맥 주입 반응은 일반적으로 가역적) Flucytosine – 약동학·내성·임상 적용"
+        },
+        {
+          "id": "nsclinical48_003",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q3. Flucytosine에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Flucytosine은 5-fluorouracil(5-FU)의 수용성 피리미딘 유사체로, 경구 제형이며 90% 이상 흡수 된다. ㄴ. Flucytosine의 항균범위는 Amphotericin B보다 매우 넓어 거의 모든 진균 감염에 사용 가능하 다. ㄷ. Flucytosine은 빠른 내성 발현 때문에 단독으로는 거의 사용하지 않으며, 크립토코쿠스 뇌수막 염 치료 시 Amphotericin B와 병용한다. ㄹ. Flucytosine의 주요 유해작용으로 골수독성(빈혈, 백혈구 감소증, 혈소판감소증)과 간효소 수치 이상이 있다. ㅁ. Flucytosine은 혈장 단백질과 거의 결합하지 않으며, 뇌척수액을 포함한 모든 체액으로 용이하 게 분포한다. ㅂ. 인간 세포는 Flucytosine을 5-FU로 전환하는 효소가 없으므로 진균 선택적 독성을 나타낸다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ④ ㄱ, ㄷ, ㄹ, ㅁ, ㅂ (ㄴ: Flucytosine은 항균범위가 Amphotericin B보다 매우 좁음) Azole계 약물 – 작용기전 및 분류"
+        },
+        {
+          "id": "nsclinical48_004",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q4. Azole계 항진균약에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Azole계 약물의 항진균 작용기전은 진균 내 cytochrome P450 효소 억제에 의한 ergosterol 합 성 감소이다. ㄴ. Imidazole계(ketoconazole, miconazole, clotrimazole)는 triazole계보다 CYP450 선택성이 낮아 더 높은 빈도의 약물상호작용 및 유해작용을 보인다. ㄷ. Triazole계에는 itraconazole, fluconazole, voriconazole, isavuconazole, posaconazole이 포함된 다. ㄹ. Ketoconazole은 진균 CYP450에 대한 선택성이 높아 현재 전신감염 치료를 위한 경구 1차 선택 약으로 권장된다. ㅁ. 모든 azole계 약물은 간효소 수치 이상을 일으킬 수 있으며, 매우 드물게 임상적 간염이 나타난 다. ㅂ. Azole계 약물에 대한 내성은 불변이며, 내성균의 수는 증가하지 않는다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄷ, ㅁ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄹ"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ④ ㄹ, ㅂ (ㄹ: Ketoconazole은 선택성이 낮아 전신요법으로 더 이상 미국에서 사용하지 않음. ㅂ: 내 성균의 수 증가가 보고되고 있음) Azole계 약물 – 개별 약물 특성 (Fluconazole, Itraconazole, Voriconazole)"
+        },
+        {
+          "id": "nsclinical48_005",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q5. 다음 Azole계 약물의 특성에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Fluconazole은 수용성이 높고 뇌척수액 투과도가 높아 크립토코쿠스성 수막염 치료 및 예방에 사용되는 azole계 1차 선택약이다. ㄴ. Fluconazole은 모든 azole계 약물 중 간 내 microsome 효소에 대한 효과가 가장 낮으므로 약물 상호작용이 잘 발생하지 않는다. ㄷ. Itraconazole은 ketoconazole에 비해 선택성이 높으며, rifampin 병용 시 itraconazole 혈중 농도 가 높아진다. ㄹ. Voriconazole은 임상적으로 의미 있는 포유류 CYP3A4 억제제로, cyclosporine 및 tacrolimus의 용량을 줄여야 한다. ㅁ. Voriconazole은 침습성 아스페르길루스증 및 일부 환경성 곰팡이류 진균 뇌수막염에 1차 선택 약이다. ㅂ. Fluconazole은 Aspergillus 및 사상진균(filamentous fungi)에도 광범위한 항균 활성을 보인다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄷ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄹ, ㅁ (ㄷ: rifampin 병용 시 itraconazole 혈중 농도 낮아짐. ㅂ: Fluconazole은 Aspergillus 및 사상진균에는 활성 없음) 표 48-2 참고 – 뇌척수액 이행률 및 진균성 뇌수막염 치료약"
+        },
+        {
+          "id": "nsclinical48_006",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q6. Azole계 약물에 대한 설명으로 옳은 것만을 모두 고르시오. <보기> ㄱ. Ketoconazole은 뇌척수액:혈장농도 비가 0.1 미만으로 BBB 투과가 거의 되지 않아 진균성 뇌수 막염에 부적합하다. ㄴ. Itraconazole은 뇌척수액:혈장농도 비가 0.01 미만으로 CNS 침투가 극히 낮다. ㄷ. Fluconazole은 뇌척수액:혈장농도 비가 0.7을 초과하여 azole 중 BBB 통과율이 가장 높으며, 진 균성 수막염 치료에 사용된다. ㄹ. Voriconazole의 뇌척수액:혈장농도 비는 0.21을 초과하여 Fluconazole 다음으로 높다. ㅁ. Posaconazole과 Isavuconazole은 측정된 뇌척수액:혈장농도 비 데이터가 확립되어 있어 수막염 1차 약으로 주로 사용된다. ㅂ. BBB 통과율이 가장 높은 약물 순서는 Fluconazole > Voriconazole >>> Ketoconazole > Itraconazole이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄷ, ㄹ, ㅂ (ㅁ: Posaconazole·Isavuconazole의 뇌척수액 투과 데이터는 미확립 상태이며, 수막염 1차 약으로 주로 사용되지 않음) Echinocandin계 약물 – 특성 및 개별 약물"
+        },
+        {
+          "id": "nsclinical48_007",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q7. Echinocandin계 항진균약에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Echinocandin계(caspofungin, micafungin, anidulafungin)는 거대 고리형 펩티드 구조로, 정맥주 사로만 투여한다. ㄴ. Echinocandin계 약물은 Candida종과 Aspergillus에는 효과가 있으나 C. neoformans, 접합균증, 모균증에는 효과가 없다. ㄷ. Micafungin은 골수이식 환자의 칸디다 감염 예방에 사용될 수 있으며, Caspofungin과 병용 시 간효소 수치의 증가가 보고되어 있다. ㄹ. Caspofungin은 침습성 아스페르길루스증에 1차 치료제로 허가받은 약물이다. ㅁ. Anidulafungin은 정맥주입 시 히스타민 분비가 나타날 수 있으며, 유의한 약물상호작용은 보고 된 바 없다. ㅂ. Micafungin은 nifedipine, cyclosporine, sirolimus의 혈중 농도를 증가시킨다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ만"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ④ ㄹ만 (ㄹ: Caspofungin은 Amphotericin B에 반응하지 않는 환자에 한정된 구제요법(salvage therapy)으로만 허가받음, 1차 치료제 아님) Allylamine계(Terbinafine) & Griseofulvin"
+        },
+        {
+          "id": "nsclinical48_008",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q8. Terbinafine 및 Griseofulvin에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Terbinafine은 Squalene epoxidase를 억제하여 squalene이 squalene epoxide로 전환되는 것을 방해함으로써 ergosterol 생합성을 감소시킨다. ㄴ. Terbinafine은 각질(keratin)과 결합하여 살균작용을 나타내며, 피부사상균증 및 손발톱 진균증 치료에 사용된다. ㄷ. Terbinafine은 CYP450계에 영향을 미치므로 itraconazole과 동일한 수준의 약물상호작용이 보 고되어 있다. ㄹ. Griseofulvin은 난용성 정균성 항진균약으로, 피부사상균의 전신 치료에만 사용한다. ㅁ. Griseofulvin은 지방식과 함께 투여 시 약물 흡수가 증가하며, 새로 형성되는 피부에 침착하여 신규 감염을 억제한다. ㅂ. Griseofulvin 사용 시 혈청병, lupus 유사 피부반응, 알레르기 증후군, wafarin·phenobarbital과의 약물상호작용이 보고되어 있다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄴ, ㄷ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄹ, ㅁ, ㅂ (ㄷ: Terbinafine은 P450계에 영향을 미치지 않으며 현재까지 특기할 만한 약물 상호작용이 보고된 바 없음) Nystatin 및 국소 항진균약"
+        },
+        {
+          "id": "nsclinical48_009",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q9. Nystatin 및 국소 항진균요법에 관한 설명으로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. Nystatin은 Amphotericin B와 매우 유사한 polyene macrolide로, 독성이 강해 전신 투여 대신 국소용(크림, 연고, 좌약)으로만 사용한다. ㄴ. Nystatin은 피부, 점막 또는 위장관에서 유의한 양이 흡수되어 전신 감염에도 일부 효과가 있다. ㄷ. 국소 Azole계 약물로 가장 많이 사용되는 것은 clotrimazole과 miconazole이며, 주로 외음질 및 피부 칸디다 감염에 사용된다. ㄹ. 경구용 clotrimazole 트로키정은 구강 아구창(oral thrush) 치료에 사용되며 nystatin 대체제로 쓰인다. ㅁ. Ketoconazole 샴푸는 지루성 피부염 및 어루러기(pityriasis versicolor) 치료에 사용된다. ㅂ. 국소 Allylamine계 약물인 terbinafine과 naftifine은 처방 없이 구입 가능한 일반의약품으로 미 국에서 판매된다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄱ, ㄷ, ㄹ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄷ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄹ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄴ, ㅂ (ㄴ: Nystatin은 피부·점막·위장관에서 유의한 양이 흡수되지 않음. ㅂ: 미국에서 처방약으로 이용됨) 임상 적응증 – 약물 연결 종합"
+        },
+        {
+          "id": "nsclinical48_010",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q10. 다음 임상 상황–약물 연결로 <옳지 않은 것만>을 모은 것은? <보기> ㄱ. 크립토코쿠스 뇌수막염 초기 유도요법 – Amphotericin B (+ Flucytosine 병용) ㄴ. 점막피부 칸디다증(mucocutaneous candidiasis) 1차 선택 – Fluconazole ㄷ. 침습성 아스페르길루스증(invasive aspergillosis) 1차 선택 – Voriconazole ㄹ. 피부사상균증·손발톱 진균증 전신치료(피부사상균 한정) – Griseofulvin 또는 Terbinafine ㅁ. 골수이식 환자 칸디다 감염 예방 – Anidulafungin ㅂ. 외음질 칸디다증 국소치료 – Clotrimazole 크림 또는 Miconazole 크림 ㅅ. 이형곰팡이(dimorphic fungi: Histoplasma, Blastomyces, Sporothrix) 감염 1차 – Itraconazole",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㅁ만"
+            },
+            {
+              "label": "②",
+              "text": "ㄹ, ㅂ, ㅅ"
+            },
+            {
+              "label": "③",
+              "text": "ㄴ, ㄷ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅅ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㅁ만 (ㅁ: 골수이식 환자 칸디다 감염 예방에 사용되는 것은 Micafungin이며, Anidulafungin은 침 습성 칸디다증 치료에 허가됨) 유해반응 및 약물상호작용 종합"
+        },
+        {
+          "id": "nsclinical48_011",
+          "page": null,
+          "source": "Ch.48",
+          "stem": "Ch.48 Q11. 항진균약의 유해반응 및 약물상호작용에 관한 설명으로 <옳은 것만>을 모은 것은? <보기> ㄱ. Amphotericin B의 가장 중요한 누적 독성은 신손상(nephrotoxicity)이며, 정맥 주입 시 일반 생 리식염수 정맥주입을 병행하면 신 독성을 경감시킬 수 있다. ㄴ. Flucytosine은 골수독성을 유발할 수 있으므로, 신기능 부전 환자에서 혈청 약물 농도를 주기적 으로 모니터링해야 한다. ㄷ. Voriconazole은 시각장애(시야 흐림, 색각 이상)를 유발할 수 있으며, 이 이상반응은 정맥주사 1 회 복용 후 30분 내 사라지는 경우가 많다. ㄹ. Caspofungin과 cyclosporine 병용은 일부 환자에서 간효소 수치의 증가를 유발하므로 병용을 금기한다. ㅁ. Itraconazole은 rifampin 병용 시 혈중 농도가 상승하므로 용량을 감량해야 한다. ㅂ. Terbinafine의 심각한 간독성이 보고된 바 있으므로, 간기능 이상 환자에게는 주의가 필요하다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄷ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄷ, ㅂ (ㄹ: 병용 시 간효소 수치 증가로 '주의'하며 병용 금지가 권장되나, 교재 원문은 '병용 피해야 한다'고 기술. ㅁ: rifampin 병용 시 itraconazole 혈중 농도가 낮아짐–감소, 상승이 아님) 항진균약 약동학 비교 종합"
+        },
+        {
+          "id": "nsclinical49_001",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q1. HSV 및 VZV 감염 치료약의 작용기전 및 약동학에 관한 설명으로 〈옳은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Acyclovir는 바이러스 특이적 thymidine kinase에 의해 monophosphate로 먼저 인산화되며, 이 과정이 바이러스 감염 세포에서만 선택적으로 이루어진다. ㄴ. Acyclovir triphosphate는 바이러스 DNA polymerase를 경쟁적으로 억제하고, 바이러스 DNA에 삽입되어 사슬을 종결시킨다. ㄷ. Valacyclovir는 acyclovir의 L-valyl ester 구조로, 경구 투여 후 초회통과효과에 의해 acyclovir로 전환되며 경구 생체이용률이 acyclovir에 비해 약 3~5배 높다. ㄹ. Famciclovir는 경구 투여 후 penciclovir로 전환되며, penciclovir triphosphate의 세포 내 반감기는 acyclovir triphosphate보다 길어 투여 빈도를 줄일 수 있다. ㅁ. Acyclovir는 사구체여과와 세뇨관분비로 배설되므로 신장독성 유발 약물과 병용 시 신장독성이 증가할 수 있다. ㅂ. Penciclovir는 acyclovir와 달리 DNA 사슬 종결(chain termination)을 일으켜 복제를 억제한다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄷ, ㄹ, ㅁ (ㅂ: Penciclovir는 사슬 종결을 일으키지 않는다) HSV·VZV 치료약 – 임상 적용·유해반응"
+        },
+        {
+          "id": "nsclinical49_002",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q2. HSV 및 VZV 감염 치료약의 임상 적용 및 유해반응에 관한 설명으로 〈옳지 않은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Acyclovir는 HSV-1/2에 비해 VZV에 대한 항바이러스 효력이 더 높으므로, VZV 치료 시 더 낮은 용량을 사용한다. ㄴ. 헤르페스성 각막결막염(herpetic keratoconjunctivitis) 치료에는 Ganciclovir 0.15% 젤 또는 Trifluridine 1% 용액을 국소 투여한다. ㄷ. Acyclovir의 정맥 투여 시 사구체여과가 과부하되어 결정성(crystalline) 신장 손상이 발생할 수 있다. ㄹ. Docosanol(10% 크림)은 HSV의 외피와 세포막 융합을 억제하며, 처방 없이 구입이 가능하다. ㅁ. Valacyclovir 고용량을 AIDS 환자에게 장기 투여하면 혈전혈소판감소성 자반병(TTP) 및 용혈요독증후군(HUS)이 나타날 수 있다. ㅂ. Acyclovir 내성 HSV·VZV 감염에는 Foscarnet 정맥주사를 사용한다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄹ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ만"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ만 (HSV-1/2에 대한 효력이 VZV보다 약 10배 높으므로 VZV 치료에는 더 높은 용량이 필요) ▌ 거대세포바이러스(CMV) 치료약 Ganciclovir / Valganciclovir / Cidofovir / Foscarnet / Letermovir"
+        },
+        {
+          "id": "nsclinical49_003",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q3. CMV 감염 치료약에 관한 설명으로 〈옳은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Ganciclovir의 초기 인산화는 CMV가 감염된 세포 내 바이러스 특이적 단백질 kinase인 phosphotransferase UL97에 의해 이루어진다. ㄴ. Ganciclovir는 경구 생체이용률이 높아 경구 및 정맥 투여 모두 활발히 사용된다. ㄷ. Valganciclovir는 ganciclovir의 L-valyl ester 전구약물로 경구 투여 후 esterase에 의해 ganciclovir로 전환되며, 음식과 함께 복용하도록 권장된다. ㄹ. Cidofovir의 주요 독성은 용량의존적 근위세뇨관 신장독성이며, 투여 전 probenecid와 생리식염수 사전 투여로 독성을 감소시킨다. ㅁ. Foscarnet은 pyrophosphate 결합부위를 차단하여 활성화 과정 없이 직접 바이러스 DNA polymerase 등을 억제하므로, thymidine kinase 결핍 바이러스에도 효과가 있다. ㅂ. Letermovir는 장기 이식 환자에서 CMV 감염 치료(유도 요법)에 사용된다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄷ, ㄹ, ㅁ (ㄴ: Ganciclovir는 경구 생체이용률이 낮아 정맥 제제로 사용; ㅂ: Letermovir는 치료가 아닌 예방(prophylaxis)에 사용) ▌ 항레트로바이러스약 – NRTIs NRTIs – 작용기전·공통 특성"
+        },
+        {
+          "id": "nsclinical49_004",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q4. NRTIs(뉴클레오사이드/뉴클레오타이드 역전사효소억제약)에 관한 설명으로 〈옳지 않은 것만〉을 모은 것은? 〈보 기〉 ㄱ. NRTIs는 HIV-1의 역전사효소를 경쟁적으로 억제하여 바이러스 DNA 사슬에 삽입됨으로써 사슬을 종결시킨다. ㄴ. NRTIs는 세포 내 효소에 의해 triphosphate 형태로 인산화되는 활성화 과정이 필요하다. ㄷ. 모든 NRTIs는 미토콘드리아 독성과 관련이 없으며, 지방간증이나 이상지질혈증을 유발하지 않는다. ㄹ. Zidovudine(AZT)은 최초로 허가된 항레트로바이러스 치료제로, 가장 흔한 유해작용은 대적혈구빈혈과 중성구감소증이다. ㅁ. Stavudine(d4T)과 Zidovudine(AZT)은 세포 내 인산화 과정을 경쟁적으로 억제하므로 병용 금기이다. ㅂ. Tenofovir(뉴클레오타이드 유사체)는 triphosphate가 아닌 diphosphate 형태로 인산화되어 활성을 나타낸다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄷ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄷ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄷ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄷ, ㅂ (ㄷ: 모든 NRTIs는 미토콘드리아 독성과 관련 있음; ㅂ: 뉴클레오타이드 유사체는 diphosphorylation만 필요하므로 활성형은 triphosphate) NRTIs 각론 – 주요 약물 특성 및 병용 금기"
+        },
+        {
+          "id": "nsclinical49_005",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q5. 개별 NRTIs 약물에 관한 설명으로 〈옳은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Abacavir는 guanosine 유사체로, 투약 전 HLA-B*5701 유전자 검사를 시행하여 음성인 환자에게 투약하도록 권고된다. ㄴ. Didanosine은 위산에 의해 불활성화되므로 완충 제형 또는 장용코팅 제형으로 투여하며, stavudine과의 병용은 젖산산증·췌장염의 위험이 있어 금기이다. ㄷ. Lamivudine과 Emtricitabine은 M184V/I 돌연변이를 치료하기 위해 선택되므로 두 약물을 동시에 투여해야 한다. ㄹ. Tenofovir disoproxil fumarate는 HIV 외에 HBV에도 효과가 있으며, 신장기능장애와 골밀도 감소가 잠재적 유해반응이다. ㅁ. Stavudine은 말초신경병증 유발 약물과의 병용 금기이며, 다른 NRTIs에 비해 지방위축증(lipoatrophy) 발생 빈도가 더 높다. ㅅ. Emtricitabine은 lamivudine의 fluorinated 유도체로, 반감기가 길어 1일 1회 복용이 가능하다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ, ㅅ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅅ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅅ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄹ, ㅁ, ㅅ (ㄷ: Lamivudine과 Emtricitabine 두 약물은 동일한 돌연변이를 선택하므로 동시에 투여해서는 안 됨) ▌ 항레트로바이러스약 – NNRTIs NNRTIs – 작용기전·공통 특성·내성"
+        },
+        {
+          "id": "nsclinical49_006",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q6. NNRTIs(비뉴클레오사이드 역전사효소억제약)에 관한 설명으로 〈옳지 않은 것만〉을 모은 것은? 〈보 기〉 ㄱ. NNRTIs는 HIV-1의 역전사효소에 NRTIs와 다른 부위에 결합하며, 활성화를 위한 인산화 과정이 필요 없다. ㄴ. NNRTIs를 단독 요법으로 사용하면 내성이 급격히 발생하므로 다른 항레트로바이러스 약물과의 병용이 필요하다. ㄷ. 모든 NNRTIs는 CYP3A4 효소의 기질이므로 다양한 약물상호작용이 가능하다. ㄹ. NNRTI와 NRTI 간에는 교차내성이 발생하므로 병용 시 주의가 필요하다. ㅁ. Efavirenz는 고지방식이에 의해 흡수율이 증가해 독성이 나타날 수 있으므로 공복에 복용하도록 권고된다. ㅂ. 2세대 NNRTIs(etravirine, rilpivirine)는 1세대 NNRTIs에 비해 반감기가 더 짧고 부작용이 더 많다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄷ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄹ, ㅂ (ㄹ: NNRTI와 NRTI 간 교차내성은 없음; ㅂ: 2세대 NNRTIs는 반감기가 더 길고 부작용이 감소) NNRTIs 각론 – Efavirenz / Nevirapine / Rilpivirine / 임산부 사용"
+        },
+        {
+          "id": "nsclinical49_007",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q7. 개별 NNRTIs 및 임신 중 사용에 관한 설명으로 〈옳은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Efavirenz의 주요 유해작용은 중추신경계 이상(어지럼증, 불면, 악몽 등)이며, 취침 시 복용하면 완화에 도움이 된다. ㄴ. Nevirapine은 임산부 사용이 가능하고, HIV 감염 산모로부터 신생아 수직감염을 예방할 수 있다. ㄷ. Rilpivirine은 반드시 음식과 함께 복용해야 하며, 제산제와 H2 blocker 병용 시 흡수가 감소한다. ㄹ. Efavirenz는 임신 중 추천되는 NNRTI 약물로, 임신 전 기간에 걸쳐 사용 가능하다. ㅁ. Delavirdine은 제산제와 H2 blocker와 병용 시 흡수가 감소하며, 기형유발성이 있어 임산부에게 금기이다. ㅂ. Nevirapine은 피부 발진 빈도를 낮추기 위해 초기 14일 동안 점진적으로 용량을 증가시킨다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄷ, ㅁ, ㅂ (ㄹ: Efavirenz는 임신 초기 8주 이후 사용 가능하지만, 임신 중 추천 우선 NNRTI는 Rilpivirine임) ▌ 항레트로바이러스약 – 단백분해효소억제약(PIs) PIs – 작용기전·공통 특성·Ritonavir Boosting"
+        },
+        {
+          "id": "nsclinical49_008",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q8. 단백분해효소억제약(PIs)에 관한 설명으로 〈옳은 것만〉을 모은 것은? 〈보 기〉 ㄱ. PIs는 HIV 성장주기 후기 단계에서 Gag-Pol polyprotein의 번역 후 절단을 억제하여 미성숙하고 감염성이 없는 바이러스 입자를 만든다. ㄴ. PIs는 NRTIs와 달리 세포 내 활성화(인산화) 과정이 필요하다. ㄷ. 모든 PIs는 CYP3A4 효소의 기질이며, Ritonavir는 CYP3A4의 가장 강력한 억제약으로 다른 PIs의 혈중 농도를 높이는 boosting 효과에 활용된다. ㄹ. PIs의 공통 유해작용에는 구역, 설사, 이상지질혈증, 체지방 재분포 등이 포함된다. ㅁ. Atazanavir는 이상지질혈증과 체지방 재분포 부작용이 다른 PIs에 비해 뚜렷하게 나타난다. ㅂ. Darunavir와 Fosamprenavir는 sulfonamide 구조를 가지고 있어 sulfa계 알레르기 환자에게 투여 시 주의가 필요하다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄷ, ㄹ, ㅂ (ㄴ: PIs는 세포 내 인산화 불필요; ㅁ: Atazanavir는 이상지질혈증·체지방 재분포가 가장 적게 나타남) PIs 각론 – Atazanavir / Indinavir / Lopinavir / Tipranavir"
+        },
+        {
+          "id": "nsclinical49_009",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q9. 각 PI 약물에 관한 설명으로 〈옳지 않은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Atazanavir는 흡수를 위해 산성 환경이 필요하므로 음식과 함께 복용해야 하며, proton pump inhibitor(PPI)와 병용은 금기이다. ㄴ. Indinavir는 신장 결석 예방을 위해 매일 충분한 수분(1.5L 이상) 섭취가 필요하며, 공복 또는 저지방식이와 함께 복용이 권장된다. ㄷ. Lopinavir는 ritonavir와의 병용 투여로만 사용되며, 경구 용액에 알코올이 포함되어 있어 disulfiram 및 metronidazole 병용은 금기이다. ㄹ. Tipranavir는 두개 내 출혈의 위험성이 증가하므로, 출혈 소견이 있거나 간기능부전 환자에게는 투여 금기이다. ㅁ. Saquinavir는 지방식이 후 2시간 내로 복용하며, boosted saquinavir는 다른 boosted PI 요법과 비교해 이상지질혈증 발생률이 더 높다. ㅂ. Atazanavir는 약 10%의 환자에서 황달 증상과 고빌리루빈혈증을 나타내는데, 이는 UGT1A1 glucuronidation 효소를 억제하기 때문이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㅁ만"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄹ, ㅁ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㅁ만 (Boosted saquinavir는 다른 boosted PI 요법보다 이상지질혈증·위장관 독성 발생률이 더 낮음) ▌ 항레트로바이러스약 – 융합·진입 억제약 및 INSTIs Enfuvirtide / Maraviroc / INSTIs (Dolutegravir / Raltegravir / Elvitegravir)"
+        },
+        {
+          "id": "nsclinical49_010",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q10. 융합 억제약, 진입 억제약 및 integrase 가닥이동 억제약(INSTIs)에 관한 설명으로 〈옳은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Enfuvirtide는 36개 아미노산 펩티드 약물로 피하주사하며, 바이러스 외피 당단백질인 gp41에 결합하여 바이러스-세포막 융합을 억제한다. ㄴ. Maraviroc은 CXCR4-tropic HIV-1에 감염된 모든 환자에게 효과를 나타내므로, 투약 전 HIV의 co-receptor 이용 유형 확인이 불필요하다. ㄷ. Dolutegravir는 UGT1A1에 의해 주로 대사되며, lamivudine과 abacavir와의 고정용량 복합약으로 사용될 수 있다. ㄹ. Raltegravir는 CYP450과 상호작용하지 않고 UGT1A1에 의해 대사되므로, 약물상호작용이 상대적으로 적다. ㅁ. Elvitegravir는 단독 제제로도 사용되며, cobicistat 없이 독립적으로 적절한 혈중 농도를 유지한다. ㅂ. Dolutegravir는 임신 첫 3개월 동안 신경관결손 위험이 증가할 수 있으므로 주의가 필요하며, 임신 3개월 이후에는 사용에 선호되는 integrase strand inhibitor이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄷ, ㄹ, ㅂ (ㄴ: Maraviroc은 CCR5-tropic HIV-1에만 효과, 투약 전 co-receptor 유형 확인 필수; ㅁ: Elvitegravir는 cobicistat 또는 ritonavir와 병용하여 고정용량 복합약으로만 사용) ▌ 간염 치료약 (HBV / HCV) HBV 치료약 – 뉴클레오사이드/뉴클레오타이드 유사체"
+        },
+        {
+          "id": "nsclinical49_011",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q11. B형 간염 바이러스(HBV) 치료약에 관한 설명으로 〈옳지 않은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Entecavir는 경구 투여 시 생체이용률이 거의 100%이며, 음식과 함께 복용하면 흡수가 감소하므로 공복에 복용한다. ㄴ. Lamivudine은 초기 치료율은 우수하나 장기 사용 시 내성 발현율(치료 5년 후 약 65%)이 현저히 높아지는 단점이 있다. ㄷ. Tenofovir disoproxil은 Lamivudine 및 Entecavir 내성 간염바이러스에 효과를 보이며, Adefovir 내성 바이러스에도 효과가 동일하게 유지된다. ㄹ. Adefovir dipivoxil은 사용 5년 후 내성 발현율이 20~30%로, Lamivudine에 비해 내성이 낮다. ㅁ. Telbivudine의 가장 특징적인 내성 기전은 M204I 돌연변이에 의해 일어나며, 치료 1년 후 내성 발현율은 22% 정도이다. ㅂ. Pegylated interferon alfa-2a는 만성 HBV와 HCV 모두에 치료 허가를 받았다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "②",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ만"
+            },
+            {
+              "label": "④",
+              "text": "ㄹ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄷ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄷ만 (Tenofovir disoproxil은 Lamivudine·Entecavir 내성 HBV에 효과가 있지만, Adefovir 내성 바이러스에는 효과가 감소함) HCV 치료약 – DAA(직접작용 항바이러스제) 및 Interferon / Ribavirin"
+        },
+        {
+          "id": "nsclinical49_012",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q12. C형 간염 치료약 및 인터페론에 관한 설명으로 〈옳은 것만〉을 모은 것은? 〈보 기〉 ㄱ. HCV 치료의 목표는 치료 완결 24주 후 viremia가 없는 SVR(sustained viral response)에 도달하는 것이며, SVR 환자에서 C형 간염 재발률은 5% 미만이다. ㄴ. Sofosbuvir는 NS5B RNA polymerase 억제약으로, Glecaprevir/Pibrentasvir 복합제와 함께 HCV 모든 유전형(1~6)에 효과를 보이는 범유전형 요법의 핵심 약물이다. ㄷ. Ribavirin은 용량의존적 용혈성 빈혈이 가장 중요한 유해반응이며, 기형유발성이 있어 치료 중 및 치료 종료 후 수 달 동안 효과적인 피임법이 필요하다. ㄹ. Interferon alfa는 저항성이 없고 바이러스 응집 억제율이 높은 장점이 있으며, 영아 및 임산부에게도 사용이 가능하다. ㅁ. Velpatasvir는 NS5A 억제약으로, Sofosbuvir와 고정용량 복합제로 사용되며 HCV 모든 유전형(1~6)에 치료 효과가 있다. ㅂ. NS3/4A protease 억제약의 약물 이름은 일반적으로 '-previr' 어미를 가진다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄷ, ㅁ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄷ, ㅁ, ㅂ (ㄴ: Sofosbuvir 단독은 범유전형이 아님; Glecaprevir/Pibrentasvir와 Velpatasvir/Sofosbuvir가 범유전형 복합제; ㄹ: Interferon alfa는 영아(1세 미만) 및 임산부에게 사용 불가) ▌ 항인플루엔자약물 Neuraminidase 억제약 – Oseltamivir / Zanamivir / Peramivir"
+        },
+        {
+          "id": "nsclinical49_013",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q13. Neuraminidase 억제약에 관한 설명으로 〈옳지 않은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Oseltamivir(타미플루)는 경구 투여 후 간 esterase에 의해 활성형인 oseltamivir carboxylate로 전환되며, 인플루엔자 A와 B 모두에 효과가 있다. ㄴ. Zanamivir는 흡입 제제로, 활성 성분의 10~20%만이 폐에 도달하며 기도질환을 가진 환자에게는 투여가 권장되지 않는다. ㄷ. Peramivir는 1일 1회 경구 투여하는 제제로, 급성 인플루엔자 치료에 허가되어 있다. ㄹ. Neuraminidase 억제약들은 인플루엔자에 감염된 숙주세포에서 복제된 바이러스 방출을 억제함으로써 작용한다. ㅁ. Oseltamivir 복용 후 일본 청소년에서 이상행동과 자해행위, 섬망 등이 보고되어 있다. ㅂ. Zanamivir와 Oseltamivir는 시알산(sialic acid) 유사체로, 인플루엔자 바이러스의 neuraminidase와 경쟁적, 가역적으로 결합한다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ만"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄷ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄷ만 (Peramivir는 경구가 아닌 단회 정맥주사(IV) 제제) M2 억제약 (Amantadine / Rimantadine) 및 항인플루엔자약 종합"
+        },
+        {
+          "id": "nsclinical49_014",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q14. 항인플루엔자약에 관한 설명으로 〈옳은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Amantadine과 Rimantadine은 인플루엔자 A에만 효과가 있으며, 인플루엔자 B에는 효과가 없다. ㄴ. Amantadine은 파킨슨병 치료제로도 사용되며, 중추신경계 이상(신경과민, 불면, 섬망, 환각 등)이 주요 유해작용이다. ㄷ. Rimantadine은 Amantadine의 α-methyl 유도체로, 중추신경계 부작용이 Amantadine보다 덜하다. ㄹ. Amantadine과 Rimantadine은 현재 H1N1 및 H3N2 인플루엔자 모두에서 내성 발생률이 낮아 1차 선택약으로 권장된다. ㅁ. Rimantadine은 심한 간기능부전 환자에서 용량을 감소시켜야 한다. ㅂ. Neuraminidase 억제약(oseltamivir, zanamivir)은 감염 발생 후 48시간 이내에 투약을 시작하는 것이 가장 효과적이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅂ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅂ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄱ, ㄴ, ㄷ, ㅁ, ㅂ (ㄹ: Amantadine·Rimantadine은 H1N1 및 H3N2에서 내성 발생률이 높아(>99%) 더 이상 인플루엔자 예방 또는 치료에 권장되지 않음) ▌ 통합 (Chapter 49) 항바이러스약 작용기전 – 바이러스 생활주기 단계별 분류"
+        },
+        {
+          "id": "nsclinical49_015",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q15. 아래 〈보기〉의 약물-작용기전(차단 단계) 연결이 〈옳지 않은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Amantadine, Rimantadine – 바이러스 M2 이온 통로 차단 → Uncoating 억제 (인플루엔자 A) ㄴ. Enfuvirtide – 바이러스 gp41에 결합 → 바이러스-세포막 융합 억제 (HIV) ㄷ. Neuraminidase 억제약(oseltamivir, zanamivir) – 바이러스 침투(Penetration) 단계 억제 ㄹ. NRTIs, NNRTIs – 역전사(Reverse transcription) 단계 억제 (HIV) ㅁ. INSTIs(Dolutegravir, Raltegravir) – 바이러스 단백질 합성(Translation) 단계 억제 ㅂ. Interferon alfa – 바이러스 침투(Penetration) 단계 억제 (HBV, HCV)",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄷ, ㅁ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄷ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㅁ, ㅂ (ㅁ: INSTIs는 Integration(통합) 단계 억제; ㅂ: Interferon alfa는 침투가 아닌 바이러스 복제 전반(전사·번역·성숙·유출 등) 억제) 항레트로바이러스 요법 원칙 및 임신 중 사용"
+        },
+        {
+          "id": "nsclinical49_016",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q16. 항레트로바이러스 요법의 일반 원칙 및 임신 중 사용에 관한 설명으로 〈옳은 것만〉을 모은 것은? 〈보 기〉 ㄱ. 항레트로바이러스 요법은 적어도 3개 이상의 서로 다른 감수성 유형을 가진 약물을 병용 투여하는 것이 표준이다. ㄴ. 임신 중 사용 가능한 NRTIs에는 Abacavir, Emtricitabine, Lamivudine, Tenofovir disoproxil fumarate, Zidovudine이 포함된다. ㄷ. Lopinavir/Ritonavir는 임산부에게 권장되는 PI 제제 중 하나이다. ㄹ. 항레트로바이러스 요법 시 특정 약물에 대한 바이러스 감수성은 모든 환자에게 동일하고 시간이 지나도 변하지 않는다. ㅁ. Dolutegravir는 임신 첫 3개월 이후에는 임산부 사용에 선호되는 integrase strand inhibitor이다. ㅂ. HIV 감염 임산부의 적절한 항레트로바이러스 요법은 HIV의 산모로부터 신생아로의 수직감염 위험성을 크게 감소시킨다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄷ, ㅁ, ㅂ (ㄹ: 특정 약물에 대한 바이러스 감수성은 환자마다 다르고 시간에 따라 변할 수 있음) 약물 투여 경로·복용 조건 종합"
+        },
+        {
+          "id": "nsclinical49_017",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q17. 아래 〈보기〉의 항바이러스약 투여 조건에 관한 설명으로 〈옳지 않은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Valganciclovir는 음식과 함께 복용이 권장되는 경구 약물이다. ㄴ. Didanosine은 위산에 불안정하므로 공복(식전 30분 또는 식후 2시간)에 복용하는 것이 권장된다. ㄷ. Rilpivirine은 반드시 음식과 함께 복용해야 하며, 양성자 펌프 억제약(PPI)과의 병용은 금기이다. ㄹ. Atazanavir는 흡수를 위해 산성 매체가 필요하므로 위산분비억제약(PPI)과 병용 가능하다. ㅁ. Efavirenz는 고지방식이와 함께 복용하면 흡수율이 높아져 독성이 증가하므로 공복에 복용한다. ㅂ. Entecavir는 음식과 함께 복용 시 흡수가 감소하므로 공복에 복용해야 한다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄴ, ㄹ"
+            },
+            {
+              "label": "②",
+              "text": "ㄹ만"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄷ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄹ, ㅂ"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② ㄹ만 (Atazanavir는 PPI와 병용 금기; PPI는 위산을 억제하여 흡수를 저해) 주요 유해반응·금기 종합"
+        },
+        {
+          "id": "nsclinical49_018",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q18. 아래 〈보기〉에서 약물-특징적 유해반응 연결이 〈옳은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Abacavir – HLA-B*5701 양성 환자에서 과민반응(발열, 발진, 구역, 구토) 발생; 재투약 금기 ㄴ. Zidovudine(AZT) – 대적혈구빈혈, 중성구감소증 ㄷ. Cidofovir – 포도막염(uveitis) 및 안압저하; Probenecid 병용으로 신장독성 경감 ㄹ. Indinavir – QT 간격 연장 및 torsades de pointes; 심한 간기능부전 환자 금기 ㅁ. Tipranavir/ritonavir – 두개 내 출혈 위험성 증가 ㅂ. Ribavirin – 용량의존적 용혈성 빈혈; 기형유발성 있어 임신 중 금기",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ, ㄷ, ㅂ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ, ㄹ, ㅁ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄷ, ㅁ, ㅂ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄴ, ㄹ, ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄷ, ㄹ, ㅁ, ㅂ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄷ, ㅁ, ㅂ (ㄹ: QT 간격 연장은 Saquinavir의 특징적 유해반응; Indinavir의 특징적 유해반응은 신장결석 및 고빌리루빈혈증) 항바이러스약 약물상호작용 종합"
+        },
+        {
+          "id": "nsclinical49_019",
+          "page": null,
+          "source": "Ch.49",
+          "stem": "Ch.49 Q19. 항바이러스약의 약물상호작용에 관한 설명으로 〈옳지 않은 것만〉을 모은 것은? 〈보 기〉 ㄱ. Ritonavir는 CYP3A4의 가장 강력한 억제약으로, 병용 PI 약물의 혈중 농도를 높이는 pharmacokinetic booster로 활용된다. ㄴ. Efavirenz는 CYP3A4의 억제약이면서 동시에 유도약으로 작용하여 복잡한 약물상호작용을 일으킨다. ㄷ. Dolutegravir는 CYP3A4에 의해서만 대사되므로 CYP3A4 유도약(예: rifampin)과 병용하면 Dolutegravir 농도가 감소하여 용량 증가가 필요하다. ㄹ. Maraviroc은 CYP3A4 기질이므로 강력한 CYP3A4 억제약과 병용 시 용량을 줄이고, CYP3A4 유도약과 병용 시 용량을 늘려야 한다. ㅁ. Tenofovir와 Atazanavir는 서로의 혈중 농도를 증가시키는 약물상호작용이 있다. ㅂ. Acyclovir와 Zidovudine을 병용하면 졸림과 무기력증 같은 유해반응이 발생할 수 있다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄷ, ㅁ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄷ만"
+            },
+            {
+              "label": "④",
+              "text": "ㅁ, ㅂ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄹ"
+            }
+          ],
+          "answer": "①",
+          "correctLabels": [
+            "①"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ① ㄷ, ㅁ (ㄷ: Dolutegravir는 UGT1A1에 의해 주로 대사되며 CYP3A4도 부분 관여함; ㅁ: Tenofovir는 Atazanavir의 농도를 감소시키는 상호작용 있음) 임상 적응증 – 약물 선택 종합"
+        },
+        {
+          "id": "nsclinical5253_001",
+          "page": null,
+          "source": "Ch.52",
+          "stem": "Ch.52 Q1. 말라리아 치료약에 관한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Chloroquine은 혈액 내 분열체 치료약으로, Chloroquine 감수성 열원충 감염의 1차 선택약이다."
+            },
+            {
+              "label": "②",
+              "text": "Primaquine은 간 내 분열체 치료약으로, G6PD 결핍 환자에서 용혈성 빈혈을 유발할 수 있어 투약 전 G6PD 결핍 검사가 필요하다."
+            },
+            {
+              "label": "③",
+              "text": "Artemisinin 및 그 유도체는 단독 사용이 권장되며, 다른 말라리아 치료제와의 병용요법은 권장되지 않는다."
+            },
+            {
+              "label": "④",
+              "text": "Quinine/quinidine의 주요 유해반응으로 키니네중독(cinchonism)이 있으며, 두통·구역·이명 등의 증상이 나타난다."
+            },
+            {
+              "label": "⑤",
+              "text": "Mefloquine은 신경정신 독성 및 부정맥이 있을 수 있어 정신과 질환 및 심전도이상 환자에게 금기이다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ 【 해 설 】 ③ Artemisinin 및 그 유도체는 단독 사용을 하지 않고, 다른 말라리아 치료제와의 병용요법이 추천된다. (예: Artemether-lumefantrine, Artesunate-mefloquine 등 복합제로 사용)"
+        },
+        {
+          "id": "nsclinical5253_002",
+          "page": null,
+          "source": "Ch.52",
+          "stem": "Ch.52 Q2. Primaquine에 관한 설명으로 옳은 것을 모두 고른 것은? 〈보 기〉 ㄱ. 모든 종의 말라리아 예방약이자 재발 방지 약물이다. ㄴ. 혈액 내 분열체에 주로 작용하는 약물이다. ㄷ. G6PD 결핍 환자에게 투여 시 용혈성 빈혈이 유발될 수 있다. ㄹ. 간 내 분열체(hypnozoites)를 제거하는 조직 내 분열체 치료약이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄷ, ㄹ 【 해 설 】 ㄴ(오답): Primaquine은 혈액 내 분열체 치료약이 아니라 간 내 분열체 치료약이다. ㄱ, ㄷ, ㄹ 모두 옳다."
+        },
+        {
+          "id": "nsclinical5253_003",
+          "page": null,
+          "source": "Ch.52",
+          "stem": "Ch.52 Q3. Chloroquine에 관한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "임신 중에도 사용 가능한 약물이다."
+            },
+            {
+              "label": "②",
+              "text": "Plasmodium falciparum(열대열원충)에 대해 약제 내성이 있다."
+            },
+            {
+              "label": "③",
+              "text": "고용량 사용 시 안구 독성이 심해질 수 있다."
+            },
+            {
+              "label": "④",
+              "text": "건선, 포르피린증 질환, 망막 또는 시각 질환이 있는 환자에게는 금기이다."
+            },
+            {
+              "label": "⑤",
+              "text": "간 내 분열체(hypnozoites)를 제거하는 것이 주된 작용이다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ⑤ 【 해 설 】 ⑤ Chloroquine은 혈액 내 분열체 치료약이다. 간 내 분열체(hypnozoites) 제거는 Primaquine의 역할이다."
+        },
+        {
+          "id": "nsclinical5253_004",
+          "page": null,
+          "source": "Ch.52",
+          "stem": "Ch.52 Q4. 말라리아 화학예방 약제와 대상 지역의 연결이 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "클로로퀸 – Chloroquine 감수성 지역"
+            },
+            {
+              "label": "②",
+              "text": "메플로퀸 – Chloroquine 내성 지역"
+            },
+            {
+              "label": "③",
+              "text": "아토바쿤-프로구아닐(Malarone) – Mefloquine 내성 지역"
+            },
+            {
+              "label": "④",
+              "text": "독시사이클린 – 여러 약제 내성 지역"
+            },
+            {
+              "label": "⑤",
+              "text": "프리마퀸 – Chloroquine 감수성 지역 전용 예방약"
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ⑤ 【 해 설 】 ⑤ Primaquine은 특정 지역 전용이 아니라 모든 종의 말라리아 예방약이다. 또한 재발 방지 약물로도 사용된다."
+        },
+        {
+          "id": "nsclinical5253_005",
+          "page": null,
+          "source": "Ch.52",
+          "stem": "Ch.52 Q5. 말라리아 치료약 중 임신 중에도 사용 가능한 약물로만 묶인 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Chloroquine, Primaquine"
+            },
+            {
+              "label": "②",
+              "text": "Chloroquine, Quinine"
+            },
+            {
+              "label": "③",
+              "text": "Mefloquine, Primaquine"
+            },
+            {
+              "label": "④",
+              "text": "Primaquine, Artemisinin 유도체"
+            },
+            {
+              "label": "⑤",
+              "text": "Mefloquine, Chloroquine"
+            }
+          ],
+          "answer": "②",
+          "correctLabels": [
+            "②"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ② Chloroquine, Quinine 【 해 설 】 임신 중에도 사용 가능한 약물: Chloroquine, Quinine(quinidine). Primaquine은 G6PD 위험 등으로 임신 중 사용을 피한다. Mefloquine은 중증 합병증 말라리아 치료에 부적합하며 신경정신 독성이 있다. ▌ Chapter 52 – 아메바증 · 기타 원충"
+        },
+        {
+          "id": "nsclinical5253_006",
+          "page": null,
+          "source": "Ch.52",
+          "stem": "Ch.52 Q6. 아메바증(Amoebiasis) 치료에 관한 설명으로 옳은 것을 모두 고른 것은? 〈보 기〉 ㄱ. 장 내 무증상 감염에는 diloxanide furoate, iodoquinol, paromomycin 중 1가지를 사용한다. ㄴ. Metronidazole은 알코올과 병용 시 disulfiram-like 반응이 나타날 수 있다. ㄷ. 장외 감염(간농양)에는 metronidazole/tinidazole 단독으로 충분하며 luminal agent를 추가할 필요가 없다. ㄹ. 경증~중등도 결장염 치료 시 metronidazole의 유해반응으로 불쾌한 금속성 미각이 나타날 수 있다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄴ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄷ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ ㄱ, ㄴ, ㄹ 【 해 설 】 ㄷ(오답): 장외 감염(간농양)에는 metronidazole/tinidazole 외에 luminal agent(예: diloxanide, iodoquinol 등) 1가지를 반드시 병용한다. 간농양의 경우 배농 후 metronidazole과 chloroquine을 병용하기도 한다."
+        },
+        {
+          "id": "nsclinical5253_007",
+          "page": null,
+          "source": "Ch.52",
+          "stem": "Ch.52 Q7. 기타 원충성 질환과 치료약의 연결로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "리슈만편모충증(Leishmaniasis) – Antimony gluconate(stibogluconate)"
+            },
+            {
+              "label": "②",
+              "text": "샤가스병(Chagas disease) – Nifurtimox, Benzimidazole"
+            },
+            {
+              "label": "③",
+              "text": "아프리카 수면병(초기 치료) – Pentamidine, Suramin"
+            },
+            {
+              "label": "④",
+              "text": "장 내 무증상 아메바 감염 – Metronidazole"
+            },
+            {
+              "label": "⑤",
+              "text": "리슈만편모충증 대체약물 – Pentamidine, Paromomycin"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ④ 【 해 설 】 ④ 장 내 무증상 아메바 감염에는 diloxanide furoate, iodoquinol, paromomycin 중 1가지를 사용한다. Metronidazole은 경증~중등도 결장염(이질) 또는 장외 감염 치료에 사용하는 약물이다. ▌ Chapter 53 – 구충약"
+        },
+        {
+          "id": "nsclinical5253_008",
+          "page": null,
+          "source": "Ch.53",
+          "stem": "Ch.53 Q8. 선충류(회충·요충·십이지장충 등) 감염 치료약에 관한 설명으로 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Albendazole, Mebendazole, Flubendazole이 대표적인 치료약이다."
+            },
+            {
+              "label": "②",
+              "text": "이 약물들은 기생충의 미세 단백질에 결합하여 기생충 내로 포도당이 흡수되는 것을 억제한다."
+            },
+            {
+              "label": "③",
+              "text": "숙주인 사람의 위장관에서 흡수가 되지 않으므로 인체에 영향을 주지 않는다."
+            },
+            {
+              "label": "④",
+              "text": "선충류 감염 치료약은 OTC(일반의약품)으로 구입이 가능하다."
+            },
+            {
+              "label": "⑤",
+              "text": "Praziquantel은 선충류 감염에 1차 선택약으로 사용된다."
+            }
+          ],
+          "answer": "⑤",
+          "correctLabels": [
+            "⑤"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ⑤ 【 해 설 】 ⑤ Praziquantel은 선충류가 아닌 조충 및 흡충류 감염의 1차 선택약이다. 선충류(회충·요충 등) 치료에는 Albendazole, Mebendazole, Flubendazole을 사용한다."
+        },
+        {
+          "id": "nsclinical5253_009",
+          "page": null,
+          "source": "Ch.53",
+          "stem": "Ch.53 Q9. 기생충 종류와 주요 감염 경로 및 치료약의 연결이 모두 옳은 것은? 〈보 기〉 ㄱ. 선충류(회충, 요충) – 주로 익히지 않은 채소 섭취 – Albendazole(OTC) ㄴ. 조충류(유구조충, 무구조충) – 주로 익히지 않은 소고기·돼지고기 섭취 – Praziquantel(1차) ㄷ. 흡충류(간흡충, 폐흡충) – 주로 익히지 않은 민물고기·어패류 섭취 – Praziquantel(1차) ㄹ. 조충류 감염의 2차 치료약물은 Niclosamide이다.",
+          "choices": [
+            {
+              "label": "①",
+              "text": "ㄱ, ㄴ"
+            },
+            {
+              "label": "②",
+              "text": "ㄴ, ㄷ"
+            },
+            {
+              "label": "③",
+              "text": "ㄱ, ㄷ, ㄹ"
+            },
+            {
+              "label": "④",
+              "text": "ㄱ, ㄴ, ㄷ, ㄹ"
+            },
+            {
+              "label": "⑤",
+              "text": "ㄴ, ㄷ, ㄹ"
+            }
+          ],
+          "answer": "④",
+          "correctLabels": [
+            "④"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ④ ㄱ, ㄴ, ㄷ, ㄹ (모두 옳음) 【 해 설 】 ㄱ~ㄹ 모두 옳은 내용이다. Praziquantel은 조충 및 흡충류 감염 모두에 1차 선택약이며, Niclosamide는 조충 감염의 2차 치료약이다."
+        },
+        {
+          "id": "nsclinical5253_010",
+          "page": null,
+          "source": "Ch.53",
+          "stem": "Ch.53 Q10. 다음 설명 중 옳지 않은 것은?",
+          "choices": [
+            {
+              "label": "①",
+              "text": "Mefloquine은 Chloroquine 저항성 말라리아의 화학예방요법제이나, 중증 및 합병증이 있는 말라리아 환자 치료에는 적합하지 않다."
+            },
+            {
+              "label": "②",
+              "text": "Metronidazole과 와파린을 병용하면 와파린의 효과가 변할 수 있으므로 주의가 필요하다."
+            },
+            {
+              "label": "③",
+              "text": "샤가스병(아메리칸 트리파노소마증)은 체체파리가 매개하고, Nifurtimox와 Benzimidazole로 치료한다."
+            },
+            {
+              "label": "④",
+              "text": "Artesunate-pyronaridine(Pyramax)은 국내 신풍제약에서 개발된 말라리아 복합제이다."
+            },
+            {
+              "label": "⑤",
+              "text": "Doxycycline은 말라리아 치료 시 Quinine과 병용하여 Quinine의 투여 기간을 줄여 독성을 감소시키는 목적으로 사용된다."
+            }
+          ],
+          "answer": "③",
+          "correctLabels": [
+            "③"
+          ],
+          "trueFalse": null,
+          "explanation": "▶ 정답: ③ 【 해 설 】 ③ 샤가스병(아메리칸 트리파노소마증)은 흡혈빈대(트리아토마)가 매개하는 질환이다. 체체파리가 매개하는 것은 아프리카 수면병(아프리칸 트리파노소마증)이다. (Nifurtimox, Benzimidazole로 치료한다는 내용은 옳다.) — 끝 —"
+        }
+      ]
     }
   ]
 };
